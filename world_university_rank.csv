@@ -1,0 +1,2346 @@
+Rank,University name,locationLocation,Number of Studnet,Number of student per staffs,International Student,Female : male ratio
+1,University of Oxford,United Kingdom,20965.00,10.6,42%,48:52:00
+2,Harvard University,United States,21887.00,9.6,25%,50:50:00
+3,University of Cambridge,United Kingdom,20185.00,11.3,39%,47:53:00
+3,Stanford University,United States,16164.00,7.1,24%,46:54:00
+5,Massachusetts Institute of Technology,United States,11415.00,8.2,33%,40 : 60
+6,California Institute of Technology,United States,2237.00,6.2,34%,37 : 63
+7,Princeton University,United States,8279.00,8,23%,46:54:00
+8,"University of California, Berkeley",United States,40921.00,18.4,24%,52:48:00
+9,Yale University,United States,13482.00,5.9,21%,52:48:00
+10,Imperial College London,United Kingdom,18545.00,11.2,61%,40 : 60
+11,Columbia University,United States,21781.00,4.5,38%,n/a
+11,ETH Zurich,Switzerland,21665.00,14.8,41%,33 : 67
+13,The University of Chicago,United States,15366.00,6,36%,47:53:00
+14,University of Pennsylvania,United States,21453.00,6.3,23%,53:47:00
+15,Johns Hopkins University,United States,17584.00,4.7,29%,53:47:00
+16,Tsinghua University,China,38324.00,11.6,10%,n/a
+17,Peking University,China,31994.00,10.3,19%,n/a
+18,University of Toronto,Canada,77468.00,25.8,26%,56:44:00
+19,National University of Singapore,Singapore,32337.00,19.8,25%,51:49:00
+20,Cornell University,United States,24027.00,10.3,26%,51:49:00
+21,"University of California, Los Angeles",United States,42434.00,9.7,16%,56:44:00
+22,UCL,United Kingdom,36790.00,10.3,60%,59:41:00
+23,University of Michigan-Ann Arbor,United States,45912.00,8.2,17%,50:50:00
+24,New York University,United States,36337.00,9.8,42%,57:43:00
+25,Duke University,United States,16091.00,4.2,24%,52:48:00
+26,Northwestern University,United States,19175.00,13.2,20%,51:49:00
+26,University of Washington,United States,47727.00,10.8,18%,55:45:00
+28,Carnegie Mellon University,United States,14305.00,12.9,47%,44:56:00
+29,University of Edinburgh,United Kingdom,32845.00,11.8,47%,62:38:00
+30,Technical University of Munich,Germany,33960.00,40.6,36%,37 : 63
+31,University of Hong Kong,Hong Kong,18087.00,18.2,43%,54:46:00
+32,"University of California, San Diego",United States,37030.00,11.3,28%,48:52:00
+33,LMU Munich,Germany,35003.00,34.2,19%,61:39:00
+34,University of Melbourne,Australia,49588.00,23.8,47%,58:42:00
+35,King’s College London,United Kingdom,28965.00,11.8,52%,63:37:00
+36,"Nanyang Technological University, Singapore",Singapore,24651.00,15.1,25%,48:52:00
+37,London School of Economics and Political Science,United Kingdom,11120.00,11.9,73%,55:45:00
+38,Georgia Institute of Technology,United States,28826.00,24.7,40%,33 : 67
+39,The University of Tokyo,Japan,26112.00,10.5,15%,n/a
+40,University of British Columbia,Canada,56452.00,18.9,34%,55:45:00
+41,École Polytechnique Fédérale de Lausanne,Switzerland,11641.00,12.3,62%,30 : 70
+42,KU Leuven,Belgium,47663.00,36.5,18%,51:49:00
+43,Universität Heidelberg,Germany,19347.00,13.5,21%,55:45:00
+44,Monash University,Australia,58725.00,42.5,41%,57:43:00
+45,Chinese University of Hong Kong,Hong Kong,18468.00,19,21%,n/a
+46,McGill University,Canada,32309.00,12.5,30%,60:40:00
+47,Paris Sciences et Lettres – PSL Research University Paris,France,16218.00,15,22%,51:49:00
+48,University of Illinois at Urbana-Champaign,United States,48674.00,17.4,22%,48:52:00
+49,Karolinska Institute,Sweden,8021.00,9.9,27%,70:30:00
+50,University of Texas at Austin,United States,49171.00,17.4,10%,53:47:00
+51,Fudan University,China,36318.00,11.9,9%,52:48:00
+52,Shanghai Jiao Tong University,China,37478.00,11.5,8%,42:58:00
+53,The University of Queensland,Australia,41372.00,34.2,41%,55:45:00
+54,University of Manchester,United Kingdom,37035.00,14.2,44%,55:45:00
+54,The University of Sydney,Australia,45853.00,19,45%,58:42:00
+56,Seoul National University,South Korea,26209.00,15.1,10%,n/a
+57,Washington University in St Louis,United States,14420.00,7.8,24%,53:47:00
+58,The Hong Kong University of Science and Technology,Hong Kong,9864.00,21,32%,n/a
+59,Wageningen University & Research,Netherlands,15404.00,18.6,27%,55:45:00
+60,University of Amsterdam,Netherlands,29157.00,14.5,32%,59:41:00
+61,Brown University,United States,10037.00,10.1,21%,n/a
+62,Australian National University,Australia,16758.00,14.6,51%,52:48:00
+63,"University of California, Davis",United States,37639.00,13.1,18%,60:40:00
+64,"University of California, Santa Barbara",United States,25860.00,28.5,20%,54:46:00
+65,University of Southern California,United States,40549.00,12.6,22%,49:51:00
+66,Utrecht University,Netherlands,32532.00,17.1,13%,62:38:00
+67,Zhejiang University,China,46124.00,12,16%,n/a
+68,Kyoto University,Japan,22269.00,9.2,12%,25 : 75
+69,University of North Carolina at Chapel Hill,United States,31080.00,7.9,8%,59:41:00
+70,Delft University of Technology,Netherlands,20299.00,16.1,31%,31 : 69
+71,Boston University,United States,27243.00,10.8,31%,59:41:00
+71,UNSW Sydney,Australia,45133.00,36.3,40%,47:53:00
+73,Charité - Universitätsmedizin Berlin,Germany,8429.00,18,21%,64:36:00
+74,University of Science and Technology of China,China,18573.00,8.1,6%,n/a
+75,University of Groningen,Netherlands,30009.00,24.4,28%,52:48:00
+76,University of Bristol,United Kingdom,25680.00,14.6,31%,56:44:00
+77,Leiden University,Netherlands,33648.00,19.3,20%,60:40:00
+78,Yonsei University (Seoul campus),South Korea,19481.00,14.7,17%,50:50:00
+79,Hong Kong Polytechnic University,Hong Kong,19046.00,28.9,30%,51:49:00
+80,Erasmus University Rotterdam,Netherlands,31668.00,33.9,22%,53:47:00
+81,University of Wisconsin-Madison,United States,40701.00,10,14%,n/a
+82,Emory University,United States,13190.00,4.2,20%,60:40:00
+82,University of Glasgow,United Kingdom,28540.00,13.5,41%,59:41:00
+82,University of Zurich,Switzerland,25003.00,13.7,22%,56:44:00
+85,McMaster University,Canada,26403.00,29,20%,56:44:00
+86,Humboldt University of Berlin,Germany,34399.00,53.2,17%,n/a
+86,University of Tübingen,Germany,20620.00,27.5,13%,59:41:00
+88,University of Adelaide,Australia,23102.00,32.8,32%,49:51:00
+89,University of Bonn,Germany,27210.00,47.5,17%,56:44:00
+90,Sorbonne University,France,41443.00,13.9,21%,59:41:00
+91,Free University of Berlin,Germany,26497.00,41.9,23%,62:38:00
+91,Korea Advanced Institute of Science and Technology (KAIST),South Korea,9946.00,10.7,9%,0.929861111
+93,Université Paris-Saclay,France,44443.00,14.9,19%,49:51:00
+94,University of Bern,Switzerland,11728.00,17.2,17%,58:42:00
+95,"University of California, Irvine",United States,36655.00,16.9,28%,52:48:00
+95,Institut Polytechnique de Paris,France,5999.00,6.7,41%,24 : 76
+95,Nanjing University,China,36426.00,16.5,8%,54:46:00
+98,Vanderbilt University,United States,12696.00,3.8,15%,55:45:00
+99,City University of Hong Kong,Hong Kong,9099.00,12.1,62%,54:46:00
+99,RWTH Aachen University,Germany,39738.00,50,28%,33 : 67
+101,University of Basel,Switzerland,8632.00,10.9,30%,57:43:00
+101,King Abdulaziz University,Saudi Arabia,31545.00,7.8,22%,54:46:00
+101,University of Minnesota,United States,61009.00,12,10%,54:46:00
+104,"University of Maryland, College Park",United States,33775.00,16.5,11%,49:51:00
+104,University of Warwick,United Kingdom,23230.00,13.1,44%,50:50:00
+106,Michigan State University,United States,45465.00,16,13%,52:48:00
+107,Ghent University,Belgium,39437.00,35.6,12%,57:43:00
+108,University of Birmingham,United Kingdom,31820.00,15,34%,58:42:00
+108,University of Southampton,United Kingdom,21175.00,13.7,39%,53:47:00
+110,University of Helsinki,Finland,23059.00,15.8,5%,67:33:00
+111,University of Montreal,Canada,38189.00,20.8,22%,n/a
+112,Ohio State University (Main campus),United States,55814.00,11.8,13%,51:49:00
+113,University of Freiburg,Germany,20253.00,37.2,17%,53:47:00
+114,University of Copenhagen,Denmark,31519.00,4.2,16%,62:38:00
+114,Université Paris Cité,France,62747.00,17,19%,65:35:00
+114,University of Sheffield,United Kingdom,27465.00,14.5,41%,53:47:00
+117,Aarhus University,Denmark,26475.00,13.5,10%,55:45:00
+118,University of Alberta,Canada,32338.00,21.6,28%,n/a
+119,University of Göttingen,Germany,30221.00,26,14%,52:48:00
+119,Lund University,Sweden,28545.00,11.5,18%,55:45:00
+121,Vrije Universiteit Amsterdam,Netherlands,29796.00,19.8,16%,56:44:00
+122,Lancaster University,United Kingdom,14380.00,12.8,39%,51:49:00
+123,Dartmouth College,United States,6440.00,7.8,15%,49:51:00
+124,Queen Mary University of London,United Kingdom,20505.00,13.1,46%,55:45:00
+124,University of Vienna,Austria,35929.00,42.9,29%,66:34:00
+126,University of Oslo,Norway,21548.00,13.3,15%,66:34:00
+127,Purdue University West Lafayette,United States,44551.00,16.9,20%,44:56:00
+128,University of Hamburg,Germany,30676.00,61.5,12%,58:42:00
+128,University of Leeds,United Kingdom,33990.00,14.6,36%,60:40:00
+130,University of Nottingham,United Kingdom,32875.00,15.1,31%,54:46:00
+131,University of Antwerp,Belgium,15857.00,32.2,17%,56:44:00
+131,The University of Western Australia,Australia,18405.00,21.3,28%,49:51:00
+133,University of Technology Sydney,Australia,27481.00,35.1,31%,50:50:00
+134,Case Western Reserve University,United States,10934.00,8.2,20%,51:49:00
+135,University of Lausanne,Switzerland,13401.00,10.2,23%,n/a
+136,Georgetown University,United States,16074.00,8,19%,54:46:00
+137,University of Exeter,United Kingdom,24165.00,15.9,29%,53:47:00
+137,University of Ottawa,Canada,36670.00,26,24%,58:42:00
+139,University of Auckland,New Zealand,33093.00,22.1,32%,56:44:00
+139,Newcastle University,United Kingdom,25590.00,15.1,29%,52:48:00
+139,Radboud University Nijmegen,Netherlands,21979.00,17.6,13%,56:44:00
+139,University of Würzburg,Germany,23754.00,40.7,10%,58:42:00
+139,University of York,United Kingdom,17665.00,14.4,28%,56:44:00
+144,University of Pittsburgh-Pittsburgh campus,United States,26575.00,5.5,11%,55:45:00
+145,Maastricht University,Netherlands,19909.00,18.6,56%,60:40:00
+146,University of Cologne,Germany,33341.00,30.4,16%,n/a
+147,Rice University,United States,7068.00,9.2,28%,43:57:00
+148,University of Colorado Boulder,United States,34928.00,16,8%,45:55:00
+148,Ulm University,Germany,10271.00,26.2,13%,51:49:00
+148,Uppsala University,Sweden,25548.00,15.3,17%,62:38:00
+151,University of Florida,United States,46807.00,16.1,8%,56:44:00
+151,Penn State (Main campus),United States,46863.00,14,16%,47:53:00
+151,Tufts University,United States,11399.00,10,16%,56:44:00
+154,University of Rochester,United States,10364.00,7.7,36%,50:50:00
+155,KTH Royal Institute of Technology,Sweden,13329.00,16.4,20%,34 : 66
+156,Arizona State University (Tempe),United States,50027.00,19.6,17%,45:55:00
+156,Technical University of Berlin,Germany,20243.00,48.1,27%,35 : 65
+156,TU Dresden,Germany,30382.00,30.8,16%,45:55:00
+156,University of Virginia (Main campus),United States,25810.00,9,13%,53:47:00
+160,University of Cape Town,South Africa,21069.00,12.8,15%,54:46:00
+161,University of Bologna,Italy,69831.00,24.4,12%,56:44:00
+161,Trinity College Dublin,Ireland,17764.00,21,28%,60:40:00
+163,University of Leicester,United Kingdom,14650.00,14.1,34%,54:46:00
+163,Lomonosov Moscow State University,,32625.00,10,36%,50:50:00
+163,Pohang University of Science and Technology (POSTECH),South Korea,3260.00,10,3%,n/a
+166,Southern University of Science and Technology (SUSTech),China,5137.00,8.8,1%,n/a
+166,Technical University of Denmark,Denmark,9599.00,6.9,26%,32 : 68
+168,Medical University of Graz,Austria,3722.00,14.1,27%,53:47:00
+168,"Northeastern University, US",United States,21211.00,14.6,36%,48:52:00
+170,Indiana University,United States,66637.00,12.6,13%,53:47:00
+170,Université Catholique de Louvain,Belgium,24523.00,36,20%,54:46:00
+170,Sungkyunkwan University (SKKU),South Korea,23399.00,19.4,18%,n/a
+173,Wuhan University,China,55412.00,15.2,6%,n/a
+174,Ulsan National Institute of Science and Technology (UNIST),South Korea,3896.00,13.6,9%,27 : 73
+175,Macquarie University,Australia,30561.00,69,27%,52:48:00
+176,Huazhong University of Science and Technology,China,57167.00,16.2,4%,n/a
+176,University of Liverpool,United Kingdom,26350.00,14.2,36%,55:45:00
+176,Stockholm University,Sweden,30365.00,20.7,7%,n/a
+179,University of Mannheim,Germany,7684.00,58.2,13%,n/a
+180,University of Arizona,United States,39797.00,17,9%,54:46:00
+181,Texas A&M University,United States,62931.00,21.3,8%,47:53:00
+182,University of Barcelona,Spain,45004.00,15.8,11%,63:37:00
+183,Autonomous University of Barcelona,Spain,31933.00,12.7,16%,60:40:00
+183,Scuola Normale Superiore di Pisa,Italy,629.00,7.6,13%,28 : 72
+185,University of Münster,Germany,28014.00,25.4,7%,n/a
+186,Pompeu Fabra University,Spain,11965.00,22.4,13%,60:40:00
+187,Cardiff University,United Kingdom,27105.00,14.3,28%,59:41:00
+187,National Taiwan University (NTU),Taiwan,25215.00,11.4,11%,42:58:00
+189,Friedrich Schiller University Jena,Germany,16446.00,20.6,14%,n/a
+189,Karlsruhe Institute of Technology,Germany,22673.00,21.6,20%,29 : 71
+191,University of Massachusetts,United States,63338.00,13.2,14%,49:51:00
+192,University of Aberdeen,United Kingdom,13205.00,16.2,44%,58:42:00
+192,"University of California, Santa Cruz",United States,19266.00,22.6,14%,47:53:00
+194,Medical University of Vienna,Austria,7274.00,8.4,33%,50:50:00
+194,University of Miami,United States,17009.00,10.8,16%,53:47:00
+196,University of Erlangen-Nuremberg,Germany,30303.00,43.4,13%,51:49:00
+196,Sichuan University,China,49543.00,15.8,6%,n/a
+198,Durham University,United Kingdom,18425.00,14.1,35%,54:46:00
+198,Queen’s University Belfast,United Kingdom,19060.00,15.8,39%,57:43:00
+198,University of Reading,United Kingdom,15720.00,16.4,32%,56:44:00
+201–250,Aalto University,Finland,13306.00,19.7,21%,38 : 62
+201–250,University of Bergen,Norway,15202.00,12.8,10%,60:40:00
+201–250,Bielefeld University,Germany,24875.00,66.6,7%,58:42:00
+201–250,University of Calgary,Canada,33560.00,18.7,21%,54:46:00
+201–250,Curtin University,Australia,29999.00,20.8,31%,52:48:00
+201–250,University of Dundee,United Kingdom,13630.00,18.3,27%,64:36:00
+201–250,University of East Anglia,United Kingdom,15940.00,13.3,25%,58:42:00
+201–250,Eindhoven University of Technology,Netherlands,10240.00,21,24%,n/a
+201–250,University of Geneva,Switzerland,19078.00,8.7,40%,62:38:00
+201–250,George Washington University,United States,22298.00,12.9,15%,62:38:00
+201–250,University of Gothenburg,Sweden,20891.00,10.7,12%,n/a
+201–250,University of Hohenheim,Germany,8714.00,39.7,14%,58:42:00
+201–250,Humanitas University,Italy,1823.00,19,18%,59:41:00
+201–250,King Fahd University of Petroleum and Minerals,Saudi Arabia,7268.00,8.6,10%,0.151388889
+201–250,University of Konstanz,Germany,5758.00,24.2,12%,60:40:00
+201–250,Korea University,South Korea,22507.00,15.8,27%,n/a
+201–250,Université Libre de Bruxelles,Belgium,28290.00,49.3,31%,57:43:00
+201–250,University of Luxembourg,Luxembourg,5185.00,19.3,51%,53:47:00
+201–250,University of Macau,Macao,10460.00,15.4,39%,55:45:00
+201–250,Macau University of Science and Technology,Macao,11993.00,38.1,91%,57:43:00
+201–250,Medical University of Innsbruck,Austria,3244.00,12.9,43%,54:46:00
+201–250,Moscow Institute of Physics and Technology (MIPT),,6083.00,11.5,20%,n/a
+201–250,University of Newcastle,Australia,24363.00,29.5,18%,57:43:00
+201–250,University of Notre Dame,United States,12401.00,10.9,13%,46:54:00
+201–250,University of Padua,Italy,48524.00,29.3,8%,55:45:00
+201–250,University of Potsdam,Germany,14993.00,39.6,14%,57:43:00
+201–250,Qatar University,Qatar,9084.00,8.8,35%,77:23:00
+201–250,Queensland University of Technology,Australia,35278.00,37.9,17%,53:47:00
+201–250,RCSI University of Medicine and Health Sciences,Ireland,2563.00,24.2,70%,n/a
+201–250,Rutgers University – New Brunswick,United States,46158.00,10.9,17%,53:47:00
+201–250,"St George’s, University of London",United Kingdom,3490.00,13.2,20%,64:36:00
+201–250,Sant’Anna School of Advanced Studies – Pisa,Italy,1100.00,14,19%,41:59:00
+201–250,University of São Paulo,Brazil,82010.00,15.9,4%,47:53:00
+201–250,Sapienza University of Rome,Italy,72604.00,28.2,10%,60:40:00
+201–250,Semmelweis University,Hungary,9860.00,12.2,34%,69:31:00
+201–250,University of South Florida,United States,39907.00,18.6,13%,n/a
+201–250,University of St Andrews,United Kingdom,9770.00,12.3,47%,59:41:00
+201–250,University of Surrey,United Kingdom,14960.00,16.9,36%,53:47:00
+201–250,University of Sussex,United Kingdom,17790.00,17.4,37%,55:45:00
+201–250,Università della Svizzera italiana,Switzerland,3266.00,12.5,66%,47:53:00
+201–250,University of Tartu,Estonia,9235.00,12,13%,68:32:00
+201–250,Tel Aviv University,Israel,23834.00,23,7%,57:43:00
+201–250,Tohoku University,Japan,17812.00,12.4,14%,28 : 72
+201–250,University College Dublin,Ireland,23361.00,21.3,31%,n/a
+201–250,Vita-Salute San Raffaele University,Italy,3560.00,15.1,5%,61:39:00
+201–250,Vrije Universiteit Brussel,Belgium,14284.00,33.6,23%,57:43:00
+201–250,University of Waterloo,Canada,34306.00,23.2,23%,48:52:00
+201–250,Western University,Canada,29747.00,29.5,22%,56:44:00
+201–250,Western Sydney University,Australia,36033.00,40.3,22%,58:42:00
+201–250,University of Wollongong,Australia,17440.00,29.1,27%,54:46:00
+251–300,Aalborg University,Denmark,16818.00,14.7,14%,n/a
+251–300,Auckland University of Technology,New Zealand,18837.00,17.3,49%,59:41:00
+251–300,Australian Catholic University,Australia,23728.00,39.1,15%,75:25:00
+251–300,University of Bath,United Kingdom,14955.00,15.4,34%,46:54:00
+251–300,Beijing Normal University,China,24416.00,14.3,10%,n/a
+251–300,Bond University,Australia,3214.00,10.9,39%,54:46:00
+251–300,Boston College,United States,12755.00,14.5,12%,54:46:00
+251–300,Bournemouth University,United Kingdom,13825.00,18.6,21%,53:47:00
+251–300,Brighton and Sussex Medical School,United Kingdom,1015.00,20.3,17%,60:40:00
+251–300,"University of California, Riverside",United States,24515.00,18.6,14%,53:47:00
+251–300,University of Canberra,Australia,10785.00,35.5,26%,n/a
+251–300,Chalmers University of Technology,Sweden,9513.00,13.8,19%,32 : 68
+251–300,"China Medical University, Taiwan",Taiwan,7284.00,15.5,9%,56:44:00
+251–300,Copenhagen Business School,Denmark,16547.00,27.7,24%,48:52:00
+251–300,Deakin University,Australia,43080.00,33.9,25%,58:42:00
+251–300,University of Duisburg-Essen,Germany,41618.00,43.7,19%,49:51:00
+251–300,Heinrich Heine University Düsseldorf,Germany,29365.00,32.8,12%,58:42:00
+251–300,École des Ponts ParisTech,France,1959.00,10,37%,32 : 68
+251–300,Goethe University Frankfurt,Germany,30082.00,12.7,14%,58:42:00
+251–300,Griffith University,Australia,35900.00,32.9,17%,59:41:00
+251–300,University of Hawai’i at Mānoa,United States,14628.00,10.7,11%,56:44:00
+251–300,Hebrew University of Jerusalem,Israel,16175.00,11.3,5%,57:43:00
+251–300,University of Illinois Chicago,United States,28724.00,11.3,19%,54:46:00
+251–300,Indian Institute of Science,India,3990.00,8.8,1%,27 : 73
+251–300,Johannes Gutenberg University of Mainz,Germany,30856.00,25.5,12%,59:41:00
+251–300,University of Kiel,Germany,27911.00,22.7,9%,53:47:00
+251–300,King Saud University,Saudi Arabia,33931.00,10.6,14%,44:56:00
+251–300,Kyung Hee University,South Korea,20504.00,17.7,27%,55:45:00
+251–300,La Trobe University,Australia,21663.00,27.4,33%,63:37:00
+251–300,Université Laval,Canada,28611.00,16.9,15%,58:42:00
+251–300,Linköping University,Sweden,15026.00,14.4,15%,52:48:00
+251–300,University of Navarra,Spain,11466.00,14.7,27%,54:46:00
+251–300,Oregon Health and Science University,United States,3035.00,1,3%,67:33:00
+251–300,Osaka University,Japan,22485.00,10.5,10%,33 : 67
+251–300,University of Pavia,Italy,20027.00,34.9,10%,57:43:00
+251–300,Queen’s University,Canada,26556.00,26.2,17%,59:41:00
+251–300,Ruhr University Bochum,Germany,38441.00,48.5,15%,50:50:00
+251–300,Sejong University,South Korea,12356.00,20.8,13%,48:52:00
+251–300,University of Sharjah,United Arab Emirates,12933.00,19.2,55%,67:33:00
+251–300,Simon Fraser University,Canada,26981.00,27.5,31%,54:46:00
+251–300,University of Southern Denmark,Denmark,18471.00,10.2,14%,53:47:00
+251–300,Stellenbosch University,South Africa,24907.00,25.9,8%,56:44:00
+251–300,Sun Yat-sen University,China,57951.00,15.1,5%,49:51:00
+251–300,Swansea University,United Kingdom,17490.00,15.4,22%,47:53:00
+251–300,Tilburg University,Netherlands,11876.00,29.9,20%,51:49:00
+251–300,Tongji University,China,30153.00,10.8,12%,46:54:00
+251–300,University of Twente,Netherlands,9816.00,14.7,37%,37 : 63
+251–300,United Arab Emirates University,United Arab Emirates,7121.00,10.9,17%,80:20:00
+251–300,University of Utah,United States,30967.00,13.6,8%,48:52:00
+251–300,Virginia Polytechnic Institute and State University,United States,36512.00,18.5,14%,43:57:00
+251–300,University of the Witwatersrand,South Africa,26871.00,23.6,7%,56:44:00
+301–350,Abu Dhabi University,United Arab Emirates,3926.00,18.1,60%,51:49:00
+301–350,Aix-Marseille University,France,70054.00,17.4,13%,60:40:00
+301–350,Alfaisal University,Saudi Arabia,2851.00,10.2,32%,59:41:00
+301–350,Anglia Ruskin University (ARU),United Kingdom,20285.00,27.8,46%,64:36:00
+301–350,Autonomous University of Madrid,Spain,29327.00,13.2,12%,61:39:00
+301–350,University of Bordeaux,France,53755.00,22.4,13%,59:41:00
+301–350,Brandeis University,United States,5427.00,13.1,28%,59:41:00
+301–350,Universiti Brunei Darussalam,Brunei Darussalam,3641.00,10.8,14%,66:34:00
+301–350,University at Buffalo,United States,27393.00,18,15%,45:55:00
+301–350,"University of California, Merced",United States,9185.00,20.1,10%,52:48:00
+301–350,University of Colorado Denver/Anschutz Medical Campus,United States,17224.00,3.8,8%,57:43:00
+301–350,Dalhousie University,Canada,16901.00,14.8,28%,55:45:00
+301–350,Drexel University,United States,19304.00,12.5,14%,51:49:00
+301–350,École Normale Supérieure de Lyon,France,2171.00,8.6,11%,47:53:00
+301–350,University of Essex,United Kingdom,14335.00,15.3,40%,54:46:00
+301–350,Flinders University,Australia,17027.00,27.9,36%,65:35:00
+301–350,Florida State University,United States,39380.00,24,7%,57:43:00
+301–350,University of Galway,Ireland,15109.00,26.1,20%,60:40:00
+301–350,George Mason University,United States,32157.00,18.1,12%,53:47:00
+301–350,Hasselt University,Belgium,5683.00,31.1,14%,49:51:00
+301–350,University of Iowa,United States,29257.00,11.1,8%,54:46:00
+301–350,Lappeenranta-Lahti University of Technology LUT,Finland,4609.00,30.3,12%,33 : 67
+301–350,University of Milan,Italy,47512.00,21.2,7%,60:40:00
+301–350,University of Milan-Bicocca,Italy,29057.00,29.2,5%,62:38:00
+301–350,Montpellier University,France,40179.00,20.1,15%,54:46:00
+301–350,Nagoya University,Japan,15224.00,12.8,12%,30 : 70
+301–350,Nankai University,China,31322.00,11.3,5%,n/a
+301–350,University of Otago,New Zealand,18508.00,19.7,19%,60:40:00
+301–350,University of Oulu,Finland,10134.00,19.8,7%,54:46:00
+301–350,Peter the Great St Petersburg Polytechnic University,,16375.00,9.7,32%,41:59:00
+301–350,Politecnico di Milano,Italy,37532.00,25.4,18%,n/a
+301–350,Reykjavík University,Iceland,2757.00,22.9,8%,47:53:00
+301–350,RMIT University,Australia,32692.00,23.6,34%,48:52:00
+301–350,University of St Gallen,Switzerland,8065.00,12.2,34%,35 : 65
+301–350,Saint Louis University,United States,10798.00,7.4,7%,60:40:00
+301–350,University of South Australia,Australia,23490.00,32.9,21%,58:42:00
+301–350,University of Southern Queensland,Australia,12150.00,26,18%,62:38:00
+301–350,Stony Brook University,United States,25411.00,10.6,22%,52:48:00
+301–350,University of Stuttgart,Germany,16054.00,26.5,19%,34 : 66
+301–350,Swinburne University of Technology,Australia,15327.00,25.6,25%,38 : 62
+301–350,Taipei Medical University,Taiwan,5946.00,9.1,10%,58:42:00
+301–350,Tampere University,Finland,15855.00,20.6,6%,54:46:00
+301–350,University of Tasmania,Australia,18264.00,22.9,36%,60:40:00
+301–350,Technical University of Darmstadt,Germany,15526.00,37.1,18%,34 : 66
+301–350,Temple University,United States,35641.00,12.5,8%,54:46:00
+301–350,The University of Tennessee-Knoxville,United States,27308.00,16.7,4%,n/a
+301–350,Tokyo Institute of Technology,Japan,9878.00,9.5,17%,0.725
+301–350,University College Cork,Ireland,17925.00,20.8,20%,59:41:00
+301–350,University of Victoria,Canada,20936.00,24.6,21%,55:45:00
+351–400,American University of Beirut,Lebanon,9267.00,8.7,22%,51:49:00
+351–400,"Asia University, Taiwan",Taiwan,11421.00,30.3,7%,62:38:00
+351–400,Ateneo de Manila University,Philippines,13159.00,10,4%,51:49:00
+351–400,"Birkbeck, University of London",United Kingdom,8060.00,16.6,40%,56:44:00
+351–400,University of Bremen,Germany,12635.00,20.1,14%,53:47:00
+351–400,University of Brescia,Italy,15133.00,24.6,7%,46:54:00
+351–400,University of Cape Coast,Ghana,28451.00,35.5,0%,33 : 67
+351–400,Catholic University of Portugal,Portugal,11213.00,22.2,21%,63:37:00
+351–400,Central South University,China,56344.00,20.4,4%,n/a
+351–400,Charles Darwin University,Australia,7246.00,34.5,30%,69:31:00
+351–400,"City, University of London",United Kingdom,15460.00,18.2,51%,57:43:00
+351–400,University of Delaware,United States,21808.00,16.3,12%,57:43:00
+351–400,East China Normal University,China,28055.00,14.7,11%,64:36:00
+351–400,Edith Cowan University,Australia,18759.00,30.4,28%,60:40:00
+351–400,Golestan University of Medical Sciences,Iran,3721.00,11.5,11%,60:40:00
+351–400,University of Greifswald,Germany,10291.00,20.6,8%,58:42:00
+351–400,University of Hail,Saudi Arabia,19366.00,11.2,10%,63:37:00
+351–400,Harbin Institute of Technology,China,30542.00,10.5,6%,n/a
+351–400,Howard University,United States,8782.00,8.2,6%,70:30:00
+351–400,Imam Mohammad Ibn Saud Islamic University,Saudi Arabia,43110.00,10.8,3%,39 : 61
+351–400,IMT Atlantique,France,1436.00,7.7,33%,25 : 75
+351–400,James Cook University,Australia,12825.00,20.1,32%,62:38:00
+351–400,JSS Academy of Higher Education and Research,India,7891.00,9.5,7%,54:46:00
+351–400,University of Kent,United Kingdom,16705.00,17,29%,54:46:00
+351–400,Khalifa University,United Arab Emirates,3029.00,8.8,22%,58:42:00
+351–400,Kurdistan University of Medical Sciences,Iran,3181.00,10.5,2%,49:51:00
+351–400,Leuphana University of Lüneburg,Germany,7839.00,26.1,7%,62:38:00
+351–400,University of Liège,Belgium,21910.00,26.8,21%,58:42:00
+351–400,Loughborough University,United Kingdom,15815.00,13.8,29%,41:59:00
+351–400,University of Malaya,Malaysia,18320.00,9.8,18%,58:42:00
+351–400,University of Manitoba,Canada,29561.00,29.4,20%,54:46:00
+351–400,Mazandaran University of Medical Sciences,Iran,7845.00,15.1,1%,57:43:00
+351–400,University of Naples Federico II,Italy,53319.00,20.2,2%,55:45:00
+351–400,University of New Mexico (Main campus),United States,18046.00,16.9,5%,56:44:00
+351–400,North Carolina State University,United States,31540.00,16.6,14%,48:52:00
+351–400,University of Rome II – Tor Vergata,Italy,24038.00,30.3,20%,56:44:00
+351–400,"Royal Holloway, University of London",United Kingdom,10640.00,15.1,35%,57:43:00
+351–400,Royal Veterinary College,United Kingdom,2250.00,10.5,30%,80:20:00
+351–400,Rush University,United States,2757.00,2.1,1%,76:24:00
+351–400,Shoolini University of Biotechnology and Management Sciences,India,2973.00,14.3,2%,45:55:00
+351–400,University of Stirling,United Kingdom,9855.00,16,27%,64:36:00
+351–400,Swedish University of Agricultural Sciences,Sweden,4216.00,4.6,7%,70:30:00
+351–400,University of Texas at Dallas,United States,25464.00,21.6,20%,43:57:00
+351–400,Tulane University,United States,11220.00,7.5,11%,58:42:00
+351–400,University of Turku,Finland,13012.00,15.3,5%,64:36:00
+351–400,University of Vaasa,Finland,3873.00,20,4%,53:47:00
+351–400,Verona University,Italy,18621.00,23.8,4%,64:36:00
+351–400,Wake Forest University,United States,8122.00,4,10%,54:46:00
+351–400,Washington State University,United States,29463.00,19.5,7%,54:46:00
+351–400,Wroclaw Medical University,Poland,6769.00,9.4,14%,71:29:00
+401–500,Alagappa University,India,4831.00,15.7,0%,63:37:00
+401–500,University of Alaska Fairbanks,United States,2910.00,7.2,6%,53:47:00
+401–500,Arak University of Medical Sciences,Iran,3500.00,7.4,1%,56:44:00
+401–500,Aston University,United Kingdom,12015.00,17.8,25%,48:52:00
+401–500,Aswan University,Egypt,31877.00,46.7,2%,55:45:00
+401–500,Babol University of Medical Sciences,Iran,4102.00,11.8,0%,58:42:00
+401–500,Babol Noshirvani University of Technology,Iran,6180.00,28.7,0%,33 : 67
+401–500,Bangor University,United Kingdom,8790.00,15.7,26%,61:39:00
+401–500,University of Bayreuth,Germany,9734.00,26.6,12%,47:53:00
+401–500,Brunel University London,United Kingdom,13040.00,17,39%,47:53:00
+401–500,University of Campinas,Brazil,31199.00,17.8,3%,46:54:00
+401–500,Cankaya University,Turkey,7113.00,25.4,1%,46:54:00
+401–500,University of Catania,Italy,26902.00,21.2,3%,58:42:00
+401–500,Claude Bernard University Lyon 1,France,28253.00,13,14%,54:46:00
+401–500,Colorado School of Mines,United States,6350.00,17.6,9%,31 : 69
+401–500,"Colorado State University, Fort Collins",United States,29351.00,17.7,6%,55:45:00
+401–500,Complutense University of Madrid,Spain,61128.00,20.3,12%,62:38:00
+401–500,University of Connecticut,United States,27752.00,13.6,12%,52:48:00
+401–500,University of Crete,Greece,13808.00,27.6,4%,63:37:00
+401–500,University of Cyprus,Cyprus,6875.00,20.1,13%,60:40:00
+401–500,University of Denver,United States,10001.00,13,6%,60:40:00
+401–500,Dublin City University,Ireland,13956.00,25.4,17%,59:41:00
+401–500,Duy Tan University,Vietnam,21670.00,21.9,0%,62:38:00
+401–500,Edinburgh Napier University,United Kingdom,11535.00,20.4,35%,53:47:00
+401–500,University of Electronic Science and Technology of China,China,35232.00,15.4,3%,30 : 70
+401–500,Ferhat Abbas Sétif University 1,Algeria,34637.00,22.7,1%,63:37:00
+401–500,University of Ferrara,Italy,20507.00,32.6,5%,61:39:00
+401–500,University of Florence,Italy,39407.00,23,9%,56:44:00
+401–500,Free University of Bozen-Bolzano,Italy,4236.00,12.6,15%,68:32:00
+401–500,University of Genoa,Italy,20447.00,23.7,8%,57:43:00
+401–500,Georgia State University,United States,34734.00,17.3,5%,58:42:00
+401–500,Université Grenoble Alpes,France,50868.00,18.2,17%,52:48:00
+401–500,Hanyang University,South Korea,20079.00,14.6,20%,n/a
+401–500,HSE University,,32102.00,17.5,11%,n/a
+401–500,Hunan University,China,41580.00,18.6,2%,47:53:00
+401–500,University of Ibadan,Nigeria,26156.00,17.6,0%,49:51:00
+401–500,Illinois Institute of Technology,United States,6386.00,11.5,41%,37 : 63
+401–500,University of Innsbruck,Austria,13918.00,22,46%,53:47:00
+401–500,Institut Agro,France,2148.00,11.5,16%,65:35:00
+401–500,University of International Business and Economics,China,16061.00,15.7,15%,69:31:00
+401–500,Iowa State University,United States,28767.00,16.7,10%,44:56:00
+401–500,Jazan University,Saudi Arabia,26568.00,13,3%,64:36:00
+401–500,Justus Liebig University Giessen,Germany,28278.00,44.6,11%,63:37:00
+401–500,University of Jyväskylä,Finland,10444.00,14.4,3%,62:38:00
+401–500,University of Kansas,United States,24435.00,9.9,8%,53:47:00
+401–500,University of Klagenfurt,Austria,3562.00,10,28%,68:32:00
+401–500,Koç University,Turkey,5882.00,19.7,8%,48:52:00
+401–500,University of KwaZulu-Natal,South Africa,35795.00,30.1,2%,60:40:00
+401–500,University of Lagos,Nigeria,36237.00,21.5,0%,48:52:00
+401–500,Leibniz University Hannover,Germany,21677.00,43.7,18%,42:58:00
+401–500,Lincoln University,New Zealand,2492.00,13.3,44%,51:49:00
+401–500,University of Lincoln,United Kingdom,14480.00,15.7,13%,55:45:00
+401–500,Liverpool John Moores University,United Kingdom,21725.00,17.4,16%,54:46:00
+401–500,Mahatma Gandhi University,India,1855.00,14.6,2%,61:39:00
+401–500,University of Marburg,Germany,23383.00,31.2,12%,56:44:00
+401–500,Maynooth University,Ireland,11454.00,28.5,15%,55:45:00
+401–500,Middlesex University,United Kingdom,15905.00,18.7,50%,58:42:00
+401–500,University of Modena and Reggio Emilia,Italy,21409.00,26.9,5%,53:47:00
+401–500,Muhimbili University of Health and Allied Sciences,Tanzania,3626.00,11.3,3%,41:59:00
+401–500,Murdoch University,Australia,16641.00,36.5,40%,61:39:00
+401–500,National and Kapodistrian University of Athens,Greece,66649.00,31,11%,59:41:00
+401–500,National Research Nuclear University MEPhI,,5016.00,9.2,31%,40 : 60
+401–500,University of Nebraska-Lincoln,United States,24909.00,16.8,10%,49:51:00
+401–500,University of Nebraska Medical Center,United States,3181.00,2,9%,69:31:00
+401–500,Norwegian University of Science and Technology,Norway,37707.00,15.8,9%,48:52:00
+401–500,Nova Southeastern University,United States,17952.00,16.3,4%,70:30:00
+401–500,Örebro University,Sweden,10005.00,15.2,5%,61:39:00
+401–500,University of Passau,Germany,9703.00,69.2,12%,61:39:00
+401–500,University of Pisa,Italy,33791.00,21.9,6%,51:49:00
+401–500,University of Plymouth,United Kingdom,15605.00,17.7,16%,58:42:00
+401–500,Pontificia Universidad Católica de Chile,Chile,31578.00,16,4%,n/a
+401–500,University of Porto,Portugal,33484.00,16.2,16%,55:45:00
+401–500,University of Portsmouth,United Kingdom,22490.00,16.4,29%,47:53:00
+401–500,Qazvin University of Medical Sciences,Iran,2598.00,9.2,1%,57:43:00
+401–500,Qom University of Medical Sciences,Iran,2272.00,9.1,4%,57:43:00
+401–500,Quaid-i-Azam University,Pakistan,9250.00,16.5,1%,51:49:00
+401–500,Sabancı University,Turkey,3819.00,20,10%,38 : 62
+401–500,Sharif University of Technology,Iran,9219.00,22.5,2%,25 : 75
+401–500,Shenzhen University,China,38240.00,14.1,1%,46:54:00
+401–500,University of Siena,Italy,12948.00,18.7,9%,63:37:00
+401–500,South China University of Technology,China,40082.00,12.7,5%,39 : 61
+401–500,Southeast University,China,37484.00,12.3,4%,36 : 64
+401–500,Southern Medical University,China,20432.00,10.7,6%,n/a
+401–500,SRUC (Scotland’s Rural College),United Kingdom,1325.00,5.3,8%,60:40:00
+401–500,University of Strathclyde,United Kingdom,19840.00,17,29%,50:50:00
+401–500,Sumy State University,Ukraine,8703.00,11.4,21%,44:56:00
+401–500,Syracuse University,United States,20620.00,14.9,23%,52:48:00
+401–500,Universiti Teknologi Petronas,Malaysia,5021.00,13.6,16%,38 : 62
+401–500,Tianjin University,China,27353.00,8.7,12%,n/a
+401–500,Ton Duc Thang University,Vietnam,27878.00,25.3,1%,56:44:00
+401–500,University of Trento,Italy,14219.00,19.2,8%,52:48:00
+401–500,The University of Tulsa,United States,4407.00,12,10%,48:52:00
+401–500,University of Turin,Italy,58463.00,28.4,6%,61:39:00
+401–500,TU Wien,Austria,10327.00,17.7,31%,31 : 69
+401–500,Umeå University,Sweden,18218.00,12.6,11%,61:39:00
+401–500,Urmia University of Medical Sciences,Iran,4644.00,12,2%,51:49:00
+401–500,Universiti Utara Malaysia,Malaysia,12457.00,11.6,30%,79:21:00
+401–500,Victoria University of Wellington,New Zealand,17883.00,18.8,20%,58:42:00
+401–500,University of Waikato,New Zealand,10472.00,17.6,31%,59:41:00
+401–500,University of the West of England,United Kingdom,24585.00,15.9,23%,53:47:00
+401–500,William & Mary,United States,8089.00,10.9,8%,56:44:00
+401–500,Xiamen University,China,42760.00,15.4,2%,n/a
+401–500,York University,Canada,44036.00,29.1,28%,55:45:00
+501–600,Aberystwyth University,United Kingdom,6180.00,16.3,24%,52:48:00
+501–600,An-Najah National University,Palestine,23922.00,23.9,10%,65:35:00
+501–600,University of L’Aquila,Italy,18491.00,40.2,4%,56:44:00
+501–600,Bauman Moscow State Technical University,,16925.00,6.8,15%,40 : 60
+501–600,Beihang University,China,31821.00,12.9,4%,n/a
+501–600,Beijing Institute of Technology,China,35710.00,14.2,6%,n/a
+501–600,Birmingham City University,United Kingdom,22935.00,16.6,26%,62:38:00
+501–600,University of Bradford,United Kingdom,8400.00,19.1,30%,57:43:00
+501–600,Bucharest University of Economic Studies,Romania,22723.00,16.2,4%,65:35:00
+501–600,Centrale Nantes,France,1730.00,15.7,43%,24 : 76
+501–600,Changsha University of Science and Technology,China,33342.00,15.3,1%,37 : 63
+501–600,Charles University,Czech Republic,49787.00,13.2,22%,62:38:00
+501–600,University of Côte d’Azur,France,31723.00,20.2,20%,56:44:00
+501–600,Damietta University,Egypt,30084.00,24.7,1%,71:29:00
+501–600,Durban University of Technology,South Africa,27063.00,36.5,1%,54:46:00
+501–600,Eastern Mediterranean University,Northern Cyprus,14375.00,27,76%,43:57:00
+501–600,École des Mines de Saint-Étienne,France,1115.00,9.9,25%,28 : 72
+501–600,Federal University of Toulouse Midi-Pyrénées,France,108889.00,19.8,14%,55:45:00
+501–600,Florida International University,United States,35590.00,23.3,9%,57:43:00
+501–600,University of Fribourg,Switzerland,6880.00,15.6,14%,64:36:00
+501–600,"Goldsmiths, University of London",United Kingdom,9215.00,14.9,39%,66:34:00
+501–600,Government College University Faisalabad,Pakistan,21219.00,27.3,0%,46:54:00
+501–600,University of Greenwich,United Kingdom,15045.00,20.2,44%,57:43:00
+501–600,University of Guelph,Canada,22763.00,27.4,10%,59:41:00
+501–600,Gwangju Institute of Science and Technology (GIST),South Korea,1808.00,10,8%,25 : 75
+501–600,Harokopio University of Athens,Greece,3125.00,46.6,3%,53:47:00
+501–600,Heriot-Watt University,United Kingdom,9735.00,17.9,37%,40 : 60
+501–600,Hokkaido University,Japan,18263.00,8.4,11%,30 : 70
+501–600,Hong Kong Baptist University,Hong Kong,8358.00,12.4,62%,67:33:00
+501–600,University of Hull,United Kingdom,12565.00,17.2,19%,55:45:00
+501–600,University of Iceland,Iceland,10642.00,17.9,10%,68:32:00
+501–600,Indian Institute of Technology Ropar,India,2339.00,13.6,0%,0.765972222
+501–600,University of Insubria,Italy,9789.00,27,6%,55:45:00
+501–600,"International Institute of Information Technology, Hyderabad",India,1862.00,18.1,7%,0.888888889
+501–600,Iran University of Science and Technology,Iran,15436.00,33.9,1%,34 : 66
+501–600,"Islamic Azad University, Najafabad Branch (IAUN)",Iran,21971.00,17.7,0%,47:53:00
+501–600,Constructor University Bremen,Germany,1556.00,21.6,84%,43:57:00
+501–600,Jamia Millia Islamia,India,10481.00,11.2,2%,49:51:00
+501–600,Jimma University,Ethiopia,30473.00,16.3,0%,30 : 70
+501–600,Johannes Kepler University of Linz,Austria,7133.00,22.5,13%,50:50:00
+501–600,Jordan University of Science and Technology,Jordan,25905.00,14.9,13%,57:43:00
+501–600,Kafrelsheikh University,Egypt,62533.00,26.1,2%,48:52:00
+501–600,Kashan University of Medical Sciences and Health Services,Iran,3419.00,12.8,2%,38 : 62
+501–600,Keele University,United Kingdom,9170.00,15.3,16%,59:41:00
+501–600,University of Kentucky,United States,27216.00,11.2,4%,57:43:00
+501–600,Kermanshah University of Medical Sciences,Iran,5759.00,9.6,12%,53:47:00
+501–600,University of Kragujevac,Serbia,16679.00,15.8,1%,57:43:00
+501–600,Kyushu University,Japan,18568.00,7.8,14%,29 : 71
+501–600,Lebanese American University,Lebanon,7057.00,10.1,19%,52:48:00
+501–600,University of Lille,France,75291.00,29.6,14%,60:40:00
+501–600,University of Lisbon,Portugal,48404.00,18.1,18%,53:47:00
+501–600,University of Management and Technology,Pakistan,22520.00,22.2,2%,45:55:00
+501–600,University of Messina,Italy,15290.00,24.2,3%,63:37:00
+501–600,Middle East Technical University,Turkey,17151.00,22.5,10%,48:52:00
+501–600,Missouri University of Science and Technology,United States,7617.00,22.3,9%,1.011805556
+501–600,University of Mons,Belgium,7450.00,26.9,17%,57:43:00
+501–600,National Tsing Hua University,Taiwan,13711.00,16.3,11%,41:59:00
+501–600,National Yang Ming Chiao Tung University,Taiwan,16425.00,14.2,11%,36 : 64
+501–600,University of Neuchâtel,Switzerland,4148.00,11.1,21%,61:39:00
+501–600,University of Nicosia,Cyprus,4696.00,11.3,54%,53:47:00
+501–600,Northumbria University,United Kingdom,22500.00,16.2,22%,54:46:00
+501–600,Northwestern Polytechnical University,China,34095.00,13.9,4%,28 : 72
+501–600,Nottingham Trent University,United Kingdom,29925.00,15.3,21%,57:43:00
+501–600,Open University of Catalonia,Spain,32319.00,100.5,6%,57:43:00
+501–600,University of Peradeniya,Sri Lanka,16123.00,10.7,1%,59:41:00
+501–600,Universitat Ramon Llull,Spain,14900.00,22.2,19%,52:48:00
+501–600,Saint-Petersburg Mining University,,7944.00,13,12%,42:58:00
+501–600,University of Salerno,Italy,26289.00,27.4,3%,54:46:00
+501–600,University of Saskatchewan,Canada,17741.00,17.6,22%,55:45:00
+501–600,University of Sassari,Italy,15065.00,37.9,2%,62:38:00
+501–600,Saveetha Institute of Medical and Technical Sciences,India,12394.00,7.4,1%,38 : 62
+501–600,Sciences Po,France,12872.00,45.2,37%,61:39:00
+501–600,Shiraz University of Technology,Iran,1437.00,13.8,0%,37 : 63
+501–600,SOAS University of London,United Kingdom,4655.00,12.8,53%,67:33:00
+501–600,University of South Carolina-Columbia,United States,33025.00,15.6,5%,55:45:00
+501–600,Southwestern University of Finance and Economics,China,23330.00,16.4,2%,65:35:00
+501–600,University of Stavanger,Norway,11089.00,11.4,11%,58:42:00
+501–600,Stevens Institute of Technology,United States,6624.00,18.6,35%,29 : 71
+501–600,SUNY University at Albany,United States,16090.00,17.2,8%,55:45:00
+501–600,University of Tabuk,Saudi Arabia,29471.00,14.4,2%,57:43:00
+501–600,Technion Israel Institute of Technology,Israel,15147.00,21,12%,39 : 61
+501–600,Tokyo Medical and Dental University (TMDU),Japan,3010.00,4.4,11%,50:50:00
+501–600,University of Trieste,Italy,16677.00,24.9,7%,57:43:00
+501–600,University of Tsukuba,Japan,15725.00,12.7,16%,38 : 62
+501–600,TU Dortmund University,Germany,25046.00,74.8,10%,47:53:00
+501–600,University of Tuscia,Italy,6272.00,20,4%,54:46:00
+501–600,University of Udine,Italy,12326.00,18.5,5%,54:46:00
+501–600,UiT The Arctic University of Norway,Norway,14377.00,10.1,10%,58:42:00
+501–600,University of Valencia,Spain,50575.00,14.3,14%,58:42:00
+501–600,University of Vic – Central University of Catalonia,Spain,6472.00,14,20%,60:40:00
+501–600,Victoria University,Australia,16106.00,45.2,25%,55:45:00
+501–600,Virginia Commonwealth University,United States,26472.00,10.7,4%,63:37:00
+501–600,Wayne State University,United States,22941.00,11.9,5%,59:41:00
+501–600,The University of the West Indies,Jamaica,24811.00,17,1%,71:29:00
+501–600,Xi’an Jiaotong University,China,44942.00,14.1,6%,35 : 65
+501–600,University of Zambia,Zambia,16903.00,21.2,1%,35 : 65
+501–600,Zayed University,United Arab Emirates,8593.00,14.1,2%,88:12:00
+501–600,Zhejiang Normal University,China,26928.00,11.7,7%,n/a
+601–800,Abdul Wali Khan University Mardan,Pakistan,10314.00,20.9,0%,32 : 68
+601–800,Åbo Akademi University,Finland,5399.00,17.6,10%,n/a
+601–800,Addis Ababa University,Ethiopia,46881.00,14.8,0%,29 : 71
+601–800,Ahvaz Jundishapur University of Medical Sciences (AJUMS),Iran,8601.00,11.6,2%,60:40:00
+601–800,Ajou University,South Korea,7574.00,14.2,17%,42:58:00
+601–800,Amedeo Avogadro University of Eastern Piedmont,Italy,14292.00,37.1,7%,61:39:00
+601–800,American University,United States,12495.00,11.6,11%,63:37:00
+601–800,American University of Sharjah,United Arab Emirates,4468.00,11.9,76%,53:47:00
+601–800,Amirkabir University of Technology,Iran,10673.00,21.2,2%,35 : 65
+601–800,University of Antofagasta,Chile,8083.00,20.4,2%,56:44:00
+601–800,University of Arkansas,United States,25207.00,19.4,4%,54:46:00
+601–800,Auburn University,United States,27512.00,18.2,10%,50:50:00
+601–800,Azarbaijan Shahid Madani University,Iran,7350.00,26.2,0%,61:39:00
+601–800,University of Babylon,Iraq,26449.00,12.7,0%,54:46:00
+601–800,Bahçeşehir University,Turkey,17813.00,47.2,18%,49:51:00
+601–800,Bahria University,Pakistan,19573.00,22.2,1%,44:56:00
+601–800,Banaras Hindu University,India,13900.00,8.7,3%,38 : 62
+601–800,University of Bari Aldo Moro,Italy,29905.00,21.6,2%,62:38:00
+601–800,Bar-Ilan University,Israel,17255.00,17.3,4%,61:39:00
+601–800,Baylor University,United States,19700.00,17.7,7%,55:45:00
+601–800,Beirut Arab University,Lebanon,5698.00,12,18%,45:55:00
+601–800,Ben-Gurion University of the Negev,Israel,16468.00,20.4,2%,52:48:00
+601–800,Benha University,Egypt,110645.00,32.5,3%,42:58:00
+601–800,Université Bourgogne Franche-Comté (UBFC),France,67049.00,37.3,11%,56:44:00
+601–800,Ca’ Foscari University of Venice,Italy,18231.00,38.3,10%,64:36:00
+601–800,University of Camerino (Unicam),Italy,8129.00,27.9,10%,46:54:00
+601–800,University of Canterbury,New Zealand,15245.00,18.4,22%,51:49:00
+601–800,Capital Medical University,China,15254.00,4.9,5%,62:38:00
+601–800,Carleton University,Canada,28760.00,29.7,22%,49:51:00
+601–800,University of Central Florida,United States,62248.00,36.1,5%,56:44:00
+601–800,Central Queensland University,Australia,15453.00,20.7,26%,58:42:00
+601–800,Chongqing University,China,40696.00,19.9,3%,n/a
+601–800,Chung-Ang University,South Korea,18101.00,22.7,22%,n/a
+601–800,Clark University,United States,3273.00,11.6,25%,59:41:00
+601–800,University of Coimbra,Portugal,21429.00,18,19%,58:42:00
+601–800,University of Colombo,Sri Lanka,31792.00,31.9,0%,58:42:00
+601–800,COMSATS University Islamabad,Pakistan,33465.00,14.8,2%,42:58:00
+601–800,Concordia University,Canada,35592.00,33.5,34%,50:50:00
+601–800,University of Córdoba,Spain,16847.00,13.5,10%,56:44:00
+601–800,University of Costa Rica,Costa Rica,31545.00,13.4,2%,53:47:00
+601–800,Covenant University,Nigeria,8362.00,15.5,1%,40 : 60
+601–800,Cyprus University of Technology,Cyprus,3280.00,16.9,14%,56:44:00
+601–800,Dalian University of Technology,China,38465.00,15,3%,n/a
+601–800,Delhi Technological University,India,11196.00,22.3,3%,0.970833333
+601–800,De Montfort University,United Kingdom,24490.00,20.2,38%,54:46:00
+601–800,University of Derby,United Kingdom,15525.00,14.6,18%,59:41:00
+601–800,University of Desarrollo,Chile,15933.00,15.9,3%,56:44:00
+601–800,University of Dhaka,Bangladesh,211424.00,16.1,3%,48:52:00
+601–800,Dow University of Health Sciences,Pakistan,7249.00,6.8,3%,76:24:00
+601–800,University of Eastern Finland,Finland,11898.00,18.2,5%,66:34:00
+601–800,Universidade Eduardo Mondlane,Mozambique,45256.00,26.1,0%,39 : 61
+601–800,"University of Engineering and Technology, Taxila",Pakistan,5290.00,19.3,2%,0.806944444
+601–800,ENSTA Bretagne,France,830.00,8.1,5%,24 : 76
+601–800,Eötvös Loránd University,Hungary,30190.00,17.5,9%,62:38:00
+601–800,Fayoum University,Egypt,44786.00,16.8,0%,62:38:00
+601–800,Universidade Federal do Rio Grande do Sul,Brazil,39169.00,14.1,1%,52:48:00
+601–800,Universidade Federal de São Paulo (UNIFESP),Brazil,18877.00,10.3,1%,59:41:00
+601–800,Federation University Australia,Australia,11684.00,22.2,52%,55:45:00
+601–800,Financial University under the Government of the Russian Federation,,16139.00,12.9,7%,51:49:00
+601–800,Gabriele d‘Annunzio University,Italy,23416.00,32.4,2%,64:36:00
+601–800,University of Georgia,United States,37465.00,13.2,7%,58:42:00
+601–800,Glasgow Caledonian University,United Kingdom,14270.00,23.6,19%,57:43:00
+601–800,University of Granada,Spain,54619.00,14.5,10%,60:40:00
+601–800,Graphic Era University,India,7823.00,14.3,1%,42:58:00
+601–800,University of Graz,Austria,12531.00,12.4,17%,66:34:00
+601–800,Graz University of Technology,Austria,6353.00,8.6,23%,25 : 75
+601–800,Guangzhou University,China,36701.00,19.4,0%,64:36:00
+601–800,Guangzhou Medical University,China,12891.00,1.7,2%,56:44:00
+601–800,Hacettepe University,Turkey,38444.00,20.1,3%,56:44:00
+601–800,University of Haifa,Israel,17353.00,17.7,3%,66:34:00
+601–800,Hamburg University of Technology,Germany,4668.00,28.9,23%,28 : 72
+601–800,Hazara University Mansehra,Pakistan,12145.00,26.5,0%,26 : 74
+601–800,University of Hertfordshire,United Kingdom,18780.00,15.5,38%,54:46:00
+601–800,University of Houston,United States,46958.00,27,7%,52:48:00
+601–800,University of Huddersfield,United Kingdom,14410.00,19.9,26%,58:42:00
+601–800,Icesi University,Colombia,6279.00,8,2%,53:47:00
+601–800,Ilam University of Medical Sciences,Iran,2687.00,13,4%,53:47:00
+601–800,Imam Abdulrahman Bin Faisal University,Saudi Arabia,22059.00,8.7,4%,90:10:00
+601–800,Indian Institute of Technology Indore,India,2001.00,11.7,0%,0.970833333
+601–800,Indraprastha Institute of Information Technology Delhi,India,2399.00,23.1,2%,1.011805556
+601–800,"International Islamic University, Islamabad",Pakistan,25221.00,25.1,7%,53:47:00
+601–800,Iran University of Medical Sciences,Iran,8840.00,8.3,5%,57:43:00
+601–800,Istanbul Technical University,Turkey,18562.00,24.2,15%,37 : 63
+601–800,Jagiellonian University,Poland,34725.00,9.6,11%,67:33:00
+601–800,Jamia Hamdard University,India,9636.00,20,3%,45:55:00
+601–800,Jawaharlal Nehru University,India,8840.00,14.2,2%,46:54:00
+601–800,Jiangsu University,China,35687.00,9.5,6%,42:58:00
+601–800,Jinan University,China,41858.00,16.6,27%,56:44:00
+601–800,University of Johannesburg,South Africa,29167.00,25.1,15%,55:45:00
+601–800,Jönköping University,Sweden,6762.00,13,14%,60:40:00
+601–800,The University of Jordan,Jordan,30380.00,13.4,13%,66:34:00
+601–800,Jouf University,Saudi Arabia,19826.00,9.8,3%,60:40:00
+601–800,University of Kaiserslautern,Germany,8572.00,28.8,22%,35 : 65
+601–800,Kalasalingam Academy of Research and Education,India,7365.00,8.8,3%,55:45:00
+601–800,Kansai Medical University,Japan,1086.00,1.3,2%,52:48:00
+601–800,University of Kashan,Iran,8190.00,27.2,3%,54:46:00
+601–800,Universiti Kebangsaan Malaysia,Malaysia,16873.00,10.1,14%,58:42:00
+601–800,KIIT University,India,24796.00,12.3,9%,49:51:00
+601–800,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,7870.00,11.3,1%,50:50:00
+601–800,Konkuk University,South Korea,13375.00,26.2,14%,49:51:00
+601–800,Kore University of Enna,Italy,5053.00,14.5,1%,68:32:00
+601–800,University of Kurdistan,Iran,12924.00,34.6,5%,53:47:00
+601–800,Lahore University of Management Sciences,Pakistan,4499.00,13.8,1%,42:58:00
+601–800,Lehigh University,United States,6459.00,11.1,18%,46:54:00
+601–800,University of Limerick,Ireland,14733.00,25.1,20%,50:50:00
+601–800,London South Bank University,United Kingdom,13050.00,16.8,35%,56:44:00
+601–800,University of Lorraine,France,61210.00,20.2,17%,53:47:00
+601–800,Louisiana State University,United States,29191.00,18.2,5%,54:46:00
+601–800,Lviv Polytechnic National University,Ukraine,21367.00,10.5,1%,42:58:00
+601–800,Maharishi Markandeshwar University (MMU),India,9053.00,13.3,10%,43:57:00
+601–800,Majmaah University,Saudi Arabia,20844.00,14.2,2%,46:54:00
+601–800,University of Malakand,Pakistan,7757.00,27.1,1%,29 : 71
+601–800,Manchester Metropolitan University,United Kingdom,29195.00,15.9,19%,58:42:00
+601–800,Mansoura University,Egypt,161977.00,47.5,3%,52:48:00
+601–800,Marche Polytechnic University,Italy,10544.00,22.4,5%,46:54:00
+601–800,"University of Maryland, Baltimore County",United States,11456.00,16.8,8%,46:54:00
+601–800,Mashhad University of Medical Sciences,Iran,9148.00,9.7,4%,58:42:00
+601–800,Massey University,New Zealand,17534.00,16.1,29%,64:36:00
+601–800,Medical University of Lodz,Poland,10294.00,8.6,10%,70:30:00
+601–800,Memorial University of Newfoundland,Canada,16098.00,14.9,21%,56:44:00
+601–800,Minia University,Egypt,75566.00,17.9,1%,54:46:00
+601–800,Mizzou - University of Missouri,United States,25113.00,11.8,4%,55:45:00
+601–800,University of Mohaghegh Ardabili,Iran,11435.00,28.7,0%,56:44:00
+601–800,University of Nairobi,Kenya,52678.00,34.5,2%,24 : 76
+601–800,University of Namibia,Namibia,29369.00,21.8,3%,64:36:00
+601–800,Nanjing Agricultural University,China,28184.00,17,2%,n/a
+601–800,Nantes Université,France,36281.00,24,11%,55:45:00
+601–800,National Cheng Kung University (NCKU),Taiwan,20080.00,15.1,12%,37 : 63
+601–800,National University of Science and Technology (MISiS),,7300.00,11.1,26%,40 : 60
+601–800,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,8906.00,17.9,18%,30 : 70
+601–800,National Institute of Technology Silchar,India,3900.00,13.9,3%,0.929861111
+601–800,National Yunlin University of Science and Technology,Taiwan,9135.00,21.8,6%,43:57:00
+601–800,Near East University,Northern Cyprus,20103.00,24.5,83%,43:57:00
+601–800,"University of Nevada, Las Vegas",United States,26730.00,23.2,4%,57:43:00
+601–800,University of New Brunswick UNB,Canada,8661.00,14.7,15%,51:49:00
+601–800,New Jersey Institute of Technology,United States,9757.00,14.6,24%,27 : 73
+601–800,University of North Carolina at Charlotte,United States,27579.00,20.5,5%,49:51:00
+601–800,North South University,Bangladesh,24760.00,30.9,0%,42:58:00
+601–800,North-West University,South Africa,40095.00,24.3,3%,61:39:00
+601–800,Norwegian University of Life Sciences,Norway,6786.00,7.6,12%,57:43:00
+601–800,NOVA University of Lisbon,Portugal,20996.00,17.8,23%,51:49:00
+601–800,"University of Occupational and Environmental Health, Japan",Japan,1157.00,2.5,2%,52:48:00
+601–800,Oklahoma State University,United States,21250.00,14,6%,51:49:00
+601–800,Ontario Tech University,Canada,8969.00,28.6,8%,44:56:00
+601–800,The Open University,United Kingdom,68390.00,31.6,8%,65:35:00
+601–800,Oxford Brookes University,United Kingdom,13575.00,14.2,25%,59:41:00
+601–800,University of Parma,Italy,28210.00,32.1,6%,58:42:00
+601–800,Universidad Peruana Cayetano Heredia,Peru,6028.00,6.7,0%,67:33:00
+601–800,University of Perugia,Italy,24943.00,25.1,6%,58:42:00
+601–800,Plekhanov Russian University of Economics,,13994.00,8.7,13%,64:36:00
+601–800,Polytechnic University of Bari,Italy,9998.00,43.1,1%,30 : 70
+601–800,Polytechnic University of Turin,Italy,29428.00,30.4,14%,30 : 70
+601–800,Prince Sattam Bin Abdulaziz University,Saudi Arabia,27117.00,12.2,2%,58:42:00
+601–800,Universiti Putra Malaysia,Malaysia,18365.00,11.1,26%,59:41:00
+601–800,Qingdao University,China,42667.00,15.2,2%,64:36:00
+601–800,Université du Québec,Canada,50418.00,17.9,12%,57:43:00
+601–800,University of Regina,Canada,14172.00,24.7,27%,59:41:00
+601–800,Rensselaer Polytechnic Institute,United States,7475.00,14.7,21%,32 : 68
+601–800,Riga Stradiņš University,Latvia,8512.00,19.5,28%,74:26:00
+601–800,Riphah International University,Pakistan,23590.00,21.5,0%,50:50:00
+601–800,Rovira i Virgili University,Spain,12975.00,12.6,13%,60:40:00
+601–800,RUDN University,,21820.00,14,32%,58:42:00
+601–800,Universiti Sains Malaysia,Malaysia,23492.00,11.6,17%,64:36:00
+601–800,San Diego State University,United States,31340.00,27.5,7%,56:44:00
+601–800,University of Sannio,Italy,2944.00,15.4,2%,51:49:00
+601–800,University of Santiago de Compostela,Spain,24713.00,14.5,9%,62:38:00
+601–800,Savitribai Phule Pune University,India,5163.00,12.1,6%,43:57:00
+601–800,University of Campania Luigi Vanvitelli,Italy,33663.00,35.1,2%,37 : 63
+601–800,Shanghai University,China,37499.00,13.1,7%,50:50:00
+601–800,"Soochow University, China",China,47989.00,15.5,5%,54:46:00
+601–800,Southern Cross University,Australia,10866.00,36.1,28%,64:36:00
+601–800,University of Strasbourg,France,51028.00,19.8,21%,59:41:00
+601–800,Sultan Qaboos University,Oman,7436.00,8.6,4%,50:50:00
+601–800,University of the Sunshine Coast,Australia,11118.00,29.6,16%,69:31:00
+601–800,SUNY Binghamton University,United States,18852.00,22,11%,50:50:00
+601–800,University of Tabriz,Iran,20983.00,27.2,6%,49:51:00
+601–800,Tabriz University of Medical Sciences,Iran,8524.00,9.9,2%,54:46:00
+601–800,Taif University,Saudi Arabia,39622.00,19.6,2%,56:44:00
+601–800,Tallinn University of Technology,Estonia,8739.00,12.6,17%,40 : 60
+601–800,University of Tehran,Iran,45295.00,21.5,2%,45:55:00
+601–800,Tehran University of Medical Sciences,Iran,11605.00,6.4,11%,57:43:00
+601–800,Universiti Teknologi Malaysia,Malaysia,19974.00,13.5,20%,47:53:00
+601–800,University of Texas at Arlington,United States,33537.00,29.5,13%,60:40:00
+601–800,The University of Texas at San Antonio,United States,27187.00,24.7,3%,51:49:00
+601–800,Thapar Institute of Engineering and Technology,India,9375.00,16.9,1%,28 : 72
+601–800,University of Toledo,United States,17871.00,16.1,10%,52:48:00
+601–800,Tomsk State University,,7806.00,11.7,36%,n/a
+601–800,TU Braunschweig,Germany,19676.00,9.8,17%,40 : 60
+601–800,University of Ulsan,South Korea,12415.00,11,4%,48:52:00
+601–800,Ulster University,United Kingdom,17685.00,18.8,9%,57:43:00
+601–800,Umm Al-Qura University,Saudi Arabia,30207.00,8.3,11%,34 : 66
+601–800,Paris Lodron Universität Salzburg,Austria,7169.00,11.9,34%,66:34:00
+601–800,Wenzhou University,China,21827.00,18.2,3%,58:42:00
+601–800,University of the Western Cape,South Africa,23510.00,33.8,6%,61:39:00
+601–800,University of the West of Scotland,United Kingdom,12120.00,22,20%,63:37:00
+601–800,University of Windsor,Canada,14516.00,33.3,29%,n/a
+601–800,University of Wolverhampton,United Kingdom,14900.00,17.2,24%,62:38:00
+601–800,University of Wuppertal,Germany,15668.00,39.6,10%,53:47:00
+601–800,Xi’an Jiaotong-Liverpool University,China,15767.00,19.9,5%,52:48:00
+601–800,Yokohama City University,Japan,5073.00,6,2%,56:44:00
+601–800,Zhengzhou University,China,70824.00,17.5,3%,49:51:00
+801–1000,University of the Aegean,Greece,22148.00,68.4,1%,55:45:00
+801–1000,"University of Agriculture, Faisalabad",Pakistan,27826.00,42.4,0%,45:55:00
+801–1000,The University of Aizu,Japan,1217.00,12.1,9%,0.520138889
+801–1000,The University of Alabama,United States,35457.00,20.9,4%,56:44:00
+801–1000,Al-Azhar University,Egypt,425977.00,38.4,6%,38 : 62
+801–1000,Al-Balqa Applied University,Jordan,28178.00,27.7,2%,59:41:00
+801–1000,University of Alcalá,Spain,15941.00,10.2,24%,60:40:00
+801–1000,Alexandria University,Egypt,202206.00,28.2,4%,52:48:00
+801–1000,Aligarh Muslim University,India,20428.00,12.1,2%,40 : 60
+801–1000,American University in Cairo,Egypt,5921.00,13.7,5%,56:44:00
+801–1000,Anna University,India,15149.00,15.9,1%,43:57:00
+801–1000,University of Applied Sciences and Arts of Western Switzerland,Switzerland,17491.00,6.5,30%,53:47:00
+801–1000,Aristotle University of Thessaloniki,Greece,49840.00,19.7,5%,58:42:00
+801–1000,Athens University of Economics and Business,Greece,9682.00,51,6%,45:55:00
+801–1000,Universidad Autónoma de Chile,Chile,27474.00,22.9,1%,63:37:00
+801–1000,University of Aveiro,Portugal,12566.00,15.1,10%,54:46:00
+801–1000,University of the Balearic Islands,Spain,11493.00,11.8,8%,60:40:00
+801–1000,University of the Basque Country,Spain,43018.00,15.4,6%,55:45:00
+801–1000,University of Bedfordshire,United Kingdom,13175.00,29.6,59%,59:41:00
+801–1000,University of Beira Interior,Portugal,7861.00,17,22%,53:47:00
+801–1000,University of Belgrade,Serbia,93251.00,18.9,5%,62:38:00
+801–1000,Beni-Suef University,Egypt,82124.00,28.3,1%,50:50:00
+801–1000,University of Bergamo,Italy,22115.00,60.9,7%,62:38:00
+801–1000,Bharathiar University,India,4097.00,18.8,0%,63:37:00
+801–1000,Bilkent University,Turkey,9682.00,14.2,8%,46:54:00
+801–1000,"Birla Institute of Technology and Science, Pilani",India,15651.00,18.1,2%,0.847916667
+801–1000,Boğaziçi University,Turkey,12614.00,22.3,3%,45:55:00
+801–1000,University of Brighton,United Kingdom,15015.00,16.8,22%,60:40:00
+801–1000,Cairo University,Egypt,224216.00,36.8,4%,54:46:00
+801–1000,University of Calabria,Italy,19788.00,23.2,3%,57:43:00
+801–1000,Chapman University,United States,9332.00,12.8,8%,61:39:00
+801–1000,Institute of Chemical Technology,India,2550.00,17.2,0%,30 : 70
+801–1000,Chengdu University,China,22762.00,16.3,2%,59:41:00
+801–1000,"China University of Petroleum, Beijing",China,17001.00,17.4,4%,n/a
+801–1000,Chulalongkorn University,Thailand,34095.00,11.5,3%,58:42:00
+801–1000,Clemson University,United States,23491.00,15.5,6%,49:51:00
+801–1000,University of Clermont Auvergne,France,36630.00,20.9,15%,57:43:00
+801–1000,Coventry University,United Kingdom,32820.00,16.1,47%,48:52:00
+801–1000,CY Cergy Paris University,France,14999.00,19.6,23%,52:48:00
+801–1000,University of Dayton,United States,11183.00,16.5,11%,48:52:00
+801–1000,University of Deusto,Spain,9518.00,20.1,11%,58:42:00
+801–1000,Diego Portales University,Chile,17613.00,16,2%,50:50:00
+801–1000,Donghua University,China,22434.00,14.4,6%,45:55:00
+801–1000,Duzce University,Turkey,21552.00,35.5,8%,44:56:00
+801–1000,Edge Hill University,United Kingdom,10990.00,15.4,7%,69:31:00
+801–1000,"University of Engineering and Technology, Peshawar",Pakistan,8680.00,20.7,1%,0.315277778
+801–1000,Ewha Womans University,South Korea,14746.00,17.5,13%,100:00:00
+801–1000,Federal University of Minas Gerais,Brazil,40998.00,12.9,1%,53:47:00
+801–1000,Universidade Federal de Sergipe,Brazil,26327.00,15.8,0%,51:49:00
+801–1000,Firat University,Turkey,39961.00,20.6,5%,37 : 63
+801–1000,Florida Agricultural and Mechanical University,United States,9342.00,16.8,1%,66:34:00
+801–1000,Florida Atlantic University,United States,24191.00,18.7,10%,64:36:00
+801–1000,University of Foggia,Italy,11292.00,31.8,1%,63:37:00
+801–1000,University of the Free State,South Africa,33826.00,36.8,2%,63:37:00
+801–1000,Fujita Health University,Japan,3082.00,3.8,1%,57:43:00
+801–1000,Fuzhou University,China,39987.00,16.8,1%,39 : 61
+801–1000,University of Girona,Spain,14011.00,21.1,15%,57:43:00
+801–1000,Guangdong University of Technology,China,46040.00,18.1,0%,29 : 71
+801–1000,Hiroshima University,Japan,14612.00,8.1,9%,37 : 63
+801–1000,Indian Institute of Technology Patna,India,2203.00,17.9,0%,0.806944444
+801–1000,Indian Institute of Technology Gandhinagar,India,1782.00,15.1,1%,26 : 74
+801–1000,Universitat Internacional de Catalunya,Spain,5172.00,14,34%,63:37:00
+801–1000,University of Ioannina,Greece,32168.00,39.6,3%,69:31:00
+801–1000,ISCTE-University Institute of Lisbon,Portugal,9374.00,24.9,17%,52:48:00
+801–1000,The Islamia University of Bahawalpur,Pakistan,35698.00,28.5,0%,46:54:00
+801–1000,Istanbul Medeniyet University,Turkey,10536.00,13.4,3%,52:48:00
+801–1000,ITMO University,,10814.00,15,22%,34 : 66
+801–1000,Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca,Romania,8017.00,7.9,33%,66:34:00
+801–1000,University of Jaén,Spain,13767.00,16.4,9%,57:43:00
+801–1000,Juntendo University,Japan,5980.00,4.6,3%,55:45:00
+801–1000,Kansas State University,United States,19927.00,13.1,7%,51:49:00
+801–1000,Karlstad University,Sweden,9698.00,14,%,63:37:00
+801–1000,Kazan Federal University,,22673.00,10.4,29%,66:34:00
+801–1000,Keio University,Japan,33636.00,10.1,8%,37 : 63
+801–1000,Kerman University of Medical Sciences,Iran,5226.00,3.4,2%,n/a
+801–1000,Kindai University,Japan,33234.00,14.6,2%,32 : 68
+801–1000,King Faisal University,Saudi Arabia,27805.00,13.1,2%,67:33:00
+801–1000,King Khalid University,Saudi Arabia,39389.00,8.3,7%,55:45:00
+801–1000,King Mongkut’s University of Technology Thonburi,Thailand,15116.00,19.8,2%,46:54:00
+801–1000,Kingston University,United Kingdom,14975.00,19.4,43%,58:42:00
+801–1000,KL University,India,17801.00,14.5,2%,36 : 64
+801–1000,Kobe University,Japan,15477.00,10.3,8%,36 : 64
+801–1000,Kurume University,Japan,5062.00,7.6,2%,n/a
+801–1000,Kuwait University,Kuwait,24680.00,15.2,15%,76:24:00
+801–1000,Kyungpook National University,South Korea,18892.00,20.2,13%,47:53:00
+801–1000,University of Lahore,Pakistan,27149.00,14.8,2%,37 : 63
+801–1000,Lakehead University,Canada,8365.00,25.8,21%,55:45:00
+801–1000,University of La Laguna,Spain,18270.00,12.8,5%,58:42:00
+801–1000,University of Latvia,Latvia,11877.00,32.7,7%,68:32:00
+801–1000,Leeds Beckett University,United Kingdom,18945.00,20.3,13%,54:46:00
+801–1000,Lithuanian University of Health Sciences,Lithuania,6167.00,8.6,22%,75:25:00
+801–1000,University of Ljubljana,Slovenia,37615.00,13.1,8%,60:40:00
+801–1000,University of Lleida,Spain,9164.00,15.4,10%,59:41:00
+801–1000,Lovely Professional University,India,33469.00,14.8,6%,24 : 76
+801–1000,Mae Fah Luang University,Thailand,13802.00,21,4%,73:27:00
+801–1000,Mahidol University,Thailand,28477.00,9,5%,64:36:00
+801–1000,Makerere University,Uganda,31233.00,21,3%,51:49:00
+801–1000,Universiti Malaysia Pahang,Malaysia,8140.00,13.3,7%,48:52:00
+801–1000,University of Malta,Malta,9687.00,10.7,13%,60:40:00
+801–1000,Manipal Academy of Higher Education,India,23002.00,9,12%,49:51:00
+801–1000,Marquette University,United States,10540.00,12,3%,57:43:00
+801–1000,Masaryk University,Czech Republic,32271.00,18.9,23%,62:38:00
+801–1000,Medical University of Gdańsk,Poland,6344.00,5.6,16%,65:35:00
+801–1000,University of Memphis,United States,16520.00,14.7,5%,60:40:00
+801–1000,University of Minho,Portugal,19922.00,19.6,16%,55:45:00
+801–1000,Mississippi State University,United States,21810.00,15.2,3%,52:48:00
+801–1000,University of Missouri-St Louis,United States,6365.00,15.8,5%,58:42:00
+801–1000,Montana State University,United States,14094.00,16,3%,47:53:00
+801–1000,Monterrey Institute of Technology,Mexico,15735.00,14.3,10%,43:57:00
+801–1000,University of Namur,Belgium,6753.00,20.8,12%,57:43:00
+801–1000,Nanjing Forestry University,China,32318.00,17.6,1%,n/a
+801–1000,Nanjing University of Information Science and Technology,China,33008.00,16.7,3%,n/a
+801–1000,Nanjing Normal University,China,31211.00,13,2%,70:30:00
+801–1000,Nanjing Tech University,China,38866.00,13.5,3%,n/a
+801–1000,National Institute of Applied Sciences of Lyon (INSA Lyon),France,6382.00,18.9,27%,36 : 64
+801–1000,École Nationale des Travaux Publics de l'État (ENTPE),France,809.00,15.3,13%,42:58:00
+801–1000,National University of Sciences and Technology,Pakistan,11737.00,9.4,5%,34 : 66
+801–1000,National Sun Yat-Sen University,Taiwan,8150.00,12.3,8%,40 : 60
+801–1000,National Taiwan Normal University,Taiwan,10699.00,12.2,16%,n/a
+801–1000,National Technical University of Athens,Greece,13732.00,19.9,6%,33 : 67
+801–1000,National Institute of Technology Hamirpur,India,3823.00,20.7,0%,0.970833333
+801–1000,"National Institute of Technology, Tiruchirappalli",India,7037.00,18.5,2%,1.011805556
+801–1000,The New School,United States,9692.00,9.7,35%,74:26:00
+801–1000,New Mexico State University (Main campus),United States,12285.00,16,6%,58:42:00
+801–1000,Nippon Medical School,Japan,905.00,0.9,0%,37 : 63
+801–1000,University of North Carolina at Greensboro,United States,18637.00,19.5,3%,67:33:00
+801–1000,"Northeastern University, China",China,39155.00,14.8,2%,n/a
+801–1000,Northeast Normal University,China,30310.00,18.7,4%,70:30:00
+801–1000,University of Northern British Columbia (UNBC),Canada,3008.00,15.6,11%,63:37:00
+801–1000,Northern Illinois University,United States,13768.00,14.4,7%,53:47:00
+801–1000,Novosibirsk State University,,7276.00,6.3,22%,n/a
+801–1000,Ohio University (Main campus),United States,22682.00,20.1,4%,57:43:00
+801–1000,Old Dominion University,United States,18368.00,17.5,3%,56:44:00
+801–1000,Ozyegin University,Turkey,5958.00,27.2,7%,44:56:00
+801–1000,Pablo de Olavide University,Spain,12849.00,14.4,18%,59:41:00
+801–1000,University of Palermo,Italy,32351.00,22.4,1%,58:42:00
+801–1000,Panjab University,India,18918.00,17.6,1%,41:59:00
+801–1000,Panthéon-Sorbonne University – Paris 1,France,35547.00,29,20%,61:39:00
+801–1000,Parthenope University of Naples,Italy,11555.00,33.7,2%,42:58:00
+801–1000,Universiti Pendidikan Sultan Idris,Malaysia,5968.00,9.9,18%,55:45:00
+801–1000,University of Peshawar,Pakistan,6107.00,9,1%,32 : 68
+801–1000,University of the Philippines,Philippines,46714.00,10.6,0%,52:48:00
+801–1000,Universitat Politècnica de Catalunya,Spain,22280.00,9.5,14%,27 : 73
+801–1000,Polytechnic University of Valencia,Spain,23406.00,12.7,14%,41:59:00
+801–1000,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,13453.00,18.7,3%,50:50:00
+801–1000,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,14096.00,21.3,1%,52:48:00
+801–1000,Pontifical Javeriana University,Colombia,27346.00,14.2,2%,55:45:00
+801–1000,University of Pretoria,South Africa,36492.00,21.7,7%,59:41:00
+801–1000,Princess Nourah bint Abdulrahman University,Saudi Arabia,25955.00,13.1,15%,100:00:00
+801–1000,University of the Punjab,Pakistan,28384.00,22.4,1%,52:48:00
+801–1000,University of Rennes 1,France,28275.00,18.5,11%,52:48:00
+801–1000,University of Rhode Island,United States,15851.00,14.5,3%,57:43:00
+801–1000,Rhodes University,South Africa,6872.00,17,14%,63:37:00
+801–1000,University of Roehampton,United Kingdom,7780.00,16.2,33%,69:31:00
+801–1000,University of Rome III,Italy,33264.00,47.7,5%,61:39:00
+801–1000,Roskilde University,Denmark,6100.00,15.8,16%,64:36:00
+801–1000,Saint Petersburg State University,,24335.00,9.1,19%,61:39:00
+801–1000,University of Salamanca,Spain,27920.00,16.9,18%,62:38:00
+801–1000,University of Salento,Italy,13608.00,22.6,1%,62:38:00
+801–1000,University of Salford,United Kingdom,18220.00,18.7,20%,55:45:00
+801–1000,University of Science and Technology Beijing,China,28432.00,16.1,4%,36 : 64
+801–1000,Sechenov University,,16366.00,8.1,24%,70:30:00
+801–1000,University of La Serena,Chile,7643.00,25.5,1%,52:48:00
+801–1000,Shahid Beheshti University,Iran,19695.00,23.4,1%,50:50:00
+801–1000,Shantou University,China,14119.00,12.2,1%,45:55:00
+801–1000,Sheffield Hallam University,United Kingdom,25650.00,17.2,13%,55:45:00
+801–1000,Shiraz University,Iran,14552.00,20.2,1%,53:47:00
+801–1000,Shiraz University of Medical Sciences,Iran,10228.00,10.4,3%,57:43:00
+801–1000,University of Siegen,Germany,12633.00,26.4,12%,56:44:00
+801–1000,University of South Bohemia in České Budějovice,Czech Republic,8763.00,13.8,7%,69:31:00
+801–1000,South China Normal University,China,30041.00,16.4,3%,n/a
+801–1000,Southern Illinois University Carbondale,United States,10130.00,13.8,7%,50:50:00
+801–1000,South Ural State University,,19373.00,14.4,10%,39 : 61
+801–1000,Suez Canal University,Egypt,38962.00,11.4,1%,58:42:00
+801–1000,Sunway University,Malaysia,4638.00,8.6,15%,53:47:00
+801–1000,Symbiosis International University,India,16305.00,13,6%,54:46:00
+801–1000,Taibah University,Saudi Arabia,59028.00,21.7,3%,62:38:00
+801–1000,Tanta University,Egypt,129209.00,19.2,1%,54:46:00
+801–1000,"University of Technology, Iraq",Iraq,10321.00,6.9,0%,50:50:00
+801–1000,Universiti Tenaga Nasional (UNITEN),Malaysia,4987.00,11.4,11%,34 : 66
+801–1000,University of Texas at El Paso,United States,17908.00,30.2,7%,54:46:00
+801–1000,Texas Tech University,United States,35957.00,19.4,7%,49:51:00
+801–1000,University of Thessaly,Greece,21962.00,30.2,2%,52:48:00
+801–1000,Toronto Metropolitan University,Canada,36218.00,42.4,8%,56:44:00
+801–1000,Tribhuvan University,Nepal,460632.00,30.9,0%,50:50:00
+801–1000,University of Urbino Carlo Bo,Italy,15336.00,42.1,6%,62:38:00
+801–1000,Vilnius University,Lithuania,17012.00,10.2,9%,69:31:00
+801–1000,VIT University,India,33416.00,17,4%,30 : 70
+801–1000,University of Warsaw,Poland,37090.00,12,10%,63:37:00
+801–1000,Wenzhou Medical University,China,19243.00,11.2,5%,63:37:00
+801–1000,University of Winchester,United Kingdom,7290.00,16.8,10%,66:34:00
+801–1000,University of Wisconsin-Milwaukee,United States,19218.00,19.3,5%,56:44:00
+801–1000,Worcester Polytechnic Institute,United States,5949.00,12.7,19%,38 : 62
+801–1000,University of Wyoming,United States,10660.00,14.7,5%,51:49:00
+801–1000,Yangzhou University,China,31066.00,13.3,11%,58:42:00
+801–1000,Yeungnam University,South Korea,19345.00,15,4%,50:50:00
+801–1000,Zagazig University,Egypt,165556.00,26.4,2%,52:48:00
+801–1000,Zewail City of Science and Technology,Egypt,1184.00,11.6,0%,42:58:00
+801–1000,Zhejiang University of Finance and Economics,China,17260.00,21.3,3%,63:37:00
+1001–1200,University of A Coruña,Spain,14937.00,12.2,5%,52:48:00
+1001–1200,"Adam Mickiewicz University, Poznań",Poland,35901.00,23.9,4%,68:32:00
+1001–1200,Ain Shams University,Egypt,138700.00,12.5,4%,53:47:00
+1001–1200,Al-Farabi Kazakh National University,Kazakhstan,24229.00,5.7,15%,56:44:00
+1001–1200,University of Algarve,Portugal,8443.00,14,22%,58:42:00
+1001–1200,University of Almería,Spain,13050.00,17.5,12%,55:45:00
+1001–1200,Amity University,India,31383.00,16.2,6%,52:48:00
+1001–1200,University of Anbar,Iraq,26521.00,15.9,0%,56:44:00
+1001–1200,"University of the Andes, Colombia",Colombia,15312.00,12.7,1%,45:55:00
+1001–1200,Arts et Métiers,France,6230.00,16.5,14%,0.806944444
+1001–1200,Assiut University,Egypt,84941.00,14.9,1%,55:45:00
+1001–1200,Atılım University,Turkey,8325.00,11.1,7%,42:58:00
+1001–1200,Autonomous University of Sinaloa,Mexico,74001.00,21.8,0%,56:44:00
+1001–1200,Babeş-Bolyai University,Romania,39811.00,21,4%,64:36:00
+1001–1200,Bahauddin Zakariya University,Pakistan,29880.00,36.7,0%,40 : 60
+1001–1200,Bayero University,Nigeria,44410.00,25.9,0%,33 : 67
+1001–1200,Beijing Jiaotong University,China,29086.00,14.7,5%,n/a
+1001–1200,University of Botswana,Botswana,13063.00,17.6,4%,57:43:00
+1001–1200,Bowling Green State University,United States,15199.00,15.7,4%,57:43:00
+1001–1200,Instituto Politécnico de Bragança,Portugal,8845.00,19.4,32%,54:46:00
+1001–1200,University of Burgos,Spain,7599.00,13.5,5%,51:49:00
+1001–1200,University of Calcutta,India,19119.00,15.6,0%,51:49:00
+1001–1200,Cardiff Metropolitan University,United Kingdom,9380.00,18.6,22%,54:46:00
+1001–1200,Carlos III University of Madrid,Spain,18133.00,11,17%,46:54:00
+1001–1200,Technical University of Cartagena,Spain,4466.00,10,9%,27 : 73
+1001–1200,University of Castilla-La Mancha,Spain,22524.00,12.8,8%,57:43:00
+1001–1200,Universidad Católica San Antonio de Murcia (UCAM),Spain,10727.00,19.5,15%,56:44:00
+1001–1200,University of Central Lancashire,United Kingdom,19285.00,14.4,25%,58:42:00
+1001–1200,Chang Gung University,Taiwan,7016.00,12.1,5%,49:51:00
+1001–1200,Charles Sturt University,Australia,22735.00,20.2,20%,61:39:00
+1001–1200,Chiang Mai University,Thailand,34110.00,14,3%,66:34:00
+1001–1200,Chiba University,Japan,13640.00,8.5,5%,38 : 62
+1001–1200,University of Chile,Chile,37286.00,15.5,5%,50:50:00
+1001–1200,"China University of Geosciences, Beijing",China,16758.00,16.6,1%,41:59:00
+1001–1200,China Pharmaceutical University,China,24270.00,22.4,2%,69:31:00
+1001–1200,Chonnam National University,South Korea,24436.00,19.9,6%,48:52:00
+1001–1200,Clarkson University,United States,4024.00,14.9,9%,35 : 65
+1001–1200,Comenius University in Bratislava,Slovakia,21788.00,10.6,14%,64:36:00
+1001–1200,Creighton University,United States,9641.00,14.9,4%,60:40:00
+1001–1200,Czech University of Life Sciences Prague (CZU),Czech Republic,18057.00,17.6,22%,54:46:00
+1001–1200,University of Debrecen,Hungary,29045.00,17.7,22%,55:45:00
+1001–1200,University of Delhi,India,27471.00,25.6,1%,48:52:00
+1001–1200,Don State Technical University,,26241.00,12.8,12%,n/a
+1001–1200,Dr B.R. Ambedkar National Institute of Technology Jalandhar,India,5016.00,23.7,0%,1.011805556
+1001–1200,East China University of Science and Technology,China,28718.00,16.9,2%,44:56:00
+1001–1200,University of East London,United Kingdom,12180.00,21.9,44%,58:42:00
+1001–1200,École Centrale de Lyon,France,2108.00,14.3,26%,24 : 76
+1001–1200,University of Engineering & Technology (UET) Lahore,Pakistan,13163.00,13.9,3%,1.011805556
+1001–1200,Universidade Estadual Paulista (Unesp),Brazil,42008.00,15.6,3%,51:49:00
+1001–1200,European University of Madrid,Spain,10684.00,10.7,32%,49:51:00
+1001–1200,University of Extremadura,Spain,20509.00,11.2,2%,56:44:00
+1001–1200,Federal University of Rio de Janeiro,Brazil,45747.00,11.4,1%,55:45:00
+1001–1200,Universidade Federal de Santa Catarina,Brazil,38751.00,16.1,2%,49:51:00
+1001–1200,Federal University of Technology Akure,Nigeria,19593.00,21.1,0%,28 : 72
+1001–1200,Ferdowsi University of Mashhad,Iran,25269.00,30.9,9%,54:46:00
+1001–1200,Florida Institute of Technology,United States,5091.00,14.9,25%,35 : 65
+1001–1200,University of Fortaleza (UNIFOR),Brazil,21115.00,18.5,0%,51:49:00
+1001–1200,Fu Jen Catholic University,Taiwan,18619.00,29,5%,58:42:00
+1001–1200,Fujian Agriculture and Forestry University,China,29188.00,16.9,1%,54:46:00
+1001–1200,University of Ghana,Ghana,54256.00,32.4,1%,48:52:00
+1001–1200,Guangxi University,China,39172.00,19.8,2%,46:54:00
+1001–1200,University of Gujrat,Pakistan,11975.00,23.5,0%,58:42:00
+1001–1200,Guru Jambheshwar University of Science and Technology,India,6420.00,19.3,0%,44:56:00
+1001–1200,Hakim Sabzevari University,Iran,7940.00,19.8,4%,53:47:00
+1001–1200,Hamamatsu University School of Medicine,Japan,1204.00,4.6,2%,49:51:00
+1001–1200,Huaqiao University,China,31351.00,17.2,18%,53:47:00
+1001–1200,Hyogo College of Medicine,Japan,937.00,2.2,0%,30 : 70
+1001–1200,Ibn Tofaïl University,Morocco,51802.00,71.9,3%,49:51:00
+1001–1200,Ilia State University,Georgia,16196.00,10.2,3%,63:37:00
+1001–1200,Ilmenau University of Technology,Germany,5425.00,17.4,30%,28 : 72
+1001–1200,IMT Nord Europe,France,1484.00,16.1,21%,1.011805556
+1001–1200,"Indian Institute of Science Education and Research, Pune",India,1512.00,10.4,0%,31 : 69
+1001–1200,Indian Institute of Science Education and Research Kolkata,India,1563.00,12.3,0%,28 : 72
+1001–1200,Indian Institute of Technology Bhubaneswar,India,2102.00,14.7,0%,0.725
+1001–1200,Indian Institute of Technology Guwahati,India,6353.00,13.8,1%,0.970833333
+1001–1200,Indian Institute of Technology (Indian School of Mines) Dhanbad,India,7002.00,20.7,1%,0.725
+1001–1200,Indian Institute of Technology Mandi,India,1587.00,11.6,1%,26 : 74
+1001–1200,University of Indonesia,Indonesia,41123.00,8.6,14%,68:32:00
+1001–1200,Inha University,South Korea,17103.00,21,8%,42:58:00
+1001–1200,Isfahan University of Medical Sciences,Iran,10102.00,10.2,2%,63:37:00
+1001–1200,Isfahan University of Technology,Iran,11323.00,23.5,1%,40 : 60
+1001–1200,Istanbul University,Turkey,59250.00,25.1,8%,53:47:00
+1001–1200,Istanbul University-Cerrahpaşa,Turkey,25638.00,21.7,3%,36 : 64
+1001–1200,Jadavpur University,India,14217.00,21.7,0%,30 : 70
+1001–1200,Jaume I University,Spain,11495.00,14.6,10%,58:42:00
+1001–1200,University of Jeddah,Saudi Arabia,26236.00,13.9,2%,67:33:00
+1001–1200,Jeonbuk National University,South Korea,20453.00,19.9,7%,46:54:00
+1001–1200,Jiangnan University,China,29614.00,13.1,1%,n/a
+1001–1200,Jiangsu Normal University,China,23978.00,14.3,2%,n/a
+1001–1200,Jiangxi University of Finance and Economics,China,24395.00,18.5,2%,55:45:00
+1001–1200,The Jikei University School of Medicine,Japan,1093.00,0.9,0%,44:56:00
+1001–1200,Kanazawa University,Japan,9886.00,9.4,7%,39 : 61
+1001–1200,Kaohsiung Medical University,Taiwan,6490.00,11.8,6%,59:41:00
+1001–1200,Kharkiv National University of Radio Electronics,Ukraine,7704.00,9.9,10%,26 : 74
+1001–1200,K.N. Toosi University of Technology,Iran,8403.00,26.6,2%,34 : 66
+1001–1200,Kumamoto University,Japan,9536.00,10,6%,38 : 62
+1001–1200,Kwame Nkrumah University of Science and Technology,Ghana,87443.00,78.1,1%,43:57:00
+1001–1200,Kyoto Prefectural University of Medicine,Japan,1371.00,3.4,1%,46:54:00
+1001–1200,University of Las Palmas de Gran Canaria,Spain,15612.00,16.9,8%,58:42:00
+1001–1200,Lebanese University,Lebanon,46256.00,14.8,16%,70:30:00
+1001–1200,University of Leoben,Austria,2604.00,4.6,17%,24 : 76
+1001–1200,University of León,Spain,14828.00,15.3,5%,56:44:00
+1001–1200,Lorestan University,Iran,9059.00,23.6,1%,57:43:00
+1001–1200,Lusophone University of Humanities and Technologies,Portugal,7544.00,10.7,22%,53:47:00
+1001–1200,Universiti Malaysia Perlis,Malaysia,10937.00,13.6,5%,45:55:00
+1001–1200,University of Manouba,Tunisia,16315.00,12.1,1%,59:41:00
+1001–1200,University of Maragheh,Iran,3146.00,19.9,0%,56:44:00
+1001–1200,University of Marrakech Cadi Ayyad,Morocco,110826.00,44.8,1%,50:50:00
+1001–1200,University of Mauritius,Mauritius,8710.00,21.5,1%,55:45:00
+1001–1200,University of Mazandaran,Iran,13320.00,33.1,6%,62:38:00
+1001–1200,Medical University of Bialystok,Poland,5494.00,12.7,8%,76:24:00
+1001–1200,Menoufia University,Egypt,100182.00,34.3,0%,43:57:00
+1001–1200,Miguel Hernández University of Elche,Spain,12276.00,17,7%,48:52:00
+1001–1200,Morgan State University,United States,6129.00,11.7,8%,59:41:00
+1001–1200,University of Murcia,Spain,26351.00,16,8%,59:41:00
+1001–1200,Nanjing University of Aeronautics and Astronautics,China,32300.00,15.6,3%,30 : 70
+1001–1200,Nanjing Medical University,China,20660.00,8.6,4%,n/a
+1001–1200,National Autonomous University of Mexico,Mexico,172729.00,17.4,4%,52:48:00
+1001–1200,National Central University,Taiwan,10853.00,9.7,9%,36 : 64
+1001–1200,National University of Colombia,Colombia,42188.00,15.8,1%,39 : 61
+1001–1200,National Taipei University of Technology,Taiwan,9873.00,15.7,11%,28 : 72
+1001–1200,National Taiwan Ocean University,Taiwan,8905.00,21,6%,33 : 67
+1001–1200,National Institute of Technology Rourkela,India,7583.00,20.6,4%,1.011805556
+1001–1200,Necmettin Erbakan University,Turkey,18420.00,13.4,13%,51:49:00
+1001–1200,Niigata University,Japan,12037.00,7.6,3%,38 : 62
+1001–1200,Northwest University,China,26073.00,14,1%,53:47:00
+1001–1200,Oakland University,United States,15413.00,17.8,4%,58:42:00
+1001–1200,Óbuda University,Hungary,11804.00,38.4,6%,0.929861111
+1001–1200,Okayama University,Japan,13012.00,10.4,10%,40 : 60
+1001–1200,University of Oviedo,Spain,18599.00,11.6,2%,53:47:00
+1001–1200,Palacký University Olomouc,Czech Republic,18673.00,14.5,13%,69:31:00
+1001–1200,University of Patras,Greece,29393.00,25.6,6%,51:49:00
+1001–1200,Pavol Jozef Šafárik University in Košice,Slovakia,6867.00,10,23%,67:33:00
+1001–1200,University of Pécs,Hungary,17711.00,12.6,23%,57:43:00
+1001–1200,PMAS Arid Agriculture University Rawalpindi,Pakistan,11456.00,44.8,0%,37 : 63
+1001–1200,Polytechnic Institute of Porto,Portugal,18743.00,16.9,7%,48:52:00
+1001–1200,Pondicherry University,India,7291.00,22.6,1%,47:53:00
+1001–1200,Portland State University,United States,18067.00,19.3,6%,58:42:00
+1001–1200,Port Said University,Egypt,29534.00,29.8,0%,49:51:00
+1001–1200,Public University of Navarre,Spain,7806.00,11.2,8%,51:49:00
+1001–1200,University of Puerto Rico,Puerto Rico,47257.00,17,1%,61:39:00
+1001–1200,Pusan National University,South Korea,21018.00,17,6%,51:49:00
+1001–1200,Reichman University,Israel,8030.00,18.7,28%,51:49:00
+1001–1200,University Rey Juan Carlos,Spain,43160.00,20.3,7%,59:41:00
+1001–1200,Rikkyo University,Japan,20014.00,15.1,5%,n/a
+1001–1200,Robert Gordon University,United Kingdom,8955.00,19.1,25%,60:40:00
+1001–1200,Rochester Institute of Technology,United States,14520.00,15.7,16%,36 : 64
+1001–1200,Rowan University,United States,17912.00,14.4,3%,47:53:00
+1001–1200,Sahand University of Technology,Iran,4595.00,24.5,0%,35 : 65
+1001–1200,Sakarya University,Turkey,40331.00,25.1,8%,54:46:00
+1001–1200,Universidad San Francisco de Quito,Ecuador,10338.00,13.6,5%,49:51:00
+1001–1200,University of Sargodha,Pakistan,23740.00,31,0%,53:47:00
+1001–1200,Semnan University of Medical Sciences and Health Services,Iran,3536.00,8.3,7%,64:36:00
+1001–1200,University of Seville,Spain,49155.00,16.7,12%,58:42:00
+1001–1200,Shahid Beheshti University of Medical Sciences,Iran,12850.00,8.7,3%,58:42:00
+1001–1200,Shahrekord University,Iran,7268.00,21.1,0%,56:44:00
+1001–1200,Shahrood University of Technology,Iran,8221.00,21.1,1%,44:56:00
+1001–1200,Shanghai Maritime University,China,23263.00,16.7,2%,46:54:00
+1001–1200,Sidi Mohamed Ben Abdellah University,Morocco,90045.00,53.3,2%,48:52:00
+1001–1200,Siksha ‘O’ Anusandhan,India,13990.00,12.4,1%,54:46:00
+1001–1200,University of Social Welfare and Rehabilitation Sciences,Iran,1746.00,10.9,2%,68:32:00
+1001–1200,Sogang University,South Korea,9625.00,24,15%,46:54:00
+1001–1200,Sohag University,Egypt,60248.00,26.4,0%,56:44:00
+1001–1200,University of South Africa,South Africa,236282.00,232.2,3%,73:27:00
+1001–1200,University of South Dakota,United States,7129.00,14.7,3%,63:37:00
+1001–1200,University of the South Pacific,Fiji,12052.00,36.6,1%,58:42:00
+1001–1200,South Valley University,Egypt,52035.00,30,1%,57:43:00
+1001–1200,University of South Wales,United Kingdom,15625.00,15.4,21%,53:47:00
+1001–1200,University of Split,Croatia,19363.00,16.3,2%,57:43:00
+1001–1200,Ştefan cel Mare University of Suceava,Romania,9239.00,24.8,14%,59:41:00
+1001–1200,St Marianna University School of Medicine,Japan,833.00,0.9,1%,39 : 61
+1001–1200,University of Sunderland,United Kingdom,12050.00,15.9,40%,60:40:00
+1001–1200,SWPS University of Social Sciences and Humanities,Poland,14522.00,37.6,8%,78:22:00
+1001–1200,University of Szeged,Hungary,20023.00,12.5,22%,55:45:00
+1001–1200,Tallinn University,Estonia,4178.00,9.6,16%,71:29:00
+1001–1200,Technical University of Crete,Greece,6597.00,31.6,4%,37 : 63
+1001–1200,Technical University of Madrid,Spain,38976.00,15.6,16%,32 : 68
+1001–1200,Technological University Dublin,Ireland,20686.00,18.7,21%,44:56:00
+1001–1200,Teesside University,United Kingdom,13135.00,19.3,20%,57:43:00
+1001–1200,University of Texas Rio Grande Valley,United States,29420.00,23.5,3%,60:40:00
+1001–1200,Tokyo Medical University,Japan,1370.00,1.7,1%,45:55:00
+1001–1200,Tokyo Metropolitan University,Japan,8829.00,10.6,6%,39 : 61
+1001–1200,Tomsk Polytechnic University,,9077.00,9.8,30%,31 : 69
+1001–1200,Toyota Technological Institute,Japan,489.00,9.4,2%,0.397222222
+1001–1200,University of Trás-os-Montes and Alto Douro,Portugal,7123.00,11.1,8%,55:45:00
+1001–1200,Universiti Tunku Abdul Rahman (UTAR),Malaysia,18183.00,15.8,3%,51:49:00
+1001–1200,Ufa State Petroleum Technological University,,13106.00,9.4,11%,36 : 64
+1001–1200,Urmia University,Iran,13910.00,27.2,2%,50:50:00
+1001–1200,"University of Veterinary and Animal Sciences, Lahore",Pakistan,7087.00,19.6,1%,50:50:00
+1001–1200,"Vietnam National University, Hanoi",Vietnam,48070.00,15.3,1%,63:37:00
+1001–1200,University of Vigo,Spain,17613.00,15.4,6%,51:49:00
+1001–1200,Waseda University,Japan,46799.00,14.6,13%,39 : 61
+1001–1200,University of Westminster,United Kingdom,16945.00,20.8,50%,61:39:00
+1001–1200,Wuhan University of Technology,China,55426.00,14.9,2%,30 : 70
+1001–1200,Xidian University,China,37205.00,16,1%,27 : 73
+1001–1200,Yarmouk University,Jordan,36443.00,33.2,10%,69:31:00
+1001–1200,Yasouj University,Iran,5713.00,23.6,0%,56:44:00
+1001–1200,Yıldız Technical University,Turkey,25532.00,26,11%,48:52:00
+1001–1200,University of Zaragoza,Spain,28085.00,10.1,8%,54:46:00
+1001–1200,Zhejiang Gongshang University,China,22676.00,15.8,5%,61:39:00
+1001–1200,Zhejiang University of Technology,China,32095.00,14.5,6%,n/a
+1001–1200,University of Žilina,Slovakia,7545.00,13.4,3%,35 : 65
+1001–1200,University of Zimbabwe,Zimbabwe,20598.00,23.9,0%,51:49:00
+1201–1500,Université 8 Mai 1945 Guelma,Algeria,17530.00,20.1,1%,67:33:00
+1201–1500,Abdelmalek Essaâdi University,Morocco,112677.00,88.2,1%,50:50:00
+1201–1500,Acharya Nagarjuna University,India,4872.00,7.9,7%,38 : 62
+1201–1500,Acıbadem University,Turkey,2784.00,6.1,3%,74:26:00
+1201–1500,Adolfo Ibáñez University,Chile,10573.00,25.7,5%,38 : 62
+1201–1500,AGH University of Krakow,Poland,20240.00,12.7,3%,35 : 65
+1201–1500,Aichi Medical University,Japan,1323.00,2.9,1%,57:43:00
+1201–1500,Universitas Airlangga,Indonesia,26142.00,7.7,2%,66:34:00
+1201–1500,Akdeniz University,Turkey,44434.00,32.7,3%,33 : 67
+1201–1500,University of Alicante,Spain,22094.00,14.4,10%,58:42:00
+1201–1500,Altai State University,,9120.00,19.6,24%,55:45:00
+1201–1500,Anadolu University,Turkey,20815.00,17,3%,53:47:00
+1201–1500,"University of the Andes, Chile",Chile,9405.00,18.9,3%,58:42:00
+1201–1500,Andhra University,India,9048.00,13.2,6%,49:51:00
+1201–1500,Universidad Andrés Bello (UNAB),Chile,46325.00,19.5,4%,54:46:00
+1201–1500,Ankara University,Turkey,71311.00,15.2,5%,46:54:00
+1201–1500,University of Antioquia,Colombia,38437.00,21.5,0%,51:49:00
+1201–1500,"Arab Academy for Science, Technology and Maritime Transport",Egypt,32049.00,13.8,12%,33 : 67
+1201–1500,Arak University,Iran,6379.00,21.3,6%,67:33:00
+1201–1500,Ariel University,Israel,12418.00,20.7,0%,49:51:00
+1201–1500,Atatürk University,Turkey,56419.00,30.2,3%,51:49:00
+1201–1500,Austral University of Chile,Chile,17434.00,17.5,1%,53:47:00
+1201–1500,Banasthali University,India,10092.00,17.1,5%,100:00:00
+1201–1500,Bandung Institute of Technology (ITB),Indonesia,20915.00,13.9,2%,44:56:00
+1201–1500,Bangladesh Agricultural University (BAU),Bangladesh,9918.00,17.3,1%,34 : 66
+1201–1500,Bangladesh University of Engineering and Technology,Bangladesh,6268.00,13,0%,0.970833333
+1201–1500,University of Benin,Nigeria,47468.00,25.2,0%,50:50:00
+1201–1500,Bezmiâlem Vakif University,Turkey,2904.00,9.5,6%,71:29:00
+1201–1500,BINUS University,Indonesia,15331.00,14.3,4%,41:59:00
+1201–1500,Bozok University,Turkey,14642.00,16.8,6%,50:50:00
+1201–1500,University of Brasília,Brazil,45737.00,15.2,1%,52:48:00
+1201–1500,The British University in Egypt,Egypt,11042.00,16.2,3%,46:54:00
+1201–1500,Brno University of Technology,Czech Republic,18762.00,16.6,23%,29 : 71
+1201–1500,Bu-Ali Sina University,Iran,10838.00,23.4,1%,56:44:00
+1201–1500,University of Bucharest,Romania,31267.00,32.7,2%,68:32:00
+1201–1500,Budapest University of Technology and Economics,Hungary,18728.00,17,12%,31 : 69
+1201–1500,University of Cadiz,Spain,18672.00,16.8,9%,56:44:00
+1201–1500,Canterbury Christ Church University,United Kingdom,10740.00,17.8,14%,69:31:00
+1201–1500,University of Carthage,Tunisia,28962.00,9.9,1%,67:33:00
+1201–1500,The Catholic University of Korea,South Korea,9782.00,7.1,4%,60:40:00
+1201–1500,Catholic University of the North,Chile,11343.00,20.4,3%,47:53:00
+1201–1500,Chang Gung University of Science and Technology,Taiwan,6326.00,26.5,1%,90:10:00
+1201–1500,"University of Chemistry and Technology, Prague",Czech Republic,4006.00,8,22%,58:42:00
+1201–1500,University of Chester,United Kingdom,10435.00,18,15%,68:32:00
+1201–1500,Chosun University,South Korea,21073.00,27.3,3%,48:52:00
+1201–1500,Chungbuk National University,South Korea,17219.00,14.2,5%,44:56:00
+1201–1500,Chungnam National University,South Korea,21244.00,20.7,4%,47:53:00
+1201–1500,Chung Yuan Christian University,Taiwan,15037.00,31.3,9%,46:54:00
+1201–1500,Cochin University of Science and Technology,India,3969.00,16.9,1%,60:40:00
+1201–1500,University of Colorado Colorado Springs,United States,12380.00,21.2,1%,55:45:00
+1201–1500,University of Concepción,Chile,28112.00,17.1,2%,52:48:00
+1201–1500,Corvinus University of Budapest,Hungary,11225.00,21.3,15%,53:47:00
+1201–1500,Czech Technical University in Prague,Czech Republic,16217.00,8.8,20%,0.847916667
+1201–1500,Damghan University,Iran,4980.00,28.6,0%,62:38:00
+1201–1500,De La Salle University,Philippines,12941.00,14.9,3%,50:50:00
+1201–1500,Del Rosario University,Colombia,11751.00,13.2,2%,59:41:00
+1201–1500,Democritus University of Thrace,Greece,22230.00,37,4%,56:44:00
+1201–1500,Dokuz Eylül University,Turkey,56233.00,17.6,3%,47:53:00
+1201–1500,Ege University,Turkey,33062.00,18.5,4%,57:43:00
+1201–1500,Ehime University,Japan,9204.00,13.3,2%,38 : 62
+1201–1500,El Bosque University,Colombia,12721.00,6.6,0%,65:35:00
+1201–1500,The University of Electro-Communications,Japan,4662.00,15.4,6%,0.561111111
+1201–1500,Erciyes University,Turkey,50212.00,36.2,4%,47:53:00
+1201–1500,Escuela Superior Politécnica del Litoral,Ecuador,11549.00,12.8,1%,38 : 62
+1201–1500,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,22458.00,9.1,0%,56:44:00
+1201–1500,Far Eastern Federal University,,15585.00,12.3,21%,n/a
+1201–1500,Universidade Federal do ABC (UFABC),Brazil,16706.00,22.2,1%,35 : 65
+1201–1500,Universidade Federal da Bahia,Brazil,45692.00,17.4,0%,51:49:00
+1201–1500,Federal University of Espírito Santo,Brazil,23475.00,13.4,1%,54:46:00
+1201–1500,Federal University of Goiás,Brazil,25511.00,13.7,1%,50:50:00
+1201–1500,Federal University of Lavras,Brazil,14637.00,18.4,1%,52:48:00
+1201–1500,Universidade Federal do Paraná (UFPR),Brazil,33621.00,13.4,0%,63:37:00
+1201–1500,Federal University of Rio Grande do Norte (UFRN),Brazil,37879.00,14.7,0%,40 : 60
+1201–1500,Federal University of Santa Maria,Brazil,27242.00,13.7,1%,53:47:00
+1201–1500,Federal University of São Carlos,Brazil,20314.00,15.4,1%,50:50:00
+1201–1500,Federal University of Uberlândia,Brazil,25748.00,13.6,1%,52:48:00
+1201–1500,Federal University of Viçosa,Brazil,16436.00,13.3,2%,55:45:00
+1201–1500,Federico Santa María Technical University,Chile,22405.00,30,3%,26 : 74
+1201–1500,University of Fort Hare,South Africa,13626.00,38.4,2%,57:43:00
+1201–1500,University of La Frontera,Chile,11053.00,22,1%,50:50:00
+1201–1500,Fujian Normal University,China,31697.00,14.2,2%,n/a
+1201–1500,Université de Gabès,Tunisia,13152.00,12.8,1%,75:25:00
+1201–1500,Universitas Gadjah Mada,Indonesia,38089.00,8.1,4%,55:45:00
+1201–1500,Gazi University,Turkey,41358.00,20.6,3%,50:50:00
+1201–1500,University of Gdańsk,Poland,19970.00,23.9,2%,67:33:00
+1201–1500,Gdańsk University of Technology,Poland,14816.00,19.9,5%,38 : 62
+1201–1500,Gebze Technical University,Turkey,8403.00,22.7,2%,43:57:00
+1201–1500,Georgia Southern University,United States,22885.00,18.8,3%,59:41:00
+1201–1500,German University in Cairo,Egypt,11937.00,14.9,1%,44:56:00
+1201–1500,Gifu University,Japan,7216.00,7.5,5%,38 : 62
+1201–1500,Government College University Lahore,Pakistan,11276.00,19.4,0%,42:58:00
+1201–1500,Grand Valley State University,United States,20972.00,15.3,1%,61:39:00
+1201–1500,Gunma University,Japan,6300.00,7.7,5%,38 : 62
+1201–1500,Gyeongsang National University,South Korea,12996.00,12.3,3%,47:53:00
+1201–1500,Hallym University,South Korea,7947.00,9.4,4%,n/a
+1201–1500,Harbin Engineering University,China,29861.00,18.7,3%,1.011805556
+1201–1500,Hasanuddin University,Indonesia,33601.00,14.6,1%,60:40:00
+1201–1500,The Hashemite University,Jordan,16647.00,27.9,7%,61:39:00
+1201–1500,Université Hassan II de Casablanca,Morocco,124623.00,36,2%,52:48:00
+1201–1500,Université Polytechnique Hauts-de-France,France,13633.00,21.2,13%,46:54:00
+1201–1500,Helwan University,Egypt,127379.00,19.3,2%,53:47:00
+1201–1500,Hosei University,Japan,30300.00,39.2,4%,38 : 62
+1201–1500,University of Hradec Králové,Czech Republic,6390.00,12.3,3%,65:35:00
+1201–1500,Hungarian University of Agriculture and Life Sciences,Hungary,10474.00,10.5,14%,53:47:00
+1201–1500,University of Ilorin,Nigeria,40901.00,34.8,1%,48:52:00
+1201–1500,Immanuel Kant Baltic Federal University,,7041.00,16.2,15%,62:38:00
+1201–1500,Incheon National University,South Korea,13210.00,17.3,3%,n/a
+1201–1500,Indian Institute of Science Education and Research Bhopal,India,1724.00,14.1,0%,32 : 68
+1201–1500,International Hellenic University,Greece,45009.00,49,1%,54:46:00
+1201–1500,IPB University,Indonesia,23580.00,6.7,3%,58:42:00
+1201–1500,Irkutsk National Research Technical University,,9710.00,10.8,10%,38 : 62
+1201–1500,University of Isfahan,Iran,16756.00,24.7,4%,61:39:00
+1201–1500,Istanbul Medipol University,Turkey,24332.00,20.4,11%,65:35:00
+1201–1500,Ivan Franko National University of Lviv,Ukraine,18357.00,10,1%,65:35:00
+1201–1500,Jawaharlal Nehru Technological University Anantapur (JNTUA),India,5683.00,16.1,0%,38 : 62
+1201–1500,Jeju National University,South Korea,11741.00,17.6,4%,52:48:00
+1201–1500,Jianghan University,China,19522.00,15.5,2%,55:45:00
+1201–1500,Kagawa University,Japan,6369.00,9.9,2%,42:58:00
+1201–1500,Kanazawa Medical University,Japan,1090.00,2.2,2%,54:46:00
+1201–1500,Kangwon National University,South Korea,22104.00,22,3%,41:59:00
+1201–1500,Karabük University,Turkey,47263.00,41.8,22%,39 : 61
+1201–1500,Kaunas University of Technology,Lithuania,8361.00,14.2,8%,34 : 66
+1201–1500,Kazan National Research Technical University,,7068.00,12.7,12%,26 : 74
+1201–1500,Kazan National Research Technological University,,13064.00,11.4,17%,41:59:00
+1201–1500,Kazan State Medical University,,5657.00,10.4,25%,61:39:00
+1201–1500,Kharazmi University,Iran,12607.00,19,4%,54:46:00
+1201–1500,Khon Kaen University,Thailand,34434.00,18.1,2%,59:41:00
+1201–1500,Khulna University of Engineering and Technology (KUET),Bangladesh,5562.00,15,0%,1.011805556
+1201–1500,King Mongkut's University of Technology North Bangkok,Thailand,27055.00,22.8,0%,43:57:00
+1201–1500,Kitasato University,Japan,8605.00,5.2,1%,54:46:00
+1201–1500,Kochi University of Technology,Japan,2593.00,20.3,2%,25 : 75
+1201–1500,Universiti Kuala Lumpur,Malaysia,15858.00,12.3,3%,41:59:00
+1201–1500,Kyushu Institute of Technology (Kyutech),Japan,5646.00,16,5%,0.643055556
+1201–1500,Lahore College for Women University (LCWU),Pakistan,10457.00,17.7,0%,100:00:00
+1201–1500,University of Lethbridge,Canada,7172.00,13.3,11%,n/a
+1201–1500,L.N. Gumilyov Eurasian National University,Kazakhstan,19358.00,14.1,4%,57:43:00
+1201–1500,Lobachevsky State University of Nizhni Novgorod,,18767.00,9.1,12%,51:49:00
+1201–1500,Londrina State University,Brazil,21180.00,11.2,1%,58:42:00
+1201–1500,University of Lucknow,India,17291.00,39.2,0%,50:50:00
+1201–1500,"Lumière University, Lyon 2",France,25186.00,47.2,18%,68:32:00
+1201–1500,University of Malaga,Spain,35888.00,13.8,6%,54:46:00
+1201–1500,Universiti Malaysia Kelantan,Malaysia,8787.00,20.1,3%,71:29:00
+1201–1500,Universiti Malaysia Sarawak (UNIMAS),Malaysia,13956.00,17.9,7%,73:27:00
+1201–1500,University of Maribor,Slovenia,12403.00,14.3,10%,53:47:00
+1201–1500,Marmara University,Turkey,62414.00,30.6,6%,51:49:00
+1201–1500,Mendel University in Brno,Czech Republic,8886.00,16.5,20%,57:43:00
+1201–1500,Metropolitan Autonomous University,Mexico,59709.00,21.1,1%,50:50:00
+1201–1500,Mie University,Japan,7125.00,8.4,4%,38 : 62
+1201–1500,Ming Chi University of Technology,Taiwan,4514.00,19.5,2%,26 : 74
+1201–1500,Mohammed V University of Rabat,Morocco,88644.00,43.3,3%,52:48:00
+1201–1500,University of Monastir,Tunisia,19203.00,9.6,2%,70:30:00
+1201–1500,Moscow Aviation Institute,,15493.00,12.8,12%,28 : 72
+1201–1500,Moscow State University of Civil Engineering,,11918.00,12.7,8%,n/a
+1201–1500,Multimedia University,Malaysia,7116.00,10.6,11%,51:49:00
+1201–1500,University of Mumbai,India,13330.00,23.5,1%,51:49:00
+1201–1500,University of Mysore,India,7970.00,21.4,10%,42:58:00
+1201–1500,Nagaoka University of Technology,Japan,2189.00,11.1,12%,0.479166667
+1201–1500,Nagasaki University,Japan,8869.00,6.7,6%,39 : 61
+1201–1500,Nagoya City University,Japan,4514.00,7.5,4%,48:52:00
+1201–1500,National Chengchi University,Taiwan,12489.00,14.8,13%,57:43:00
+1201–1500,National Chin-Yi University of Technology,Taiwan,7294.00,23.2,5%,30 : 70
+1201–1500,National Chung Cheng University,Taiwan,8650.00,15.4,4%,44:56:00
+1201–1500,National Chung Hsing University,Taiwan,15150.00,16.8,7%,41:59:00
+1201–1500,National University of Distance Education (UNED),Spain,66141.00,56.9,5%,54:46:00
+1201–1500,National Dong Hwa University,Taiwan,10008.00,17.8,8%,52:48:00
+1201–1500,National Research University of Electronic Technology (MIET),,4736.00,9.3,7%,28 : 72
+1201–1500,National Research Saratov State University,,9826.00,9.3,11%,58:42:00
+1201–1500,National University of San Martín,Argentina,16276.00,16.1,5%,60:40:00
+1201–1500,National Technical University Kharkiv Polytechnic Institute,Ukraine,11413.00,7.9,13%,32 : 68
+1201–1500,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,21170.00,8,3%,30 : 70
+1201–1500,Nicolaus Copernicus University in Toruń,Poland,19684.00,13,4%,67:33:00
+1201–1500,University of Nigeria Nsukka,Nigeria,43108.00,11.4,1%,46:54:00
+1201–1500,Slovak University of Agriculture in Nitra,Slovakia,4870.00,11.3,3%,52:48:00
+1201–1500,University of North Carolina Wilmington,United States,15940.00,19.1,2%,64:36:00
+1201–1500,North China Electric Power University,China,37861.00,19.1,3%,36 : 64
+1201–1500,"University of the North, Colombia",Colombia,13991.00,19,1%,51:49:00
+1201–1500,Obafemi Awolowo University,Nigeria,29939.00,23.3,0%,41:59:00
+1201–1500,Oles Honchar Dnipro National University,Ukraine,9522.00,12.1,1%,60:40:00
+1201–1500,Opole University of Technology,Poland,5604.00,14.5,7%,33 : 67
+1201–1500,Oran 1 University,Algeria,25775.00,19.2,1%,66:34:00
+1201–1500,Osaka Metropolitan University,Japan,15827.00,11.5,5%,37 : 63
+1201–1500,Osmania University,India,10814.00,23.7,3%,32 : 68
+1201–1500,University of Ostrava,Czech Republic,8492.00,16.4,11%,69:31:00
+1201–1500,University of Pannonia,Hungary,5351.00,17.3,6%,49:51:00
+1201–1500,Paris Nanterre University,France,34972.00,37.4,17%,63:37:00
+1201–1500,University of Pau and Pays de l’Adour,France,14186.00,14.5,14%,52:48:00
+1201–1500,Universitas Pendidikan Indonesia,Indonesia,32320.00,20.1,1%,64:36:00
+1201–1500,Persian Gulf University,Iran,5070.00,21.3,3%,55:45:00
+1201–1500,Pirogov Russian National Research Medical University,,9607.00,5.9,5%,74:26:00
+1201–1500,Pontifical Catholic University of Peru,Peru,25644.00,7.8,1%,46:54:00
+1201–1500,Pontifical Catholic University of Valparaíso,Chile,17703.00,26.6,1%,43:57:00
+1201–1500,Pontifícia Universidade Católica do Paraná,Brazil,12301.00,14.7,1%,55:45:00
+1201–1500,Poznan University of Medical Sciences,Poland,7495.00,6,14%,72:28:00
+1201–1500,Poznan University of Technology,Poland,14502.00,11.6,4%,33 : 67
+1201–1500,University of Primorska,Slovenia,6089.00,16.6,15%,76:24:00
+1201–1500,Prince of Songkla University,Thailand,32779.00,13,2%,70:30:00
+1201–1500,Qassim University,Saudi Arabia,42159.00,10.2,6%,62:38:00
+1201–1500,Riga Technical University,Latvia,10745.00,33.4,21%,33 : 67
+1201–1500,Ritsumeikan University,Japan,34906.00,17.3,10%,37 : 63
+1201–1500,University of the Ryukyus,Japan,7534.00,9.9,2%,39 : 61
+1201–1500,Saga University,Japan,6577.00,9.9,3%,41:59:00
+1201–1500,Université Saint-Joseph de Beyrouth,Lebanon,7906.00,11.3,6%,62:38:00
+1201–1500,Saitama Medical University,Japan,1908.00,1.4,0%,51:49:00
+1201–1500,Samara National Research University (Samara University),,9172.00,11.3,17%,46:54:00
+1201–1500,"University of Santiago, Chile (USACH)",Chile,23419.00,22.5,2%,44:56:00
+1201–1500,Sapporo Medical University,Japan,1299.00,3.2,0%,45:55:00
+1201–1500,SASTRA University,India,9945.00,13.8,1%,45:55:00
+1201–1500,Sathyabama Institute of Science and Technology,India,12971.00,12.1,5%,48:52:00
+1201–1500,Universitas Sebelas Maret,Indonesia,28398.00,18.3,1%,64:36:00
+1201–1500,Selçuk University,Turkey,36084.00,19.6,7%,55:45:00
+1201–1500,Semnan University,Iran,15415.00,13.7,1%,50:50:00
+1201–1500,University of Seoul,South Korea,9759.00,17.5,4%,40 : 60
+1201–1500,Seoul National University of Science and Technology (SeoulTech),South Korea,9526.00,14.9,8%,36 : 64
+1201–1500,University of Sfax,Tunisia,29118.00,12.9,2%,68:32:00
+1201–1500,Shahed University,Iran,5501.00,16.8,0%,48:52:00
+1201–1500,Shahid Bahonar University of Kerman,Iran,14509.00,23.8,1%,60:40:00
+1201–1500,​Shahid Chamran University of Ahvaz,Iran,15096.00,25.6,4%,58:42:00
+1201–1500,Shahid Rajaee Teacher Training University,Iran,9060.00,38.1,0%,31 : 69
+1201–1500,University of Shanghai for Science and Technology,China,25884.00,9.7,2%,41:59:00
+1201–1500,Shibaura Institute of Technology,Japan,9007.00,27.9,6%,0.806944444
+1201–1500,Shiga University of Medical Science,Japan,1160.00,3.1,3%,49:51:00
+1201–1500,Shinshu University,Japan,10603.00,10.4,3%,32 : 68
+1201–1500,Showa University,Japan,3662.00,1.6,0%,60:40:00
+1201–1500,Siberian Federal University,,9724.00,18.9,13%,36 : 64
+1201–1500,Silesian University of Technology,Poland,18396.00,12.4,4%,32 : 68
+1201–1500,Sofia University,Bulgaria,22490.00,6.5,6%,65:35:00
+1201–1500,Soonchunhyang University,South Korea,11543.00,19.2,4%,49:51:00
+1201–1500,Soongsil University,South Korea,16142.00,19.8,10%,47:53:00
+1201–1500,Université Sorbonne Nouvelle,France,16698.00,24,29%,77:23:00
+1201–1500,University of Sousse,Tunisia,25602.00,13.4,2%,68:32:00
+1201–1500,Southern Federal University,,17299.00,10.2,14%,65:35:00
+1201–1500,Southwest Jiaotong University,China,46881.00,17.4,1%,34 : 66
+1201–1500,Sri Venkateswara University,India,7248.00,14.6,0%,45:55:00
+1201–1500,SRM Institute of Science and Technology,India,50680.00,15.1,2%,28 : 72
+1201–1500,Staffordshire University,United Kingdom,10050.00,17.5,13%,49:51:00
+1201–1500,State University of Malang,Indonesia,36741.00,35.6,4%,61:39:00
+1201–1500,St Petersburg Electrotechnical University (LETI),,8495.00,13.4,21%,30 : 70
+1201–1500,Suranaree University of Technology,Thailand,15505.00,30.4,2%,56:44:00
+1201–1500,University of Talca,Chile,11372.00,12.5,1%,51:49:00
+1201–1500,Tamkang University,Taiwan,23207.00,22.9,7%,48:52:00
+1201–1500,University of Tarapacá,Chile,9758.00,30.2,3%,54:46:00
+1201–1500,Taras Shevchenko National University of Kyiv,Ukraine,23857.00,10,5%,57:43:00
+1201–1500,Technical University of Košice,Slovakia,9348.00,12.3,20%,27 : 73
+1201–1500,Technological University of Pereira,Colombia,17968.00,18.4,0%,43:57:00
+1201–1500,University of Technology of Compiègne,France,4269.00,15.9,21%,38 : 62
+1201–1500,University of Technology of Troyes,France,3189.00,19.4,23%,24 : 76
+1201–1500,Teikyo University,Japan,22937.00,15.9,5%,36 : 64
+1201–1500,Universiti Teknikal Malaysia Melaka,Malaysia,11716.00,16.3,7%,40 : 60
+1201–1500,Institut Teknologi Sepuluh Nopember,Indonesia,17893.00,10.6,3%,40 : 60
+1201–1500,Texas State University,United States,31639.00,19.3,1%,59:41:00
+1201–1500,Tezpur University,India,4028.00,15,1%,41:59:00
+1201–1500,Thammasat University,Thailand,30995.00,11.7,1%,64:36:00
+1201–1500,The John Paul II Catholic University of Lublin,Poland,10070.00,10.7,9%,62:38:00
+1201–1500,TOBB University of Economics and Technology,Turkey,4822.00,12.8,1%,47:53:00
+1201–1500,Toho University,Japan,5421.00,13.4,0%,53:47:00
+1201–1500,Tokai University,Japan,28334.00,15.8,4%,27 : 73
+1201–1500,Tokat Gaziosmanpaşa University,Turkey,19358.00,14.6,11%,50:50:00
+1201–1500,Tokushima University,Japan,7508.00,9.6,3%,36 : 64
+1201–1500,Tokyo University of Agriculture and Technology,Japan,5686.00,15.2,6%,32 : 68
+1201–1500,Tokyo University of Marine Science and Technology,Japan,2595.00,10.5,8%,33 : 67
+1201–1500,Tokyo University of Science,Japan,18091.00,24.3,3%,25 : 75
+1201–1500,Tomas Bata University in Zlín,Czech Republic,9129.00,19.6,10%,56:44:00
+1201–1500,University of Toyama,Japan,8988.00,12,3%,39 : 61
+1201–1500,Toyohashi University of Technology (TUT),Japan,2033.00,10.6,14%,0.561111111
+1201–1500,Transilvania University of Brașov,Romania,19351.00,18,1%,52:48:00
+1201–1500,Tshwane University of Technology,South Africa,45862.00,39.6,2%,53:47:00
+1201–1500,Tunghai University,Taiwan,15160.00,20.3,10%,55:45:00
+1201–1500,University of Tunis El Manar,Tunisia,26825.00,11.1,2%,70:30:00
+1201–1500,Tzu Chi University,Taiwan,3373.00,9.8,10%,62:38:00
+1201–1500,UNIR – International University of La Rioja,Spain,27135.00,26.7,41%,62:38:00
+1201–1500,Unisinos University,Brazil,9529.00,18.2,0%,61:39:00
+1201–1500,Université Chouaïb Doukkali,Morocco,21654.00,33.6,2%,55:45:00
+1201–1500,Universiti Malaysia Terengganu (UMT),Malaysia,9510.00,15.7,5%,70:30:00
+1201–1500,Universiti Tun Hussein Onn Malaysia (UTHM),Malaysia,15498.00,16.4,6%,47:53:00
+1201–1500,Ural Federal University,,26370.00,13.1,17%,50:50:00
+1201–1500,USAMV Cluj-Napoca,Romania,5643.00,18.5,7%,52:48:00
+1201–1500,University of Valladolid,Spain,21780.00,11.2,8%,57:43:00
+1201–1500,Veltech University,India,8568.00,13.6,2%,0.684027778
+1201–1500,University of Venda,South Africa,11407.00,27.8,1%,60:40:00
+1201–1500,"Vignan’s Foundation for Science, Technology and Research",India,7072.00,11.7,1%,47:53:00
+1201–1500,Vilnius Gediminas Technical University (Vilnius Tech),Lithuania,8322.00,13,11%,32 : 68
+1201–1500,"Visvesvaraya National Institute of Technology, Nagpur",India,4882.00,16.6,3%,0.970833333
+1201–1500,V.N. Karazin Kharkiv National University,Ukraine,17080.00,8.5,26%,55:45:00
+1201–1500,Volgograd State Technical University,,11790.00,13.1,9%,32 : 68
+1201–1500,Voronezh State Technical University,,9947.00,9.3,6%,34 : 66
+1201–1500,Vytautas Magnus University,Lithuania,7765.00,11.3,14%,61:39:00
+1201–1500,Warsaw University of Life Sciences – SGGW,Poland,15736.00,13.6,6%,59:41:00
+1201–1500,Warsaw University of Technology,Poland,25021.00,18.9,7%,34 : 66
+1201–1500,University of West Bohemia,Czech Republic,11054.00,14.7,4%,54:46:00
+1201–1500,University of Western Macedonia,Greece,7891.00,33.6,1%,50:50:00
+1201–1500,Western Michigan University,United States,17612.00,19.9,8%,52:48:00
+1201–1500,Wrocław University of Environmental and Life Sciences,Poland,7351.00,17.1,4%,68:32:00
+1201–1500,University of Wrocław,Poland,19501.00,16.4,7%,67:33:00
+1201–1500,Wuhan Textile University,China,22221.00,16,1%,55:45:00
+1201–1500,Xiangtan University,China,32981.00,21.9,1%,51:49:00
+1201–1500,Xuzhou Medical University,China,13796.00,20.3,3%,n/a
+1201–1500,Yamagata University,Japan,8684.00,8.8,2%,34 : 66
+1201–1500,University of Yamanashi,Japan,4604.00,6.1,5%,30 : 70
+1201–1500,Yazd University,Iran,14448.00,30.3,2%,56:44:00
+1201–1500,Yokohama National University,Japan,9723.00,13.1,8%,29 : 71
+1201–1500,Yuan Ze University,Taiwan,7339.00,24.3,6%,43:57:00
+1201–1500,Yuriy Fedkovych Chernivtsi National University,Ukraine,11353.00,10.9,1%,56:44:00
+1201–1500,University of Zagreb,Croatia,65436.00,16.6,4%,60:40:00
+1201–1500,University of Zanjan,Iran,9611.00,23.5,0%,53:47:00
+1201–1500,Zanjan University of Medical Sciences,Iran,4698.00,10.9,1%,56:44:00
+1501+,University of Abou Bekr Belkaïd Tlemcen,Algeria,40203.00,20.2,1%,68:32:00
+1501+,Akita University,Japan,5016.00,10.5,4%,36 : 64
+1501+,Aksaray University,Turkey,21377.00,25.7,8%,48:52:00
+1501+,Alexandru Ioan Cuza University,Romania,24847.00,22.1,7%,57:43:00
+1501+,Alzahra University,Iran,10128.00,23.6,2%,100:00:00
+1501+,"University of the Andes, Venezuela",Venezuela,24372.00,11.7,2%,61:39:00
+1501+,Annamalai University,India,15770.00,11.5,1%,55:45:00
+1501+,Aoyama Gakuin University,Japan,19348.00,11.7,3%,50:50:00
+1501+,Universidad Autónoma Chapingo,Mexico,6228.00,7.9,1%,45:55:00
+1501+,Universidad Autónoma de Ciudad Juárez,Mexico,36107.00,15.4,2%,54:46:00
+1501+,Universidad Autónoma de Coahuila,Mexico,28202.00,29.2,0%,56:44:00
+1501+,Universidad Autónoma del Estado de Hidalgo,Mexico,37596.00,18.9,1%,57:43:00
+1501+,Universidad Autónoma del Estado de Mexico (UAEMex),Mexico,62789.00,10.9,1%,58:42:00
+1501+,Universidad Autónoma del Estado de Morelos,Mexico,30239.00,15.9,0%,55:45:00
+1501+,Universidad Autónoma de Nuevo León (UANL),Mexico,132684.00,47.3,1%,50:50:00
+1501+,Universidad Autónoma de Querétaro,Mexico,25399.00,45.3,1%,56:44:00
+1501+,Universidad Autónoma de Yucatán,Mexico,18446.00,14.7,0%,50:50:00
+1501+,Autonomous University of Baja California,Mexico,66282.00,22.4,3%,53:47:00
+1501+,Badji Mokhtar University – Annaba,Algeria,41841.00,14.2,1%,63:37:00
+1501+,University of Baghdad,Iraq,73873.00,9.4,0%,57:43:00
+1501+,Baku State University,Azerbaijan,23323.00,13.3,2%,66:34:00
+1501+,Bashkir State University,,14740.00,13.1,3%,59:41:00
+1501+,Başkent University,Turkey,13172.00,13,2%,59:41:00
+1501+,University of Basrah,Iraq,41612.00,12.9,0%,58:42:00
+1501+,University of Béjaïa,Algeria,41381.00,24.4,2%,61:39:00
+1501+,Belarusian State University,,24277.00,7.9,18%,60:40:00
+1501+,Belgorod State National Research University,,13990.00,15.7,19%,62:38:00
+1501+,Benemérita Universidad Autónoma de Puebla,Mexico,75483.00,40.5,1%,53:47:00
+1501+,Bialystok University of Technology,Poland,6417.00,10.6,4%,36 : 64
+1501+,University of Bío-Bío,Chile,12343.00,24.8,1%,43:57:00
+1501+,University of Biskra,Algeria,33049.00,23.1,0%,63:37:00
+1501+,Blida 1 University,Algeria,30076.00,20.4,1%,68:32:00
+1501+,Bolu Abant Izzet Baysal University,Turkey,24348.00,23.5,3%,55:45:00
+1501+,University of Brawijaya,Indonesia,50116.00,12.3,1%,56:44:00
+1501+,Burapha University,Thailand,30800.00,21.8,1%,70:30:00
+1501+,Bursa Uludağ University,Turkey,42787.00,25.3,9%,47:53:00
+1501+,Catholic University of Brasília,Brazil,8865.00,17.8,0%,53:47:00
+1501+,University of Caxias do Sul,Brazil,13554.00,25.8,0%,51:49:00
+1501+,Ceará State University,Brazil,18436.00,16.6,0%,58:42:00
+1501+,Manisa Celal Bayar University,Turkey,40533.00,22.4,2%,51:49:00
+1501+,Chaoyang University of Technology,Taiwan,14645.00,38.1,6%,55:45:00
+1501+,Chiba Institute of Technology,Japan,9895.00,24.3,2%,0.643055556
+1501+,Chinese Culture University,Taiwan,23216.00,23.3,5%,50:50:00
+1501+,Chubu University,Japan,9128.00,16.8,2%,27 : 73
+1501+,Chuo University,Japan,25954.00,35.3,4%,38 : 62
+1501+,University of Colima,Mexico,13665.00,9.6,0%,54:46:00
+1501+,Comillas Pontifical University,Spain,10065.00,21.8,6%,55:45:00
+1501+,Communication University of China,China,16350.00,14,5%,n/a
+1501+,Cracow University of Technology,Poland,13339.00,12.9,2%,38 : 62
+1501+,University of Craiova,Romania,18411.00,22.5,4%,49:51:00
+1501+,Cukurova University,Turkey,40200.00,17.8,5%,44:56:00
+1501+,University of Dar es Salaam,Tanzania,37385.00,24.8,0%,44:56:00
+1501+,Dicle University,Turkey,31401.00,17.3,2%,44:56:00
+1501+,Diponegoro University,Indonesia,38567.00,13.5,2%,56:44:00
+1501+,Dokkyo Medical University,Japan,1338.00,1.2,0%,51:49:00
+1501+,Doshisha University,Japan,27764.00,18.5,4%,42:58:00
+1501+,Dumlupinar University,Turkey,49511.00,50.4,8%,43:57:00
+1501+,Dunarea de Jos University of Galati,Romania,12770.00,16.6,21%,59:41:00
+1501+,EAFIT University,Colombia,14164.00,23.8,2%,44:56:00
+1501+,Erzincan Binali Yıldırım University,Turkey,13773.00,18.7,3%,54:46:00
+1501+,Escuela Politécnica Nacional,Ecuador,7084.00,12.9,1%,29 : 71
+1501+,Eskişehir Osmangazi University,Turkey,30822.00,19.6,3%,45:55:00
+1501+,Universidade do Estado de Santa Catarina,Brazil,12404.00,12.9,1%,52:48:00
+1501+,Universidade Estadual do Norte Fluminense Darcy Ribeiro,Brazil,6910.00,23,0%,61:39:00
+1501+,Universidade Estadual de Maringá,Brazil,19442.00,12.6,0%,55:45:00
+1501+,Universidade Estadual do Oeste do Paraná (Unioeste),Brazil,10540.00,9,0%,59:41:00
+1501+,"Federal University of Agriculture, Abeokuta",Nigeria,17038.00,25.9,0%,50:50:00
+1501+,Universidade Federal do Ceará (UFC),Brazil,40899.00,19.8,1%,44:56:00
+1501+,Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA),Brazil,4882.00,13.6,1%,70:30:00
+1501+,Universidade Federal do Triângulo Mineiro,Brazil,11992.00,20.5,0%,59:41:00
+1501+,Universidade Federal do Vale do São Francisco,Brazil,6395.00,11,0%,49:51:00
+1501+,Federal University of Itajubá,Brazil,8596.00,17.1,1%,30 : 70
+1501+,Universidade Federal de Juiz de Fora,Brazil,26085.00,16.5,0%,54:46:00
+1501+,Universidade Federal do Maranhão (UFMA),Brazil,32222.00,16.2,0%,52:48:00
+1501+,Federal University of Mato Grosso do Sul,Brazil,26142.00,15.6,1%,55:45:00
+1501+,Universidade Federal de Ouro Preto (UFOP),Brazil,15453.00,17.1,1%,50:50:00
+1501+,Federal University of Pará,Brazil,43211.00,16.3,0%,52:48:00
+1501+,Federal University of Paraí­ba (UFPB),Brazil,36815.00,14.3,0%,51:49:00
+1501+,Federal University of Pelotas,Brazil,23242.00,17.1,0%,56:44:00
+1501+,Federal University of Pernambuco,Brazil,34356.00,14.2,1%,50:50:00
+1501+,Federal University of Piauí,Brazil,52000.00,24.6,0%,n/a
+1501+,Federal Rural University of Pernambuco,Brazil,20185.00,16,0%,48:52:00
+1501+,Universidade Federal Rural do Semi-Arido,Brazil,6750.00,10,0%,46:54:00
+1501+,Federal University of the State of Rio de Janeiro (UNIRIO),Brazil,20874.00,22.7,8%,n/a
+1501+,Federal University of Vales do Jequitinhonha e Mucuri,Brazil,10708.00,13.2,0%,59:41:00
+1501+,Feng Chia University,Taiwan,19298.00,23.3,7%,39 : 61
+1501+,Fluminense Federal University,Brazil,70979.00,21.1,0%,49:51:00
+1501+,Université Frères Mentouri Constantine 1,Algeria,36423.00,22.2,1%,62:38:00
+1501+,Universidad de las Fuerzas Armadas – ESPE,Ecuador,18562.00,13.4,0%,37 : 63
+1501+,University of Fukui,Japan,4902.00,8,5%,31 : 69
+1501+,Fukuoka University,Japan,19637.00,9.5,1%,40 : 60
+1501+,Gaziantep University,Turkey,33225.00,38,11%,47:53:00
+1501+,"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Romania,8752.00,14,11%,64:36:00
+1501+,Gheorghe Asachi Technical University of Iaşi,Romania,13884.00,21,9%,30 : 70
+1501+,GITAM University,India,22094.00,14.1,1%,35 : 65
+1501+,Grigore T. Popa University of Medicine and Pharmacy,Romania,9605.00,10.8,27%,68:32:00
+1501+,University of Guadalajara,Mexico,138372.00,17.8,0%,53:47:00
+1501+,University of Guanajuato,Mexico,29558.00,20.9,1%,55:45:00
+1501+,Gubkin Russian State University of Oil and Gas,,9015.00,12.4,8%,34 : 66
+1501+,Hanoi University of Science and Technology,Vietnam,32758.00,31.1,0%,0.970833333
+1501+,Université Hassan 1er,Morocco,47480.00,51.8,2%,51:49:00
+1501+,University of Havana,Cuba,15002.00,8.6,4%,63:37:00
+1501+,Hellenic Open University,Greece,19311.00,6.8,1%,61:39:00
+1501+,Hue University,Vietnam,47590.00,22,1%,57:43:00
+1501+,University of Hyogo,Japan,6592.00,12.7,3%,42:58:00
+1501+,Ibaraki University,Japan,7863.00,14.8,3%,35 : 65
+1501+,Universidad Industrial de Santander (UIS),Colombia,20708.00,13.8,1%,45:55:00
+1501+,Industrial University of Tyumen,,11336.00,10.4,6%,35 : 65
+1501+,Inönü University,Turkey,30348.00,19.2,2%,36 : 64
+1501+,Instituto Politécnico Nacional (IPN),Mexico,133839.00,12.6,0%,42:58:00
+1501+,Irkutsk State University,,13334.00,14.1,4%,68:32:00
+1501+,I-Shou University,Taiwan,11691.00,27.5,16%,50:50:00
+1501+,Islamic University of Indonesia,Indonesia,24392.00,28.2,4%,45:55:00
+1501+,Ivane Javakhishvili Tbilisi State University,Georgia,22080.00,29.1,3%,61:39:00
+1501+,Ivanovo State University of Chemistry and Technology,,3788.00,18.5,6%,45:55:00
+1501+,Iwate University,Japan,5305.00,13.1,4%,37 : 63
+1501+,Izmir Institute of Technology,Turkey,5542.00,18.5,3%,46:54:00
+1501+,Jan Evangelista Purkyně University,Czech Republic,7966.00,18.1,3%,66:34:00
+1501+,Jean Moulin University – Lyon 3,France,27907.00,40.6,20%,65:35:00
+1501+,Kagoshima University,Japan,10326.00,10.2,2%,37 : 63
+1501+,Kanagawa University,Japan,17457.00,14.8,4%,30 : 70
+1501+,Kansai University,Japan,30335.00,12.3,3%,41:59:00
+1501+,University of Karachi,Pakistan,43740.00,36.3,0%,57:43:00
+1501+,Karadeniz Technical University,Turkey,34824.00,25.8,4%,44:56:00
+1501+,Kasetsart University,Thailand,68589.00,18.4,1%,63:37:00
+1501+,Kemerovo State University,,15311.00,20.8,6%,67:33:00
+1501+,King Mongkut’s Institute of Technology Ladkrabang,Thailand,24243.00,20.6,1%,54:46:00
+1501+,Kirikkale University,Turkey,27790.00,46.2,2%,49:51:00
+1501+,Kocaeli University,Turkey,67200.00,45.7,3%,41:59:00
+1501+,Kochi University,Japan,5480.00,8.2,1%,44:56:00
+1501+,Kogakuin University,Japan,6317.00,17.5,1%,0.847916667
+1501+,Kookmin University,South Korea,17238.00,12,11%,49:51:00
+1501+,University of Kufa,Iraq,28175.00,12.3,0%,65:35:00
+1501+,Kwansei Gakuin University,Japan,25537.00,24.8,4%,49:51:00
+1501+,Kyoto Sangyo University,Japan,12110.00,21.1,2%,34 : 66
+1501+,Kyoto Institute of Technology,Japan,3958.00,13.4,6%,29 : 71
+1501+,Ladoke Akintola University of Technology,Nigeria,25953.00,53.1,0%,49:51:00
+1501+,Latvia University of Life Sciences and Technologies,Latvia,3891.00,24.9,4%,52:48:00
+1501+,University of Łódź,Poland,22273.00,16.7,8%,63:37:00
+1501+,Lodz University of Technology,Poland,12642.00,17.8,4%,39 : 61
+1501+,Lucian Blaga University of Sibiu,Romania,13154.00,16.5,2%,60:40:00
+1501+,University of Macerata (UNIMC),Italy,10561.00,23.7,5%,76:24:00
+1501+,Mackenzie Presbyterian University,Brazil,27482.00,27.3,0%,59:41:00
+1501+,Mahasarakham University,Thailand,37351.00,30,1%,57:43:00
+1501+,Mapúa University,Philippines,6576.00,23.9,1%,36 : 64
+1501+,Maria Curie-Skłodowska University (UMCS),Poland,18263.00,12.6,9%,68:32:00
+1501+,Matej Bel University,Slovakia,6987.00,14.2,8%,71:29:00
+1501+,Medical University of Silesia in Katowice,Poland,10267.00,7.6,5%,74:26:00
+1501+,Meiji University,Japan,33090.00,34.2,5%,35 : 65
+1501+,Meijo University,Japan,15043.00,30.3,1%,34 : 66
+1501+,Mendeleev University of Chemical Technology,,7037.00,15,6%,56:44:00
+1501+,M’Hamed Bougara University of Boumerdès,Algeria,32336.00,22.2,1%,60:40:00
+1501+,Universidad Michoacana de San Nicolás de Hidalgo,Mexico,41022.00,22.9,1%,46:54:00
+1501+,Ming Chuan University,Taiwan,18024.00,21.7,10%,61:39:00
+1501+,MIREA - Russian Technological University,,26533.00,22.4,5%,30 : 70
+1501+,University of Miskolc,Hungary,9021.00,16.1,5%,49:51:00
+1501+,University of Miyazaki,Japan,5456.00,7.5,3%,35 : 65
+1501+,University Mohamed Boudiaf of M’Sila,Algeria,38267.00,19.4,1%,26 : 74
+1501+,University of Montenegro,Montenegro,16793.00,24.3,2%,57:43:00
+1501+,Moscow Polytechnic University,,11250.00,12.7,13%,40 : 60
+1501+,Moscow Power Engineering Institute,,14483.00,20.9,14%,32 : 68
+1501+,University of Mosul,Iraq,60460.00,15.9,0%,46:54:00
+1501+,Université Mouloud Mammeri de Tizi-Ouzou,Algeria,41107.00,18.1,0%,66:34:00
+1501+,Muroran Institute of Technology,Japan,3397.00,20.3,6%,0.643055556
+1501+,Mustansiriyah University,Iraq,33105.00,7.1,1%,51:49:00
+1501+,Universidad Nacional del Litoral,Argentina,47336.00,30,0%,60:40:00
+1501+,Universidad Nacional Mayor de San Marcos,Peru,47716.00,26.1,0%,71:29:00
+1501+,Nagoya Institute of Technology,Japan,5774.00,16.3,5%,0.765972222
+1501+,Naresuan University,Thailand,24827.00,16.7,1%,66:34:00
+1501+,National Changhua University of Education,Taiwan,8515.00,23.2,4%,49:51:00
+1501+,National Chiayi University,Taiwan,12059.00,26.3,3%,49:51:00
+1501+,National Chi Nan University,Taiwan,5773.00,14.6,11%,54:46:00
+1501+,National University of Córdoba,Argentina,167063.00,16.2,1%,64:36:00
+1501+,National Formosa University,Taiwan,11134.00,19,1%,0.970833333
+1501+,National Ilan University,Taiwan,5476.00,23,2%,36 : 64
+1501+,National University of Kaohsiung,Taiwan,5741.00,24,4%,41:59:00
+1501+,National Kaohsiung University of Science and Technology,Taiwan,28128.00,28.2,2%,36 : 64
+1501+,National Taipei University,Taiwan,8344.00,16,5%,54:46:00
+1501+,National United University,Taiwan,7418.00,20.7,1%,32 : 68
+1501+,Nizhny Novgorod State Technical University,,7728.00,12,3%,25 : 75
+1501+,Nnamdi Azikiwe University,Nigeria,33509.00,15.7,0%,46:54:00
+1501+,North-Caucasus Federal University,,17829.00,8.2,10%,51:49:00
+1501+,North-Eastern Federal University,,12449.00,12.5,3%,55:45:00
+1501+,Northern (Arctic) Federal University named after M.V. Lomonosov,,7623.00,15.3,8%,54:46:00
+1501+,North-Western State Medical University named after I.I. Mechnikov,,6392.00,5.8,10%,n/a
+1501+,Nosov Magnitogorsk State Technical University,,8128.00,14.4,3%,45:55:00
+1501+,Universidade Nove de Julho (Uninove),Brazil,79285.00,25.4,1%,58:42:00
+1501+,University of Novi Sad,Serbia,47669.00,15.3,1%,57:43:00
+1501+,Novosibirsk State Technical University,,11566.00,10.7,22%,45:55:00
+1501+,Nueva Granada Military University,Colombia,17620.00,10.4,0%,46:54:00
+1501+,Ochanomizu University,Japan,2743.00,14.9,6%,100:00:00
+1501+,Ogarev Mordovia State University,,15472.00,14.6,13%,49:51:00
+1501+,Oita University,Japan,5433.00,8.5,2%,38 : 62
+1501+,Omsk State Technical University,,12553.00,11.6,18%,34 : 66
+1501+,Ondokuz Mayis University,Turkey,33798.00,16,15%,50:50:00
+1501+,University of Oradea,Romania,15840.00,17.2,6%,55:45:00
+1501+,Osaka Institute of Technology,Japan,7160.00,30.3,1%,0.602083333
+1501+,Osaka Medical and Pharmaceutical University,Japan,3094.00,5.5,1%,59:41:00
+1501+,Ovidius University of Constanța,Romania,18344.00,12.7,6%,47:53:00
+1501+,Universitas Padjadjaran,Indonesia,35873.00,12.1,1%,60:40:00
+1501+,Universidad Panamericana (UP),Mexico,14504.00,8.5,1%,48:52:00
+1501+,University of Pardubice,Czech Republic,7606.00,14,7%,56:44:00
+1501+,University of Passo Fundo (UPF),Brazil,11671.00,24.7,0%,58:42:00
+1501+,Pavlov First Saint Petersburg State Medical University,,5493.00,6.3,13%,74:26:00
+1501+,Payame Noor University,Iran,454155.00,124.7,1%,60:40:00
+1501+,Pedagogical and Technological University of Colombia,Colombia,32037.00,15.4,0%,54:46:00
+1501+,Penza State University,,18451.00,17.2,11%,57:43:00
+1501+,Perm National Research Polytechnic University,,8565.00,10.2,9%,36 : 64
+1501+,Perm State University,,9837.00,12.1,5%,57:43:00
+1501+,University of Pernambuco,Brazil,18556.00,17,0%,43:57:00
+1501+,Platov South-Russian State Polytechnic University (NPI),,7208.00,15.7,8%,0.929861111
+1501+,Universidad Politécnica Salesiana,Ecuador,21335.00,20.7,1%,41:59:00
+1501+,Polytechnic University of Bucharest,Romania,30287.00,24.4,4%,36 : 64
+1501+,Polytechnic University of Timişoara,Romania,13081.00,21.5,2%,37 : 63
+1501+,Pontifical Catholic University of Minas Gerais,Brazil,39142.00,34,0%,56:44:00
+1501+,Universidad Pontificia Bolivariana (UPB),Colombia,11497.00,11.5,2%,55:45:00
+1501+,Pontificia Universidad Católica del Ecuador,Ecuador,23170.00,15,1%,57:43:00
+1501+,Prague University of Economics and Business,Czech Republic,13700.00,28.1,27%,52:48:00
+1501+,Privolzhsky Research Medical University,,6202.00,10.8,18%,54:46:00
+1501+,PSG College of Technology,India,8594.00,15.3,0%,38 : 62
+1501+,Recep Tayyip Erdoğan University,Turkey,13468.00,19.2,4%,53:47:00
+1501+,University of Rijeka,Croatia,13155.00,15.6,2%,58:42:00
+1501+,Russian Presidential Academy of National Economy and Public Administration,,16464.00,9.8,4%,60:40:00
+1501+,R V College of Engineering,India,5953.00,15.4,0%,29 : 71
+1501+,Ryukoku University,Japan,15692.00,27.7,2%,37 : 63
+1501+,Rzeszów University of Technology,Poland,11259.00,12.1,1%,38 : 62
+1501+,University of La Sabana,Colombia,12123.00,15.5,2%,57:43:00
+1501+,Saitama University,Japan,8457.00,14.9,6%,33 : 67
+1501+,Samara State Technical University,,13689.00,16.2,4%,38 : 62
+1501+,San Sebastián University,Chile,19858.00,10.4,0%,61:39:00
+1501+,Satbayev University,Kazakhstan,9243.00,9.7,4%,38 : 62
+1501+,University of Science and Technology of Oran Mohamed-Boudiaf,Algeria,19115.00,6.9,1%,49:51:00
+1501+,SGH Warsaw School of Economics,Poland,9092.00,17.7,12%,50:50:00
+1501+,Shimane University,Japan,6055.00,7.7,3%,38 : 62
+1501+,Shizuoka University,Japan,9926.00,14.2,4%,29 : 71
+1501+,University of Shizuoka,Japan,3125.00,11.9,3%,61:39:00
+1501+,Siberian State Medical University,,6522.00,11.1,24%,70:30:00
+1501+,Sichuan University of Science and Engineering,China,38707.00,21.2,1%,43:57:00
+1501+,University of Silesia in Katowice,Poland,19962.00,12,3%,67:33:00
+1501+,Silpakorn University,Thailand,24310.00,21,1%,69:31:00
+1501+,University of Sistan and Baluchestan,Iran,9109.00,20.3,1%,57:43:00
+1501+,Sivas Cumhuriyet University,Turkey,44942.00,34.8,4%,49:51:00
+1501+,Slovak University of Technology in Bratislava,Slovakia,10976.00,8.8,5%,28 : 72
+1501+,University of Sonora,Mexico,35026.00,25.6,1%,56:44:00
+1501+,Sophia University,Japan,13402.00,11.8,12%,60:40:00
+1501+,Southwest State University,,6878.00,14,11%,41:59:00
+1501+,Srinakharinwirot University,Thailand,26673.00,19.6,0%,67:33:00
+1501+,State University of Ponta Grossa,Brazil,8453.00,9.1,1%,55:45:00
+1501+,State University of Santa Cruz,Brazil,6887.00,9.4,1%,56:44:00
+1501+,Süleyman Demirel University,Turkey,41032.00,34.8,5%,50:50:00
+1501+,Universitas Sumatera Utara,Indonesia,36146.00,21.1,2%,54:46:00
+1501+,Tamil Nadu Agricultural University,India,6724.00,8.7,0%,62:38:00
+1501+,Technical University of Cluj-Napoca,Romania,18649.00,20.5,2%,38 : 62
+1501+,Technical University of Liberec,Czech Republic,5222.00,11.5,11%,52:48:00
+1501+,Technical University of Loja,Ecuador,51567.00,33.4,1%,56:44:00
+1501+,Technical University of Sofia,Bulgaria,10339.00,11.6,9%,27 : 73
+1501+,Universidade Tecnológica Federal do Paraná (UTFPR),Brazil,33484.00,12.8,1%,35 : 65
+1501+,Universiti Teknologi MARA,Malaysia,60563.00,16,1%,67:33:00
+1501+,Telkom University,Indonesia,18977.00,18.2,1%,43:57:00
+1501+,Temuco Catholic University,Chile,10629.00,12.3,1%,60:40:00
+1501+,Tokyo University of Agriculture,Japan,12907.00,32.7,1%,43:57:00
+1501+,Tokyo City University,Japan,7415.00,15.5,2%,24 : 76
+1501+,Tokyo Denki University,Japan,9846.00,28.5,3%,0.602083333
+1501+,Tokyo University of Pharmacy and Life Sciences,Japan,3853.00,18.9,1%,52:48:00
+1501+,Tomsk State University of Control Systems and Radioelectronics,,6185.00,14.1,14%,32 : 68
+1501+,Tottori University,Japan,5995.00,8.1,2%,38 : 62
+1501+,Toyo University,Japan,30465.00,24.2,6%,43:57:00
+1501+,University of Tunis,Tunisia,16418.00,12.8,2%,68:32:00
+1501+,University of Tyumen,,11569.00,15.4,9%,61:39:00
+1501+,Ufa State Aviation Technical University,,8865.00,13.2,2%,35 : 65
+1501+,Universitas Andalas,Indonesia,32537.00,21.6,0%,55:45:00
+1501+,Universiti Malaysia Sabah (UMS),Malaysia,17068.00,19,4%,67:33:00
+1501+,Uşak University,Turkey,20902.00,38.1,11%,47:53:00
+1501+,Utsunomiya University,Japan,4829.00,14.1,4%,37 : 63
+1501+,University of Valparaíso,Chile,16371.00,18.3,2%,58:42:00
+1501+,Van Yüzüncü Yil University,Turkey,20523.00,17,3%,44:56:00
+1501+,Vietnam National University (Ho Chi Minh City),Vietnam,75704.00,21.7,1%,46:54:00
+1501+,V.I. Vernadsky Crimean Federal University (Vernadsky CFU),,21501.00,11.2,8%,58:42:00
+1501+,Voronezh State University,,15534.00,11.7,16%,57:43:00
+1501+,VSB - Technical University of Ostrava,Czech Republic,11087.00,14.4,10%,33 : 67
+1501+,Walailak University,Thailand,8553.00,13.3,1%,73:27:00
+1501+,University of Warmia and Mazury in Olsztyn,Poland,17690.00,17.7,2%,59:41:00
+1501+,University of West Attica,Greece,34530.00,33.6,0%,49:51:00
+1501+,West University of Timişoara,Romania,14527.00,24.6,6%,66:34:00
+1501+,Wrocław University of Science and Technology,Poland,23657.00,20.3,6%,35 : 65
+1501+,Yamaguchi University,Japan,10724.00,11.1,7%,38 : 62
+1501+,Yanshan University,China,38649.00,13.2,1%,39 : 61
+1501+,Yeditepe University,Turkey,17038.00,28.2,5%,55:45:00
+1501+,Yuri Gagarin State Technical University of Saratov (SSTU),,28280.00,34.1,1%,42:58:00
+1501+,Zonguldak Bülent Ecevit University,Turkey,28319.00,25.4,8%,47:53:00
+Reporter,University Abdelhamid Ibn Badis Mostaganem,Algeria,24493.00,19.3,1%,67:33:00
+Reporter,Abdullah Gül University,Turkey,2509.00,20.1,9%,43:57:00
+Reporter,Abertay University,United Kingdom,4010.00,21.7,22%,48:52:00
+Reporter,"Adamawa State University, Mubi",Nigeria,17840.00,70,0%,35 : 65
+Reporter,AECC University College,United Kingdom,615.00,15.4,43%,47:53:00
+Reporter,Afe Babalola University,Nigeria,9085.00,11.1,1%,59:41:00
+Reporter,Aga Khan University,Pakistan,1356.00,2.3,1%,65:35:00
+Reporter,Ahl Al Bayt University,Iraq,2879.00,14.3,1%,51:49:00
+Reporter,Aichi Prefectural University,Japan,3302.00,15.2,1%,72:28:00
+Reporter,Air University,Pakistan,6404.00,15.2,0%,32 : 68
+Reporter,Ajeenkya DY Patil University,India,2793.00,16.4,0%,24 : 76
+Reporter,Tashkent Metropolitan University,Uzbekistan,317.00,22.6,5%,51:49:00
+Reporter,Ajman University,United Arab Emirates,5050.00,16.4,82%,59:41:00
+Reporter,Akita Prefectural University,Japan,1826.00,8.5,1%,26 : 74
+Reporter,Akwa Ibom State University,Nigeria,10026.00,20.7,0%,42:58:00
+Reporter,Al-Ayen University,Iraq,11000.00,51.2,0%,66:34:00
+Reporter,Alex Ekwueme Federal University Ndufu-Alike,Nigeria,12962.00,16.8,0%,52:48:00
+Reporter,Al-Ahliyya Amman University,Jordan,4192.00,11.8,57%,50:50:00
+Reporter,Al-Farabi University College,Iraq,4309.00,16,0%,36 : 64
+Reporter,Al-Farahidi University,Iraq,17080.00,65.9,0%,47:53:00
+Reporter,Al-Esraa University College,Iraq,16150.00,22.2,0%,n/a
+Reporter,University of Al-Hamdaniya,Iraq,2302.00,26.5,0%,32 : 68
+Reporter,Alisher Navo’i Tashkent State University of Uzbek Language and Literature,Uzbekistan,3614.00,12.9,6%,82:18:00
+Reporter,Al-Kitab University,Iraq,7206.00,16.9,0%,32 : 68
+Reporter,Al-Maarif University College,Iraq,6000.00,17.6,1%,60:40:00
+Reporter,Al-Manara College for Medical Sciences,Iraq,4538.00,30.9,0%,47:53:00
+Reporter,Almazov National Medical Research Centre,,1188.00,5,2%,70:30:00
+Reporter,Al-Mustaqbal University,Iraq,9698.00,20.8,0%,41:59:00
+Reporter,Al-Muthanna University,Iraq,15591.00,23.1,0%,55:45:00
+Reporter,Al-Nahrain University,Iraq,5716.00,6.2,0%,49:51:00
+Reporter,Al-Noor University College,Iraq,6454.00,40.6,0%,62:38:00
+Reporter,Al-Quds University,Palestine,12170.00,12.3,6%,62:38:00
+Reporter,Altınbaş University,Turkey,8204.00,13.7,47%,41:59:00
+Reporter,American International University – Bangladesh,Bangladesh,10738.00,26.6,0%,24 : 76
+Reporter,American University of Madaba,Jordan,1685.00,17.9,26%,47:53:00
+Reporter,American University of Nigeria,Nigeria,1100.00,10.1,2%,49:51:00
+Reporter,American University of Ras Al Khaimah,United Arab Emirates,784.00,8.1,63%,50:50:00
+Reporter,"Amity University, Gurugram",India,5695.00,14.8,2%,40 : 60
+Reporter,"Amity University, Gwalior",India,2160.00,12.6,0%,43:57:00
+Reporter,"Amity University Rajasthan, Jaipur",India,2971.00,12.5,0%,33 : 67
+Reporter,"Amity University, Mumbai",India,4358.00,22.7,0%,48:52:00
+Reporter,Andijan State Medical Institute,Uzbekistan,6831.00,9.5,5%,47:53:00
+Reporter,Andrés Bello Catholic University (UCAB),Venezuela,10857.00,17.8,1%,50:50:00
+Reporter,Anglo-American University,Czech Republic,620.00,12.7,80%,40 : 60
+Reporter,Ankara Science University,Turkey,393.00,9.6,19%,62:38:00
+Reporter,Arab American University,Palestine,12070.00,31.1,44%,58:42:00
+Reporter,Arab Open University – Kuwait,Kuwait,9139.00,103.9,64%,57:43:00
+Reporter,Arab Open University Lebanon,Lebanon,1754.00,13.3,14%,47:53:00
+Reporter,Arts University Bournemouth,United Kingdom,3310.00,14.1,21%,69:31:00
+Reporter,Antonio Nariño University,Colombia,13359.00,17.9,1%,53:47:00
+Reporter,University of the Arts London,United Kingdom,17930.00,12.8,60%,76:24:00
+Reporter,Arts University Plymouth,United Kingdom,1215.00,12.2,9%,72:28:00
+Reporter,Asahi University,Japan,2607.00,8.7,5%,33 : 67
+Reporter,Ashikaga University,Japan,1572.00,19.9,15%,25 : 75
+Reporter,Ashur University College,Iraq,1059.00,8.1,0%,59:41:00
+Reporter,Audencia,France,5838.00,38.7,31%,52:48:00
+Reporter,Augustine University,Nigeria,238.00,3.7,0%,40 : 60
+Reporter,Azerbaijan University of Architecture and Construction,Azerbaijan,9846.00,18.9,3%,0.970833333
+Reporter,Azerbaijan State University of Economics,Azerbaijan,17328.00,11.8,2%,51:49:00
+Reporter,Babcock University,Nigeria,12340.00,18.8,0%,53:47:00
+Reporter,Badr University in Cairo (BUC),Egypt,14021.00,20.7,2%,55:45:00
+Reporter,Bakrie University,Indonesia,3219.00,33.9,0%,57:43:00
+Reporter,"Balochistan University of Engineering and Technology, Khuzdar",Pakistan,2990.00,15,%,0.35625
+Reporter,"Bamidele Olumilua University of Education, Science and Technology, Ikere-Ikiti",Nigeria,4329.00,14.9,0%,60:40:00
+Reporter,Bandirma Onyedi Eylül University,Turkey,15473.00,47,7%,45:55:00
+Reporter,Bangabandhu Sheikh Mujibur Rahman Agricultural University,Bangladesh,1760.00,8.4,3%,53:47:00
+Reporter,Barawa International University,Somalia,13200.00,35.3,3%,33 : 67
+Reporter,Bartin University,Turkey,10317.00,23.7,9%,44:56:00
+Reporter,Bashkir State Medical University,,8118.00,9.7,23%,69:31:00
+Reporter,Basrah University College of Science and Technology,Iraq,2115.00,21.2,0%,46:54:00
+Reporter,Bath Spa University,United Kingdom,6555.00,17.7,11%,68:32:00
+Reporter,University of Batna 1,Algeria,32179.00,28.1,0%,64:36:00
+Reporter,Baze University,Nigeria,1790.00,5.2,0%,50:50:00
+Reporter,Belarusian State University of Informatics and Radioelectronics,,14082.00,16.2,4%,0.888888889
+Reporter,Bells University of Technology,Nigeria,1765.00,7.5,0%,27 : 73
+Reporter,University of Benghazi,Libya,76419.00,16.3,2%,58:42:00
+Reporter,Benson Idahosa University,Nigeria,3859.00,16.6,0%,50:50:00
+Reporter,Bernardo O’Higgins University,Chile,7554.00,18.1,4%,66:34:00
+Reporter,Beykent University,Turkey,22103.00,25.4,4%,47:53:00
+Reporter,Bilecik Şeyh Edebali University,Turkey,10434.00,18.2,8%,42:58:00
+Reporter,Biruni University,Turkey,5111.00,16.9,7%,72:28:00
+Reporter,Birzeit University,Palestine,11486.00,17.5,5%,63:37:00
+Reporter,University of Bisha,Saudi Arabia,13919.00,11.8,1%,66:34:00
+Reporter,Bishop Grosseteste University,United Kingdom,2010.00,21.2,4%,79:21:00
+Reporter,University of Bogotá Jorge Tadeo Lozano,Colombia,7704.00,18.6,1%,55:45:00
+Reporter,University of Bolton,United Kingdom,5400.00,14.6,33%,61:39:00
+Reporter,Botswana International University of Science and Technology (BIUST),Botswana,2006.00,11.4,1%,0.970833333
+Reporter,Bowen University,Nigeria,4161.00,12,0%,58:42:00
+Reporter,Buckinghamshire New University,United Kingdom,5290.00,17.3,32%,60:40:00
+Reporter,Buriram Rajabhat University,Thailand,11197.00,26.2,0%,53:47:00
+Reporter,Canadian International College (CIC) – Cairo,Egypt,9494.00,39.4,2%,32 : 68
+Reporter,Catholic University in Erbil,Iraq,152.00,3.6,0%,58:42:00
+Reporter,Universidad Católica de Colombia,Colombia,10671.00,27.2,0%,50:50:00
+Reporter,B. S. Abdur Rahman Crescent Institute of Science and Technology,India,7046.00,15.7,0%,24 : 76
+Reporter,Universidad Católica de Cuenca,Ecuador,16046.00,20.6,2%,57:43:00
+Reporter,Universidad Católica San Pablo,Peru,8793.00,32.5,0%,53:47:00
+Reporter,Cebu Technological University,Philippines,39726.00,33.3,0%,50:50:00
+Reporter,CECOS University of IT and Emerging Sciences,Pakistan,2405.00,13,0%,0.520138889
+Reporter,University of Celaya,Mexico,1993.00,14,2%,50:50:00
+Reporter,Central European University,Austria,1276.00,7.6,83%,55:45:00
+Reporter,University of Central Punjab,Pakistan,16948.00,32.8,0%,36 : 64
+Reporter,Centro Universitário de Jaguariúna,Brazil,9839.00,25.8,0%,58:42:00
+Reporter,Centro Universitário Max Planck,Brazil,5150.00,16,0%,61:39:00
+Reporter,CES University,Colombia,6348.00,13.5,3%,70:30:00
+Reporter,César Ritz Colleges Switzerland,Switzerland,547.00,4.8,99%,49:51:00
+Reporter,CETYS Universidad,Mexico,4960.00,9.6,13%,52:48:00
+Reporter,Chernihiv Polytechnic National University,Ukraine,5914.00,20.5,0%,42:58:00
+Reporter,University of Chichester,United Kingdom,4180.00,14.7,7%,62:38:00
+Reporter,Chitkara University,India,12895.00,15.5,3%,40 : 60
+Reporter,Christ University Bengaluru India,India,23637.00,20.2,2%,48:52:00
+Reporter,University of Civil Protection,,743.00,3.6,12%,0.479166667
+Reporter,Coal City University,Nigeria,461.00,4.8,0%,48:52:00
+Reporter,Conservatoire for Dance and Drama,United Kingdom,940.00,10.4,35%,70:30:00
+Reporter,University of Constantine 3,Algeria,14736.00,16.2,2%,73:27:00
+Reporter,Courtauld Institute of Art,United Kingdom,510.00,12.8,51%,82:18:00
+Reporter,Cranfield University,United Kingdom,3135.00,7.8,68%,30 : 70
+Reporter,Cihan University – Erbil,Iraq,4457.00,23.3,1%,43:57:00
+Reporter,University for the Creative Arts,United Kingdom,5345.00,18.8,35%,67:33:00
+Reporter,"City University of Science and Information Technology, Peshawar",Pakistan,4163.00,21.3,2%,0.684027778
+Reporter,Cross River University of Technology,Nigeria,18915.00,40.2,0%,36 : 64
+Reporter,University of Cumbria,United Kingdom,5275.00,15.7,10%,70:30:00
+Reporter,C.V. Raman Global University,India,6991.00,15.8,4%,29 : 71
+Reporter,Cyprus Health and Social Sciences University,Northern Cyprus,2354.00,35.1,75%,45:55:00
+Reporter,Daffodil International University (DIU),Bangladesh,16157.00,21.1,3%,34 : 66
+Reporter,Debre Tabor University,Ethiopia,8414.00,7.4,0%,41:59:00
+Reporter,Universidad del Sinú,Colombia,4350.00,25.6,0%,57:43:00
+Reporter,Delta University for Science and Technology,Egypt,8780.00,16.9,0%,48:52:00
+Reporter,Deraya University,Egypt,4275.00,18.9,0%,58:42:00
+Reporter,Derzhavin Tambov State University,,7985.00,15.1,33%,56:44:00
+Reporter,University for Development Studies,Ghana,20674.00,33.9,1%,41:59:00
+Reporter,Dhaka International University,Bangladesh,6033.00,29.9,8%,0.765972222
+Reporter,Dhofar University,Oman,3122.00,17.8,6%,56:44:00
+Reporter,Dhonburi Rajabhat University,Thailand,4210.00,16.1,1%,61:39:00
+Reporter,Dijlah University,Iraq,8864.00,28.5,0%,43:57:00
+Reporter,University of Diyala,Iraq,29461.00,17.9,0%,54:46:00
+Reporter,Denau Institute of Entrepreneurship and Pedagogy,Uzbekistan,5247.00,21.9,0%,63:37:00
+Reporter,Doğuş University,Turkey,9149.00,30.2,1%,40 : 60
+Reporter,Donetsk National University of Economics and Trade named after Mykhailo Tuhan-Baranovsky (DonNUET),Ukraine,1068.00,18.4,2%,60:40:00
+Reporter,Dostoevsky Omsk State University,,7355.00,13.2,6%,63:37:00
+Reporter,Dr. M.G.R. Educational and Research Institute,India,23097.00,13.3,0%,32 : 68
+Reporter,University of Dubai,United Arab Emirates,1147.00,27.3,24%,29 : 71
+Reporter,DHA Suffa University,Pakistan,1807.00,14.5,0%,0.684027778
+Reporter,University of Duhok,Iraq,23662.00,13.5,0%,52:48:00
+Reporter,EAN University,Colombia,10000.00,142.9,0%,n/a
+Reporter,Ebonyi State University,Nigeria,25204.00,27.5,0%,50:50:00
+Reporter,University of El Oued,Algeria,29028.00,33.1,0%,59:41:00
+Reporter,École Nationale Polytechnique,Algeria,1489.00,8.7,0%,46:54:00
+Reporter,École Polytechnique d’Architecture et d’Urbanisme,Algeria,1371.00,10.1,0%,69:31:00
+Reporter,Academy of Economic Studies of Moldova,Moldova,5525.00,25.3,1%,53:47:00
+Reporter,Edo State University Uzairue,Nigeria,1489.00,9.5,0%,52:48:00
+Reporter,"University of Education, Lahore",Pakistan,27105.00,33.1,0%,51:49:00
+Reporter,Effat University,Saudi Arabia,1067.00,9.4,26%,99:01:00
+Reporter,Egerton University,Kenya,20472.00,40.1,1%,43:57:00
+Reporter,Egyptian Russian University,Egypt,6237.00,13.6,2%,39 : 61
+Reporter,Egypt-Japan University of Science and Technology (E-JUST),Egypt,539.00,6.7,3%,33 : 67
+Reporter,"University of Engineering and Technology, Mardan",Pakistan,1208.00,21.6,1%,0.274305556
+Reporter,ESIC,Spain,6123.00,19.4,10%,46:54:00
+Reporter,Universidade Estadual de Goiás,Brazil,19519.00,15.4,0%,66:34:00
+Reporter,European University Cyprus,Cyprus,5229.00,19.4,49%,58:42:00
+Reporter,European University of Valencia,Spain,2169.00,8.8,50%,58:42:00
+Reporter,"Evangel University, Akaeze",Nigeria,987.00,5.7,0%,47:53:00
+Reporter,Externado University of Colombia,Colombia,12370.00,13,1%,58:42:00
+Reporter,Falmouth University,United Kingdom,4800.00,17.8,14%,57:43:00
+Reporter,Federal University Gashua,Nigeria,1091.00,3.3,0%,0.479166667
+Reporter,Federal University of Kashere,Nigeria,10121.00,21.4,0%,30 : 70
+Reporter,Federal University of Lafia,Nigeria,12456.00,22.8,0%,40 : 60
+Reporter,Federal University of Latin American Integration (UNILA),Brazil,4774.00,11.8,31%,50:50:00
+Reporter,"Federal University of Petroleum Resources, Effurun",Nigeria,7313.00,39.7,0%,0.765972222
+Reporter,"Federal University of Technology, Minna",Nigeria,24671.00,27.8,0%,25 : 75
+Reporter,"Federal University of Technology, Owerri",Nigeria,22610.00,18.7,0%,31 : 69
+Reporter,First Technical University,Nigeria,2442.00,29.1,0%,29 : 71
+Reporter,Fountain University,Nigeria,1420.00,18.9,0%,59:41:00
+Reporter,University of Franca,Brazil,50760.00,160.6,0%,57:43:00
+Reporter,Fukui Prefectural University,Japan,1772.00,10.9,1%,51:49:00
+Reporter,Fundação Oswaldo Cruz,Brazil,3699.00,n/a,%,n/a
+Reporter,Fundación Universitaria del Área Andina,Colombia,40193.00,35.9,0%,60:40:00
+Reporter,Future University in Egypt,Egypt,9066.00,10.7,10%,43:57:00
+Reporter,General Sir John Kotelawala Defence University,Sri Lanka,5136.00,21,2%,48:52:00
+Reporter,Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,Pakistan,2046.00,20.5,0%,0.479166667
+Reporter,GLA University,India,9680.00,17.2,0%,27 : 73
+Reporter,Fergana Polytechnic Institute,Uzbekistan,14812.00,23.6,0%,0.888888889
+Reporter,Glasgow School of Art,United Kingdom,2240.00,16,44%,67:33:00
+Reporter,University of Gloucestershire,United Kingdom,6605.00,17.2,11%,60:40:00
+Reporter,Gomel State Medical University,,3642.00,8.5,20%,66:34:00
+Reporter,Government College Women University Faisalabad,Pakistan,14424.00,56.3,0%,100:00:00
+Reporter,"Government College Women University, Sialkot",Pakistan,7023.00,34.8,0%,100:00:00
+Reporter,"The Graduate University for Advanced Studies, SOKENDAI",Japan,506.00,0.4,31%,29 : 71
+Reporter,Greenwich University,Pakistan,1261.00,15.6,3%,35 : 65
+Reporter,Gregory University Uturu,Nigeria,2025.00,7.3,0%,62:38:00
+Reporter,Grodno State Medical University,,4700.00,8.4,26%,71:29:00
+Reporter,Guildhall School of Music and Drama,United Kingdom,995.00,5.2,34%,50:50:00
+Reporter,Gulf College,Oman,2780.00,27.5,3%,40 : 60
+Reporter,Harper Adams University,United Kingdom,2195.00,13.3,11%,58:42:00
+Reporter,Hartpury University,United Kingdom,1655.00,23.6,10%,64:36:00
+Reporter,Hassiba Benbouali University of Chlef,Algeria,30121.00,22.3,1%,71:29:00
+Reporter,Hawler Medical University,Iraq,4152.00,7.2,1%,63:37:00
+Reporter,University of Health and Allied Sciences,Ghana,6445.00,23.5,0%,62:38:00
+Reporter,"University of Health Sciences, Turkey",Turkey,21322.00,9,5%,34 : 66
+Reporter,University of the Highlands and Islands,United Kingdom,7200.00,130.9,12%,61:39:00
+Reporter,Hindustan Institute of Technology and Science,India,6033.00,12.1,1%,36 : 64
+Reporter,Hiroshima Shudo University,Japan,4776.00,16.6,0%,39 : 61
+Reporter,Hiroshima Institute of Technology,Japan,4628.00,25.4,0%,0.479166667
+Reporter,Hitotsubashi University,Japan,6212.00,17,15%,32 : 68
+Reporter,Huachiew Chalermprakiet University,Thailand,7297.00,16,7%,79:21:00
+Reporter,University of Human Development,Iraq,2583.00,17.1,3%,49:51:00
+Reporter,Hyogo University of Teacher Education,Japan,1161.00,8,2%,68:32:00
+Reporter,IFHE Hyderabad,India,6931.00,20.3,0%,39 : 61
+Reporter,Ignatius Ajuru University of Education,Nigeria,29785.00,75.2,0%,49:51:00
+Reporter,Ilma University,Pakistan,4107.00,22.4,0%,0.929861111
+Reporter,IMT Mines Alès,France,1425.00,12.8,15%,31 : 69
+Reporter,Indira Gandhi Delhi Technical University for Women,India,3673.00,53.2,0%,100:00:00
+Reporter,Innopolis University,,823.00,15.8,32%,0.725
+Reporter,Institute of Cancer Research,United Kingdom,195.00,2.8,33%,62:38:00
+Reporter,International Christian University,Japan,2913.00,12.6,11%,61:39:00
+Reporter,International University of Rabat,Morocco,5830.00,33.3,2%,51:49:00
+Reporter,Ionian University,Greece,8169.00,41.9,3%,53:47:00
+Reporter,Ion Mincu University of Architecture and Urbanism,Romania,3173.00,12.8,4%,71:29:00
+Reporter,Islamia College Peshawar,Pakistan,6732.00,25.5,3%,27 : 73
+Reporter,The Islamic University,Iraq,4152.00,9.1,2%,70:30:00
+Reporter,Islamic University of Gaza,Palestine,17058.00,47,1%,60:40:00
+Reporter,Islamic University of Madinah,Saudi Arabia,11703.00,7.7,75%,0.233333333
+Reporter,Isra University,Jordan,4864.00,19.6,18%,54:46:00
+Reporter,Israel Technological University,Ecuador,3070.00,34.9,1%,42:58:00
+Reporter,Istanbul Aydın University,Turkey,27826.00,27.9,13%,51:49:00
+Reporter,Istanbul Gelişim University,Turkey,18774.00,23.4,15%,46:54:00
+Reporter,IUBAT – International University of Business Agriculture and Technology,Bangladesh,6435.00,22.1,1%,30 : 70
+Reporter,Universita IULM,Italy,7841.00,15.9,7%,72:28:00
+Reporter,Ivanovo State University,,2990.00,15.2,14%,66:34:00
+Reporter,Jabir ibn Hayyan Medical University,Iraq,1532.00,16.1,0%,58:42:00
+Reporter,Japan Advanced Institute of Science and Technology (JAIST),Japan,1218.00,7.8,42%,1.011805556
+Reporter,Jashore University of Science and Technology,Bangladesh,4741.00,20.1,0%,30 : 70
+Reporter,Jerash Private University,Jordan,3362.00,18,31%,38 : 62
+Reporter,University of Jijel,Algeria,21228.00,20.2,0%,63:37:00
+Reporter,University of Jos,Nigeria,37885.00,23.4,0%,45:55:00
+Reporter,Kabardino-Balkarian State University,,11201.00,19.6,13%,54:46:00
+Reporter,Kamianets-Podіlskyi Ivan Ohiienko National University,Ukraine,2944.00,7.8,0%,64:36:00
+Reporter,Kampala International University,Uganda,23800.00,7,30%,45:55:00
+Reporter,Karaganda University of Kazpotrebsoyuz,Kazakhstan,5076.00,13.3,1%,59:41:00
+Reporter,Karshi State University,Uzbekistan,13909.00,21,0%,63:37:00
+Reporter,Kastamonu University,Turkey,17597.00,41,15%,45:55:00
+Reporter,Kazakh National Pedagogical University Abai,Kazakhstan,13479.00,12.6,2%,61:39:00
+Reporter,Kazan State Power Engineering University,,9440.00,24.6,3%,33 : 67
+Reporter,University of Kelaniya,Sri Lanka,17082.00,17.1,3%,65:35:00
+Reporter,University of Kerbala,Iraq,20327.00,16.5,0%,55:45:00
+Reporter,Kermanshah University of Technology,Iran,2251.00,13.6,0%,38 : 62
+Reporter,Kharkiv University of Humanities “People’s Ukrainian Academy”,Ukraine,455.00,5.5,1%,81:19:00
+Reporter,Kadir Has University,Turkey,4896.00,23.5,3%,53:47:00
+Reporter,Khazar University,Azerbaijan,2610.00,11.3,7%,54:46:00
+Reporter,Khomein University of Medical Sciences,Iran,782.00,31.3,0%,48:52:00
+Reporter,Khulna University,Bangladesh,5921.00,11.8,0%,41:59:00
+Reporter,Khwaja Fareed University of Engineering and Information Technology,Pakistan,10713.00,21.6,0%,41:59:00
+Reporter,Khyber Medical University,Pakistan,4364.00,16.5,3%,40 : 60
+Reporter,Kings University,Nigeria,132.00,3.3,0%,42:58:00
+Reporter,University of Kirkuk,Iraq,22867.00,24.8,0%,52:48:00
+Reporter,Kitami Institute of Technology,Japan,1965.00,14.1,4%,0.602083333
+Reporter,Kobe City University of Foreign Studies,Japan,2287.00,15.3,4%,67:33:00
+Reporter,Kobe Gakuin University,Japan,11557.00,34.3,2%,38 : 62
+Reporter,Kocaeli Health and Technology University,Turkey,2784.00,31.6,4%,66:34:00
+Reporter,Kokshetau State University,Kazakhstan,7047.00,11.3,5%,65:35:00
+Reporter,Konan Women’s University,Japan,4416.00,24.7,1%,100:00:00
+Reporter,Konya Technical University,Turkey,13016.00,30.1,4%,26 : 74
+Reporter,KTO Karatay University,Turkey,8370.00,26.2,3%,58:42:00
+Reporter,Kyiv National Economic University,Ukraine,10585.00,9.4,2%,61:39:00
+Reporter,Kyoai Gakuen University,Japan,1089.00,19.4,4%,66:34:00
+Reporter,Kyrgyz-Turkish Manas University,Kyrgyzstan,5448.00,14.5,17%,72:28:00
+Reporter,University of Laghouat,Algeria,34345.00,35.2,0%,51:49:00
+Reporter,Lagos State University,Nigeria,28289.00,37.1,0%,50:50:00
+Reporter,Knowledge University,Iraq,2125.00,16.6,1%,47:53:00
+Reporter,University of Lampung,Indonesia,25782.00,19.9,0%,50:50:00
+Reporter,Landmark University,Nigeria,3429.00,13.4,0%,34 : 66
+Reporter,La Salle University,Colombia,9869.00,20.1,1%,55:45:00
+Reporter,University of Las Américas (UDLA),Ecuador,12767.00,13.7,1%,54:46:00
+Reporter,Leeds Arts University,United Kingdom,2065.00,15.3,12%,76:24:00
+Reporter,Leeds Conservatoire,United Kingdom,1260.00,19.4,12%,33 : 67
+Reporter,Leeds Trinity University,United Kingdom,3230.00,24.8,9%,65:35:00
+Reporter,Koya University,Iraq,4536.00,9.4,1%,50:50:00
+Reporter,Lesya Ukrainka Volyn National University,Ukraine,8039.00,10.1,1%,68:32:00
+Reporter,University of Liberal Arts Bangladesh,Bangladesh,4475.00,20.2,0%,49:51:00
+Reporter,Liverpool Hope University,United Kingdom,4025.00,15.2,13%,67:33:00
+Reporter,Liverpool Institute for Performing Arts,United Kingdom,865.00,17.3,23%,57:43:00
+Reporter,Liverpool School of Tropical Medicine,United Kingdom,210.00,2.2,39%,65:35:00
+Reporter,The LNM Institute of Information Technology,India,2136.00,22.3,0%,0.765972222
+Reporter,Loei Rajabhat University,Thailand,7433.00,19.6,0%,70:30:00
+Reporter,London Business School,United Kingdom,1995.00,18.1,91%,38 : 62
+Reporter,London School of Hygiene and Tropical Medicine,United Kingdom,825.00,1.8,62%,70:30:00
+Reporter,London Metropolitan University,United Kingdom,8260.00,21.5,45%,66:34:00
+Reporter,University of Los Lagos,Chile,5567.00,16.6,0%,58:42:00
+Reporter,Universidad Loyola,Spain,3319.00,13.3,4%,65:35:00
+Reporter,Malawi University of Science and Technology (MUST),Malawi,2356.00,12.3,0%,28 : 72
+Reporter,Management Development Institute (MDI),India,982.00,12.8,0%,0.929861111
+Reporter,Marian College Kuttikkanam (Autonomous),India,1755.00,17,0%,52:48:00
+Reporter,Maritime University of Szczecin,Poland,2559.00,24.7,13%,26 : 74
+Reporter,University of Mascara,Algeria,21682.00,12,0%,61:39:00
+Reporter,Universidad Mayor,Chile,20330.00,11,2%,57:43:00
+Reporter,University of Medellín,Colombia,9371.00,17.6,2%,54:46:00
+Reporter,Meikai University,Japan,4326.00,16.1,17%,43:57:00
+Reporter,Michael and Cecilia Ibru University,Nigeria,405.00,6.9,0%,41:59:00
+Reporter,"Michael Okpara University of Agriculture, Umudike",Nigeria,23198.00,21.7,0%,41:59:00
+Reporter,Middle Technical University,Iraq,37101.00,26.7,0%,45:55:00
+Reporter,Mindanao State University – Iligan Institute of Technology,Philippines,9348.00,18.6,0%,60:40:00
+Reporter,MIOTI Tech and Business School,Spain,115.00,38.3,9%,31 : 69
+Reporter,Mirpur University of Science and Technology,Pakistan,7544.00,19.8,0%,44:56:00
+Reporter,University of Misan,Iraq,11855.00,15,0%,51:49:00
+Reporter,Misr University for Science and Technology,Egypt,24742.00,18.8,6%,47:53:00
+Reporter,Mahatma Jyotiba Phule Rohilkhand University,India,3999.00,20.1,0%,31 : 69
+Reporter,M. Kumarasamy College of Engineering,India,3772.00,11.7,0%,27 : 73
+Reporter,"MNS University of Agriculture, Multan",Pakistan,3266.00,23.5,0%,0.970833333
+Reporter,Modern University for Business and Science,Lebanon,1896.00,16.9,31%,47:53:00
+Reporter,Université Mohamed El Bachir El Ibrahimi de Bordj Bou Arréridj,Algeria,18000.00,30.9,0%,100:00:00
+Reporter,Universidad Monteávila,Venezuela,1054.00,5.7,0%,71:29:00
+Reporter,University of Monterrey,Mexico,10814.00,31.2,1%,61:39:00
+Reporter,Moscow Pedagogical State University,,16779.00,18.7,13%,74:26:00
+Reporter,Russian Biotechnological University (BIOTECH),,5103.00,9.4,9%,59:41:00
+Reporter,Moscow State Linguistic University,,6173.00,6.5,7%,74:26:00
+Reporter,October University for Modern Sciences and Arts (MSA),Egypt,12444.00,11.4,2%,50:50:00
+Reporter,Muban Chombueng Rajabhat University,Thailand,4951.00,17.9,0%,62:38:00
+Reporter,Mukogawa Women’s University,Japan,8394.00,26.4,0%,100:00:00
+Reporter,Mulungushi University,Zambia,6988.00,54.6,0%,41:59:00
+Reporter,Mutah University,Jordan,11486.00,16.1,15%,46:54:00
+Reporter,Universidad Nacional de Chimborazo,Ecuador,8478.00,14.7,1%,57:43:00
+Reporter,Universidad Nacional de Itapúa,Paraguay,5595.00,5.3,0%,59:41:00
+Reporter,Nagoya University of Commerce & Business,Japan,3549.00,29.9,8%,25 : 75
+Reporter,Najran University,Saudi Arabia,17967.00,16.9,1%,69:31:00
+Reporter,Nakhchivan State University,Azerbaijan,7620.00,14.1,20%,46:54:00
+Reporter,Namangan Engineering Construction Institute,Uzbekistan,3881.00,11.8,0%,0.806944444
+Reporter,Namangan Institute of Engineering and Technology,Uzbekistan,5784.00,18.1,0%,0.929861111
+Reporter,Namangan State University,Uzbekistan,20636.00,31.9,0%,66:34:00
+Reporter,Nara Institute of Science and Technology,Japan,1043.00,5.1,24%,1.011805556
+Reporter,Nara Women’s University,Japan,2612.00,6.2,5%,100:00:00
+Reporter,National Aviation University,Ukraine,14239.00,10.9,5%,39 : 61
+Reporter,National University of Computer and Emerging Sciences,Pakistan,8291.00,14.8,2%,0.970833333
+Reporter,National Film and Television School,United Kingdom,395.00,7.2,42%,50:50:00
+Reporter,National University of Medical Sciences (NUMS),Pakistan,1654.00,5,0%,72:28:00
+Reporter,National University of Mongolia,Mongolia,18647.00,26.5,2%,60:40:00
+Reporter,National University Odessa Law Academy,Ukraine,10503.00,17.7,1%,60:40:00
+Reporter,The National University of Ostroh Academy,Ukraine,3432.00,8.8,1%,57:43:00
+Reporter,National Polytechnic University of Armenia,Armenia,5742.00,8.7,2%,0.888888889
+Reporter,National University of Quilmes,Argentina,33703.00,27.3,2%,57:43:00
+Reporter,"National University of Science and Technology, Oman",Oman,3986.00,18.8,14%,63:37:00
+Reporter,"National University, Sudan",Sudan,5132.00,12.3,6%,60:40:00
+Reporter,National Taichung University of Science and Technology,Taiwan,15512.00,14.9,1%,70:30:00
+Reporter,National Transport University,Ukraine,7262.00,11.5,2%,31 : 69
+Reporter,National University of Water and Environmental Engineering,Ukraine,4344.00,9.8,3%,34 : 66
+Reporter,National University “Yuri Kondratyuk Poltava Polytechnic”,Ukraine,5067.00,8.1,10%,49:51:00
+Reporter,Navoi State Pedagogical Institute,Uzbekistan,12791.00,26.4,0%,72:28:00
+Reporter,Universitas Negeri Surabaya,Indonesia,29840.00,24.5,0%,64:36:00
+Reporter,Newman University,United Kingdom,2325.00,17.9,12%,76:24:00
+Reporter,Niger Delta University,Nigeria,20608.00,25.9,0%,45:55:00
+Reporter,"Nigerian Police Academy, Wudil",Nigeria,3087.00,21.9,0%,0.725
+Reporter,Nihon Pharmaceutical University,Japan,1618.00,18.4,4%,48:52:00
+Reporter,Niigata University of Health and Welfare,Japan,4410.00,17.2,0%,51:49:00
+Reporter,University of Niigata Prefecture,Japan,1196.00,14.8,1%,76:24:00
+Reporter,Nile University,Egypt,2168.00,14.4,2%,28 : 72
+Reporter,Ninevah University,Iraq,3707.00,13.6,0%,42:58:00
+Reporter,Nitte (Deemed to be University),India,4408.00,7.7,1%,65:35:00
+Reporter,University of Northampton,United Kingdom,9945.00,16.9,33%,64:36:00
+Reporter,Northeast Ohio Medical University,United States,955.00,11.8,0%,54:46:00
+Reporter,Northern Technical University,Iraq,21400.00,27.5,0%,48:52:00
+Reporter,Norwich University of the Arts,United Kingdom,2290.00,15.8,13%,61:39:00
+Reporter,University of Nova Gorica,Slovenia,416.00,3.5,54%,48:52:00
+Reporter,Novena University,Nigeria,1981.00,25.4,0%,42:58:00
+Reporter,Novosibirsk State University of Economics and Management,,3717.00,8.4,16%,72:28:00
+Reporter,Nursing School of Coimbra,Portugal,2138.00,23,7%,85:15:00
+Reporter,October 6 University,Egypt,25927.00,20.8,3%,49:51:00
+Reporter,Oguz Han Engineering and Technology University of Turkmenistan,Turkmenistan,2223.00,13.2,0%,52:48:00
+Reporter,Olusegun Agagu University of Science and Technology,Nigeria,6474.00,29.4,0%,28 : 72
+Reporter,Omsk State Agrarian University,,4838.00,18.1,13%,55:45:00
+Reporter,Orel State Agrarian University named after N.V. Parahin,,1769.00,11.6,16%,42:58:00
+Reporter,Orel State University named after I.S. Turgenev,,11549.00,13.3,15%,56:44:00
+Reporter,ORT Uruguay University,Uruguay,4151.00,6.7,2%,47:53:00
+Reporter,Ostrogradsky National University of Kremenchuk,Ukraine,4106.00,11.8,0%,38 : 62
+Reporter,Palestine Polytechnic University,Palestine,4812.00,27,3%,55:45:00
+Reporter,Palestine Technical University – Kadoorie,Palestine,7013.00,18.3,4%,59:41:00
+Reporter,Panteion University of Social and Political Sciences,Greece,12615.00,62.5,2%,52:48:00
+Reporter,Paris University of International Education,France,445.00,29.7,100%,32 : 68
+Reporter,Pavlo Tychyna Uman State Pedagogical University,Ukraine,9149.00,17.5,2%,32 : 68
+Reporter,University of Petra,Jordan,6538.00,19.9,21%,57:43:00
+Reporter,Pharos University,Egypt,11106.00,14.1,6%,49:51:00
+Reporter,University of Phayao,Thailand,18057.00,20.7,0%,68:32:00
+Reporter,Philadelphia University (Jordan),Jordan,3615.00,20.1,36%,41:59:00
+Reporter,Plymouth Marjon University,United Kingdom,1845.00,18.5,3%,61:39:00
+Reporter,Polytechnic University of Tirana,Albania,8591.00,16.2,2%,n/a
+Reporter,Poltava V.G. Korolenko National Pedagogical University (PNPU),Ukraine,3812.00,5.8,0%,51:49:00
+Reporter,Polytechnic Institute of Setúbal,Portugal,7829.00,17.3,6%,54:46:00
+Reporter,Universidad Popular Autónoma del Estado de Puebla,Mexico,11279.00,16.1,1%,60:40:00
+Reporter,Prefectural University of Hiroshima,Japan,2623.00,12.3,2%,65:35:00
+Reporter,Prince Sultan University (PSU),Saudi Arabia,4772.00,19.4,15%,56:44:00
+Reporter,"University of Professional Studies, Accra",Ghana,14017.00,39.8,0%,46:54:00
+Reporter,University of Puthisastra,Cambodia,1649.00,2.9,0%,55:45:00
+Reporter,Queen Margaret University,United Kingdom,3905.00,20.6,31%,77:23:00
+Reporter,Rajamangala University of Technology Isan,Thailand,24166.00,9.5,0%,46:54:00
+Reporter,Ravensbourne,United Kingdom,2375.00,22.6,30%,50:50:00
+Reporter,Rawalpindi Medical University,Pakistan,3304.00,8.4,1%,69:31:00
+Reporter,Rennes School of Business,France,3098.00,31.3,33%,50:50:00
+Reporter,REVA University,India,13467.00,21.3,1%,33 : 67
+Reporter,Rose Bruford College,United Kingdom,655.00,18.7,18%,60:40:00
+Reporter,Rostov State University of Economics,,20142.00,24.5,3%,68:32:00
+Reporter,Royal Agricultural University,United Kingdom,1015.00,20.3,14%,51:49:00
+Reporter,"Royal Central School of Speech and Drama, University of London",United Kingdom,1035.00,15.9,36%,68:32:00
+Reporter,Royal College of Art,United Kingdom,2405.00,20.9,77%,69:31:00
+Reporter,Royal Conservatoire of Scotland,United Kingdom,1190.00,10.8,38%,57:43:00
+Reporter,Royal Academy of Music,United Kingdom,830.00,9.8,47%,49:51:00
+Reporter,Royal College of Music,United Kingdom,860.00,10.8,57%,52:48:00
+Reporter,Royal Northern College of Music,United Kingdom,870.00,10.9,33%,50:50:00
+Reporter,Russian State Agrarian University – Moscow Timiryazev Agricultural Academy,,10763.00,13.4,5%,50:50:00
+Reporter,Russian State University for the Humanities,,17032.00,23.1,4%,67:33:00
+Reporter,Russian University of State for Social (RUSS),,12359.00,28.2,6%,64:36:00
+Reporter,Ryazan State Medical University,,7003.00,11.9,16%,66:34:00
+Reporter,University of Sadat City,Egypt,30141.00,34.4,4%,54:46:00
+Reporter,University of Saint Joseph,Macao,1141.00,10.7,24%,62:38:00
+Reporter,Saint Petersburg State Pediatric Medical University,,4894.00,9.7,11%,73:27:00
+Reporter,Sakon Nakhon Rajabhat University,Thailand,9328.00,20.1,0%,64:36:00
+Reporter,Salahaddin University,Iraq,25189.00,10.7,1%,55:45:00
+Reporter,Salem University,Nigeria,513.00,3.9,1%,40 : 60
+Reporter,Samara State University of Economics,,4771.00,24.5,3%,58:42:00
+Reporter,Samara State Medical University,,7097.00,9.4,8%,71:29:00
+Reporter,Samarkand State University,Uzbekistan,15754.00,17.2,0%,50:50:00
+Reporter,Samarkand State Institute of Foreign Languages,Uzbekistan,5010.00,10.9,0%,74:26:00
+Reporter,Samuel Adegboyega University,Nigeria,390.00,5.4,0%,51:49:00
+Reporter,Universidad San Ignacio de Loyola,Peru,21556.00,35.9,1%,51:49:00
+Reporter,University of San Martín de Porres,Peru,40234.00,18,0%,61:39:00
+Reporter,University of Santo Tomas,Philippines,26511.00,13.3,7%,51:49:00
+Reporter,Satya Wacana Christian University,Indonesia,16132.00,35.5,0%,45:55:00
+Reporter,Saudi Electronic University,Saudi Arabia,21756.00,24.3,6%,48:52:00
+Reporter,SBS Swiss Business School,Switzerland,1644.00,10.3,57%,42:58:00
+Reporter,University of Science and Technology of Southern Philippines (USTP),Philippines,9222.00,32.5,0%,60:40:00
+Reporter,Sefako Makgatho Health Sciences University,South Africa,6306.00,9.9,1%,62:38:00
+Reporter,Senshu University,Japan,17933.00,23,3%,35 : 65
+Reporter,Shaheed Benazir Bhutto Women University Peshawar,Pakistan,5677.00,38.6,0%,100:00:00
+Reporter,Shaheed Zulfiqar Ali Bhutto Medical University,Pakistan,4803.00,8.6,1%,55:45:00
+Reporter,The University of Shiga Prefecture,Japan,2853.00,14.1,1%,49:51:00
+Reporter,Shonan Institute of Technology,Japan,2234.00,29.4,9%,0.35625
+Reporter,Samarkand State Medical University,Uzbekistan,7200.00,10.2,1%,41:59:00
+Reporter,Shri Mata Vaishno Devi University,India,1805.00,15,0%,40 : 60
+Reporter,Sikkim Manipal University,India,3013.00,10.5,2%,31 : 69
+Reporter,Silesian University in Opava,Czech Republic,5322.00,20.4,6%,71:29:00
+Reporter,Simón Bolívar University,Venezuela,4462.00,10.5,0%,43:57:00
+Reporter,Simón Bolívar University (Colombia),Colombia,18482.00,18.2,1%,60:40:00
+Reporter,Sir Syed University of Engineering and Technology,Pakistan,5879.00,14.1,0%,0.643055556
+Reporter,Sokoto State University,Nigeria,8244.00,23.8,0%,25 : 75
+Reporter,"Solent University, Southampton",United Kingdom,8640.00,16.1,30%,45:55:00
+Reporter,University of Sopron,Hungary,2847.00,14.9,3%,63:37:00
+Reporter,Soran University,Iraq,4596.00,9.5,0%,50:50:00
+Reporter,University of South Santa Catarina (Unisul),Brazil,16602.00,18.8,0%,52:48:00
+Reporter,SR University,India,3238.00,13.1,0%,49:51:00
+Reporter,Sri Balaji Vidyapeeth,India,3850.00,7.4,1%,53:47:00
+Reporter,University of Sri Jayewardenepura,Sri Lanka,17069.00,23.4,0%,62:38:00
+Reporter,Sri Lanka Institute of Information Technology,Sri Lanka,11151.00,38.7,0%,37 : 63
+Reporter,Sri Padmavati Mahila Visvavidyalayam (Women's University),India,5475.00,19.6,6%,83:17:00
+Reporter,State University of Bahia,Brazil,20384.00,10.2,0%,67:33:00
+Reporter,State Energy Institute of Turkmenistan,Turkmenistan,2134.00,11.5,2%,28 : 72
+Reporter,State University of Land Use Planning,,4202.00,13.4,5%,51:49:00
+Reporter,"St Mary’s University College, Belfast",United Kingdom,915.00,22.9,48%,74:26:00
+Reporter,"St Mary’s University, Twickenham",United Kingdom,4740.00,18.2,25%,54:46:00
+Reporter,Stranmillis University College,United Kingdom,1060.00,23.6,18%,79:21:00
+Reporter,Suez University,Egypt,18010.00,21.8,2%,55:45:00
+Reporter,University of Suffolk,United Kingdom,3245.00,16.6,14%,71:29:00
+Reporter,Sugiyama Jogakuen University,Japan,6064.00,29.4,0%,100:00:00
+Reporter,Sulaimani Polytechnic University,Iraq,3762.00,11.4,0%,50:50:00
+Reporter,Suratthani Rajabhat University,Thailand,12086.00,24.6,0%,71:29:00
+Reporter,Széchenyi István University,Hungary,9299.00,14.7,5%,43:57:00
+Reporter,Tafila Technical University,Jordan,4094.00,21.9,1%,43:57:00
+Reporter,University of Taipei,Taiwan,7988.00,17.6,2%,60:40:00
+Reporter,Tama Art University,Japan,4719.00,32.8,11%,73:27:00
+Reporter,Tarlac Agricultural University,Philippines,5351.00,24.3,0%,56:44:00
+Reporter,Tarsus University,Turkey,2556.00,27.8,2%,42:58:00
+Reporter,Tashkent Institute of Finance,Uzbekistan,8370.00,21.2,1%,29 : 71
+Reporter,Tashkent University of Information Technologies,Uzbekistan,14404.00,15.5,0%,0.970833333
+Reporter,Tashkent Institute of Irrigation and Agricultural Mechanisation,Uzbekistan,5750.00,7.1,5%,24 : 76
+Reporter,Tashkent Medical Academy,Uzbekistan,6495.00,8.8,2%,42:58:00
+Reporter,Tashkent Pediatric Medical Institute,Uzbekistan,5704.00,10.1,1%,50:50:00
+Reporter,Tashkent Pharmaceutical Institute,Uzbekistan,3313.00,12.2,13%,64:36:00
+Reporter,Tashkent State Agrarian University,Uzbekistan,11560.00,13.5,0%,51:49:00
+Reporter,Tashkent State Dental Institute,Uzbekistan,4609.00,8.9,3%,52:48:00
+Reporter,Tashkent State University of Law,Uzbekistan,4819.00,10.6,1%,27 : 73
+Reporter,Université Sultan Moulay Slimane,Morocco,31042.00,50,0%,51:49:00
+Reporter,Tashkent State University of Oriental Studies,Uzbekistan,4291.00,16.1,1%,51:49:00
+Reporter,Tashkent State Technical University,Uzbekistan,14591.00,14.2,0%,0.765972222
+Reporter,Tashkent State Transport University,Uzbekistan,17319.00,24.9,0%,0.438194444
+Reporter,Tashkent Institute of Textile and Light Industry,Uzbekistan,4266.00,11.7,0%,40 : 60
+Reporter,Tatung University,Taiwan,4036.00,19.6,3%,39 : 61
+Reporter,Tecmilenio University,Mexico,2932.00,16.5,1%,45:55:00
+Reporter,Tecnológico de Costa Rica,Costa Rica,10651.00,13.8,2%,35 : 65
+Reporter,Instituto Tecnológico Metropolitano,Colombia,25333.00,28.6,0%,44:56:00
+Reporter,Institut Teknologi Nasional Bandung (ITENAS Bandung),Indonesia,5548.00,23,0%,27 : 73
+Reporter,University of Telafer,Iraq,1456.00,30.3,0%,44:56:00
+Reporter,Tenri University,Japan,3147.00,22.5,5%,34 : 66
+Reporter,Termez State University,Uzbekistan,25070.00,35.7,1%,49:51:00
+Reporter,Termez Institute of Engineering and Technology,Uzbekistan,4296.00,36.7,0%,0.684027778
+Reporter,Tikrit University,Iraq,36905.00,13.1,0%,36 : 64
+Reporter,Tokyo University of Foreign Studies,Japan,4413.00,17.9,11%,66:34:00
+Reporter,Tashkent State University of Economics,Uzbekistan,8304.00,14.2,1%,27 : 73
+Reporter,Tomsk State Pedagogical University,,5032.00,19.8,6%,80:20:00
+Reporter,Toyama Prefectural University,Japan,1630.00,8.2,2%,26 : 74
+Reporter,Trinity Laban Conservatoire of Music and Dance,United Kingdom,1180.00,9.8,31%,67:33:00
+Reporter,Turin Polytechnic University in Tashkent,Uzbekistan,1752.00,18.8,4%,0.602083333
+Reporter,Ubon Ratchathani University,Thailand,15717.00,22.1,0%,67:33:00
+Reporter,UBT,Kosovo,9757.00,15.5,4%,45:55:00
+Reporter,UIN Sulthan Thaha Saifuddin Jambi,Indonesia,16859.00,47.5,1%,56:44:00
+Reporter,Umaru Musa Yar’adua University,Nigeria,10334.00,20.3,0%,27 : 73
+Reporter,Unichristus,Brazil,5497.00,15.4,0%,67:33:00
+Reporter,United International University,Bangladesh,4632.00,21.4,1%,30 : 70
+Reporter,Universidad del Pacífico Ecuador,Ecuador,651.00,13.9,2%,58:42:00
+Reporter,University College of Osteopathy,United Kingdom,390.00,11.1,28%,55:45:00
+Reporter,Institute of Telecommunications and Informatics of Turkmenistan,Turkmenistan,2900.00,9.7,0%,24 : 76
+Reporter,UNNOBA,Argentina,8614.00,12.4,2%,58:42:00
+Reporter,Ural State Medical University,,7067.00,11.9,5%,75:25:00
+Reporter,Urgench State University,Uzbekistan,22548.00,21.3,5%,58:42:00
+Reporter,Üsküdar University,Turkey,22967.00,43.3,11%,64:36:00
+Reporter,"Usmanu Danfodiyo University, Sokoto",Nigeria,24553.00,19.1,0%,31 : 69
+Reporter,Universidad UTE,Ecuador,10628.00,19,1%,48:52:00
+Reporter,University of Uyo,Nigeria,18911.00,30.4,0%,42:58:00
+Reporter,National University of Uzbekistan named after Mirzo Ulugbek,Uzbekistan,21785.00,16.4,1%,50:50:00
+Reporter,Valahia University of Targoviste,Romania,5551.00,20.6,1%,46:54:00
+Reporter,University of Vale do Itajaí,Brazil,9018.00,18,1%,58:42:00
+Reporter,Varendra University,Bangladesh,4213.00,28.3,0%,36 : 64
+Reporter,Varna University of Management,Bulgaria,618.00,19.3,33%,48:52:00
+Reporter,"Veritas University, Abuja",Nigeria,3291.00,13.2,2%,56:44:00
+Reporter,University of Veterinary Medicine and Pharmacy in Košice,Slovakia,1717.00,7.2,40%,83:17:00
+Reporter,Vila Velha University,Brazil,4902.00,18.5,1%,59:41:00
+Reporter,Virtual University of Tunis,Tunisia,2048.00,43.6,1%,n/a
+Reporter,Visayas State University,Philippines,6163.00,13.8,0%,59:41:00
+Reporter,Vitebsk State Medical University,,4939.00,7.1,29%,68:32:00
+Reporter,Volgograd State University,,6277.00,10.9,4%,48:52:00
+Reporter,University of Wales Trinity Saint David,United Kingdom,9280.00,19.7,25%,59:41:00
+Reporter,​Wellspring University,Nigeria,313.00,12.5,0%,67:33:00
+Reporter,Western Caspian University,Azerbaijan,3245.00,7.7,5%,59:41:00
+Reporter,University of West London,United Kingdom,9510.00,15.9,42%,60:40:00
+Reporter,West Ukrainian National University,Ukraine,9408.00,13.7,3%,42:58:00
+Reporter,West Virginia University,United States,25500.00,18.4,5%,52:48:00
+Reporter,WHU: Beisheim,Germany,1664.00,29.7,29%,32 : 68
+Reporter,University of Worcester,United Kingdom,7400.00,16.8,13%,69:31:00
+Reporter,Uzhhorod National University,Ukraine,14836.00,11.5,11%,55:45:00
+Reporter,The World Islamic Sciences and Education University (WISE),Jordan,7157.00,24.9,12%,62:38:00
+Reporter,Wrexham Glyndwr University,United Kingdom,3520.00,22,14%,61:39:00
+Reporter,Writtle University College,United Kingdom,655.00,7.7,10%,79:21:00
+Reporter,WSB Academy,Poland,4346.00,6.2,33%,49:51:00
+Reporter,Yagshigeldi Kakayev International University of Oil and Gas,Turkmenistan,4545.00,9.8,1%,30 : 70
+Reporter,Yamaguchi Prefectural University,Japan,1363.00,12.7,2%,86:14:00
+Reporter,Yanka Kupala State University of Grodno,,11250.00,15.8,9%,58:42:00
+Reporter,Yogyakarta State University,Indonesia,23685.00,18.5,1%,59:41:00
+Reporter,York St John University,United Kingdom,6315.00,18.6,12%,65:35:00
+Reporter,"Yusuf Maitama Sule University, Kano",Nigeria,12880.00,33,0%,48:52:00
+Reporter,Zhytomyr Polytechnic State University,Ukraine,3869.00,15.4,1%,34 : 66
+Reporter,Ziauddin University,Pakistan,4906.00,8.8,1%,63:37:00
+Reporter,Zarqa University,Jordan,5768.00,18.1,32%,47:53:00
